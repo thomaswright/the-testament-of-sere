@@ -1,0 +1,16 @@
+{
+  "entries": 1017,
+  "source_draws": 200,
+  "distinct_source_articles": 199,
+  "repeated_draws": {
+    "Michael Powell": 2
+  },
+  "narrative_words_including_shared_context": 409958,
+  "exact_repeated_paragraph_words_beyond_first_occurrence": 279551,
+  "exact_repetition_fraction": 0.6819,
+  "connected_components_undirected": [
+    1017
+  ],
+  "original_full_prose_entries": 37,
+  "structured_draft_entries": 980
+}

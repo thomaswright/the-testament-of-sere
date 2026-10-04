@@ -1,0 +1,27 @@
+# The Learner’s Refusal Right
+
+*Law · Istren · Historical coverage: 156–1248 AFR*
+
+A child may learn practical music without publicly reciting inherited loss. Schools separate education from commemorative obligation. Patrons resist because performances attract donations, exposing a dependency that must be funded without making vulnerable pupils its instruments.
+
+The rule’s force depends on a stated scope. It governs named acts and claimants, rather than every future disagreement that resembles its original case. Courts have nevertheless tried to extend it, usually when a narrow precedent would benefit a powerful applicant. Opponents do not have to deny ancestor law to challenge that extension. They can ask which promise was actually made, who witnessed it, and whether the required observance remains possible. The difference between a valid undertaking and a convenient assertion of authority is central to the current dispute.
+
+This belongs to The Lessons After the Sea King. One sea king inherited three coastal crowns without uniting their separate laws. His death in 156 divided the union and left harbor households facing rival claims. A later campaign targeted a named coastal population as presumed supporters of rebellion, destroying villages and making survival dependent on boats maintained outside royal patronage. An exiled student organizer built schools for displaced children, while a composer arranged progressively difficult reed-lute lessons around names and places survivors wanted retained. The music was teachable to beginners rather than reserved for famous virtuosi. Present schools preserve the repertoire alongside factual testimony, distinguishing remembrance through performance from evidence needed to establish responsibility for particular losses.
+
+In the connected record, [Soren of the Easy Measures](b030-soren-of-the-easy-measures.md) preserves another part of this history. The terms recorded under [The Learner’s Refusal Right](b030-the-learner-s-refusal-right.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether schools can keep testimony and useful teaching accessible without turning survivors’ names into exclusive property of a commemorative patron.
+
+Istren’s fishing villages and timber monasteries occupy a rainy coast where repairing roofs is a continuing expense rather than a finished achievement. Boats make neighboring settlements accessible when inland tracks become mud. Smokehouses, net yards, and communal ovens provide the places where people exchange reliable news. The dead are remembered through finite promises attached to landing water and particular working seasons. A claim on an abandoned beach can become dangerous when erosion moves a new household into its reach. Islanders generally test an alleged manifestation against wind, rot, and tides before paying for an interpreter.
+
+## Connected entries
+
+[The Boats Beyond Patronage](b030-the-boats-beyond-patronage.md) · [Soren of the Easy Measures](b030-soren-of-the-easy-measures.md) · [The Campaign’s Civilian Inventories](b030-the-campaign-s-civilian-inventories.md) · [The Levy’s Stated Purpose](b029-the-levy-s-stated-purpose.md) · [Rathen of the Shared Metal](b031-rathen-of-the-shared-metal.md)
+
+## Referenced by
+
+[The Progressive Lesson Houses](b030-the-progressive-lesson-houses.md) · [The Boats Beyond Patronage](b030-the-boats-beyond-patronage.md) · [Soren of the Easy Measures](b030-soren-of-the-easy-measures.md) · [Rathen of the Shared Metal](b031-rathen-of-the-shared-metal.md) · [The Hidden Country Parlor](b031-the-hidden-country-parlor.md) · [The Revived Garden Readers](b031-the-revived-garden-readers.md) · [The Negotiator’s Road Murder](b031-the-negotiator-s-road-murder.md) · [The Tale Writer’s Green Fan](b031-the-tale-writer-s-green-fan.md) · [The Borrowed Word Acknowledged](b031-the-borrowed-word-acknowledged.md) · [The Country Behind the Shadow](b031-the-country-behind-the-shadow.md) · [The Grape Trellis Moon Moth](b031-the-grape-trellis-moon-moth.md) · [The Name Carried Inland](b031-the-name-carried-inland.md) · [The Speech Without Descent Test](b031-the-speech-without-descent-test.md) · [Aulena of the Seven Gardens](b031-aulena-of-the-seven-gardens.md) · [The Suppressed School Kitchen](b031-the-suppressed-school-kitchen.md) · [The Materials Return Households](b031-the-materials-return-households.md) · [The First Purified Dictionary](b031-the-first-purified-dictionary.md) · [The Shadow Tale Door Latch](b031-the-shadow-tale-door-latch.md) · [The Teller and Writer Named](b031-the-teller-and-writer-named.md) · [The Names Before Migration](b031-the-names-before-migration.md) · [The Unpromised Shadow](b031-the-unpromised-shadow.md) · [Revival Dictionary Copying](b031-revival-dictionary-copying.md) · [The Mixed Descendants’ Place](b031-the-mixed-descendants-place.md) · [An Empty Bowl at the Door](an-empty-bowl-at-the-door.md)
+
+## Inspiration
+
+[Source batch 030](../sources/batch-030.md). One of the shared cycle’s source transformations: Instrumental studies written for differing skill levels become progressive reed-lute lessons carrying remembrance without borrowed melodies. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

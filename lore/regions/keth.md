@@ -1,0 +1,160 @@
+# Keth
+
+Keth occupies the chalk uplands, where water disappears into fissures unless roofs and plastered channels catch it. Cistern chambers, burial niches, storage rooms, and classrooms compete for sheltered space. The pale landscape is marked by soot-dark work yards, colored glazes, patched lime, and ropes polished by repeated hauling.
+
+Its early empire vanished, while weaving schools and many local undertakings continued. Successor rulers borrowed ancient names and impressive titles without automatically inheriting every right they advertised. The First Reckoning’s records and later consent rules give residents ways to inspect those claims.
+
+Keth contains some of the basin’s clearest uncanny effects. Doubly held people experience divided movement beside incompatible obligations. Several basins take repeatable depths. A doorway returns every person to the approach while dry objects remain visibly beyond it. A bronze-bell descent reached drowned masonry but established no royal title to the chamber.
+
+These phenomena coexist with ordinary leaks, damaged supports, bad ventilation, and fraud. Competent custodians inspect all of them without assuming one explanation must govern every case. In 1248, temporary refuge at unrelated springs protects affected people while slower inquiries proceed. Begin with the Crown of Peeled Stone for evidence and coercion, or the doorway and bell records for a mystery whose costs are known more clearly than its origin.
+
+## Histories and inhabitants
+
+- [Darr of the Borrowed Crown](../entries/b002-darr-of-the-borrowed-crown.md) — Person; 846–1248 AFR
+- [The Plaster Yard Refuge](../entries/b002-the-plaster-yard-refuge.md) — Place; 846–1248 AFR
+- [The Peeling Table](../entries/b002-the-peeling-table.md) — Institution; 846–1248 AFR
+- [The Cistern Assembly](../entries/b002-the-cistern-assembly.md) — Event; 846–1248 AFR
+- [The Thin Crown Sheet](../entries/b002-the-thin-crown-sheet.md) — Artifact; 846–1248 AFR
+- [The Laughing Trial](../entries/b002-the-laughing-trial.md) — Custom; 846–1248 AFR
+- [The Book of Unseated Names](../entries/b002-the-book-of-unseated-names.md) — Text; 846–1248 AFR
+- [The Chalk Cistern Newt](../entries/b002-the-chalk-cistern-newt.md) — Creature; 846–1248 AFR
+- [The Low Stair Passage](../entries/b002-the-low-stair-passage.md) — Route; 846–1248 AFR
+- [The Unpressed Consent Rule](../entries/b002-the-unpressed-consent-rule.md) — Law; 846–1248 AFR
+- [Nessa the Sheet Keeper](../entries/b002-nessa-the-sheet-keeper.md) — Person; 846–1248 AFR
+- [The False Last Fortress](../entries/b002-the-false-last-fortress.md) — Place; 846–1248 AFR
+- [The Terrace Return Council](../entries/b002-the-terrace-return-council.md) — Institution; 846–1248 AFR
+- [The Second Coronation Funeral](../entries/b002-the-second-coronation-funeral.md) — Event; 846–1248 AFR
+- [The Bronze Water Seat](../entries/b002-the-bronze-water-seat.md) — Artifact; 846–1248 AFR
+- [The Empty Stool Vigil](../entries/b002-the-empty-stool-vigil.md) — Custom; 846–1248 AFR
+- [The Refuges Compared](../entries/b002-the-refuges-compared.md) — Text; 846–1248 AFR
+- [The Fingerprint Seep](../entries/b002-the-fingerprint-seep.md) — Phenomenon; 846–1248 AFR
+- [Linen for Stone](../entries/b002-linen-for-stone.md) — Trade; 846–1248 AFR
+- [The Refuge Compensation Hearing](../entries/b002-the-refuge-compensation-hearing.md) — Dispute; 846–1248 AFR
+- [Arken of the Shared Spindle](../entries/b016-arken-of-the-shared-spindle.md) — Person; 349–1248 AFR
+- [The Afterthrone Weaving Yard](../entries/b016-the-afterthrone-weaving-yard.md) — Place; 349–1248 AFR
+- [The Returning Teacher Houses](../entries/b016-the-returning-teacher-houses.md) — Institution; 349–1248 AFR
+- [The Shelf Empire’s Dissolution](../entries/b016-the-shelf-empire-s-dissolution.md) — Event; 349–1248 AFR
+- [The Many Hands Spindle](../entries/b016-the-many-hands-spindle.md) — Artifact; 349–1248 AFR
+- [The Pattern Carried Dry](../entries/b016-the-pattern-carried-dry.md) — Custom; 349–1248 AFR
+- [The Teacher’s Unfinished Instructions](../entries/b016-the-teacher-s-unfinished-instructions.md) — Text; 349–1248 AFR
+- [The Chalk Wool Mite](../entries/b016-the-chalk-wool-mite.md) — Creature; 349–1248 AFR
+- [The Schools’ Pack Circuit](../entries/b016-the-schools-pack-circuit.md) — Route; 349–1248 AFR
+- [The Local Successor Clause](../entries/b016-the-local-successor-clause.md) — Law; 349–1248 AFR
+- [Mendel of the Narrow Hospice](../entries/b016-mendel-of-the-narrow-hospice.md) — Person; 349–1248 AFR
+- [The Two Courts’ Sample Room](../entries/b016-the-two-courts-sample-room.md) — Place; 349–1248 AFR
+- [The Dispersed Pattern Keepers](../entries/b016-the-dispersed-pattern-keepers.md) — Institution; 349–1248 AFR
+- [The Unnamed Weavers’ Petition](../entries/b016-the-unnamed-weavers-petition.md) — Event; 349–1248 AFR
+- [The Teacher’s Empty Chair](../entries/b016-the-teacher-s-empty-chair.md) — Artifact; 349–1248 AFR
+- [The Shared Failure Sample](../entries/b016-the-shared-failure-sample.md) — Custom; 349–1248 AFR
+- [The Empire Beyond Its Kings](../entries/b016-the-empire-beyond-its-kings.md) — Text; 349–1248 AFR
+- [The Returning Step](../entries/b016-the-returning-step.md) — Phenomenon; 349–1248 AFR
+- [Hand Spindle Coordination](../entries/b016-hand-spindle-coordination.md) — Trade; 349–1248 AFR
+- [The Succession Without a Throne](../entries/b016-the-succession-without-a-throne.md) — Dispute; 349–1248 AFR
+- [Petren of the Linked Measures](../entries/b019-petren-of-the-linked-measures.md) — Person; 1162–1248 AFR
+- [The Depth Store](../entries/b019-the-depth-store.md) — Place; 1162–1248 AFR
+- [The Custodians of Vacant Seats](../entries/b019-the-custodians-of-vacant-seats.md) — Institution; 1162–1248 AFR
+- [The Council Resignations](../entries/b019-the-council-resignations.md) — Event; 1162–1248 AFR
+- [The Stepped Depth Rod](../entries/b019-the-stepped-depth-rod.md) — Artifact; 1162–1248 AFR
+- [The Low Voice Account](../entries/b019-the-low-voice-account.md) — Custom; 1162–1248 AFR
+- [The Drama of Seven Digging Lives](../entries/b019-the-drama-of-seven-digging-lives.md) — Text; 1162–1248 AFR
+- [The Shaft Pale Cricket](../entries/b019-the-shaft-pale-cricket.md) — Creature; 1162–1248 AFR
+- [The Food Counter Escape](../entries/b019-the-food-counter-escape.md) — Route; 1162–1248 AFR
+- [The Finite Depth Offering](../entries/b019-the-finite-depth-offering.md) — Law; 1162–1248 AFR
+- [Erven of the Deep Refrain](../entries/b019-erven-of-the-deep-refrain.md) — Person; 1162–1248 AFR
+- [The Basin with Five Levels](../entries/b019-the-basin-with-five-levels.md) — Place; 1162–1248 AFR
+- [The Independent Depth Readers](../entries/b019-the-independent-depth-readers.md) — Institution; 1162–1248 AFR
+- [The First Interrupted Chorus](../entries/b019-the-first-interrupted-chorus.md) — Event; 1162–1248 AFR
+- [The Digger’s Split Meal Bowl](../entries/b019-the-digger-s-split-meal-bowl.md) — Artifact; 1162–1248 AFR
+- [The Measure Kept Open](../entries/b019-the-measure-kept-open.md) — Custom; 1162–1248 AFR
+- [The Resigned Witnesses’ Letters](../entries/b019-the-resigned-witnesses-letters.md) — Text; 1162–1248 AFR
+- [The Water’s Unentered Step](../entries/b019-the-water-s-unentered-step.md) — Phenomenon; 1162–1248 AFR
+- [Depth Rod Making](../entries/b019-depth-rod-making.md) — Trade; 1162–1248 AFR
+- [The Store’s Sacred Debt Claim](../entries/b019-the-store-s-sacred-debt-claim.md) — Dispute; 1162–1248 AFR
+- [Vena of the Paired Court](../entries/b027-vena-of-the-paired-court.md) — Person; 1181–1248 AFR
+- [The Furnace Sky Terrace](../entries/b027-the-furnace-sky-terrace.md) — Place; 1181–1248 AFR
+- [The Sisters’ Traveling Courts](../entries/b027-the-sisters-traveling-courts.md) — Institution; 1181–1248 AFR
+- [The Decade of Broken Alliances](../entries/b027-the-decade-of-broken-alliances.md) — Event; 1181–1248 AFR
+- [The Color Comparison Shard](../entries/b027-the-color-comparison-shard.md) — Artifact; 1181–1248 AFR
+- [The Equal Portion Before Play](../entries/b027-the-equal-portion-before-play.md) — Custom; 1181–1248 AFR
+- [The Heat Without Household Rank](../entries/b027-the-heat-without-household-rank.md) — Text; 1181–1248 AFR
+- [The Furnace Dust Gecko](../entries/b027-the-furnace-dust-gecko.md) — Creature; 1181–1248 AFR
+- [The Truce Return Path](../entries/b027-the-truce-return-path.md) — Route; 1181–1248 AFR
+- [The Equal Court Provision](../entries/b027-the-equal-court-provision.md) — Law; 1181–1248 AFR
+- [Saha of the Unranked Furnace](../entries/b027-saha-of-the-unranked-furnace.md) — Person; 1181–1248 AFR
+- [The Displaced Players’ Rooms](../entries/b027-the-displaced-players-rooms.md) — Place; 1181–1248 AFR
+- [The Northern Return Inspectors](../entries/b027-the-northern-return-inspectors.md) — Institution; 1181–1248 AFR
+- [The Truce Without the Gardens](../entries/b027-the-truce-without-the-gardens.md) — Event; 1181–1248 AFR
+- [The Sisters’ Shared Racket](../entries/b027-the-sisters-shared-racket.md) — Artifact; 1181–1248 AFR
+- [The Injured Player’s New Measure](../entries/b027-the-injured-player-s-new-measure.md) — Custom; 1181–1248 AFR
+- [The Alliance Promises Compared](../entries/b027-the-alliance-promises-compared.md) — Text; 1181–1248 AFR
+- [The Furnace’s Blue Silence](../entries/b027-the-furnace-s-blue-silence.md) — Phenomenon; 1181–1248 AFR
+- [Color Sample Preparation](../entries/b027-color-sample-preparation.md) — Trade; 1181–1248 AFR
+- [The Court Requisition Appeal](../entries/b027-the-court-requisition-appeal.md) — Dispute; 1181–1248 AFR
+- [Syren the Officer Called King](../entries/b036-syren-the-officer-called-king.md) — Person; 402–1248 AFR
+- [The Eastern Capital Rooms](../entries/b036-the-eastern-capital-rooms.md) — Place; 402–1248 AFR
+- [The Last Imperial School](../entries/b036-the-last-imperial-school.md) — Institution; 402–1248 AFR
+- [The Ancient Name Conquest](../entries/b036-the-ancient-name-conquest.md) — Event; 402–1248 AFR
+- [The Officer’s Unroyal Seal](../entries/b036-the-officer-s-unroyal-seal.md) — Artifact; 402–1248 AFR
+- [The Name and Task Recited](../entries/b036-the-name-and-task-recited.md) — Custom; 402–1248 AFR
+- [The City After the Empire](../entries/b036-the-city-after-the-empire.md) — Text; 402–1248 AFR
+- [The Wall Cistern Blind Fish](../entries/b036-the-wall-cistern-blind-fish.md) — Creature; 402–1248 AFR
+- [The Weavers’ Wall Passage](../entries/b036-the-weavers-wall-passage.md) — Route; 402–1248 AFR
+- [The Successor’s Explicit Scope](../entries/b036-the-successor-s-explicit-scope.md) — Law; 402–1248 AFR
+- [Sarken of the Golden Name](../entries/b036-sarken-of-the-golden-name.md) — Person; 402–1248 AFR
+- [The Outside Specialists’ Yard](../entries/b036-the-outside-specialists-yard.md) — Place; 402–1248 AFR
+- [The Reunited Cistern Keepers](../entries/b036-the-reunited-cistern-keepers.md) — Institution; 402–1248 AFR
+- [The First Wall Gate Closure](../entries/b036-the-first-wall-gate-closure.md) — Event; 402–1248 AFR
+- [The Legendary King’s New Brick](../entries/b036-the-legendary-king-s-new-brick.md) — Artifact; 402–1248 AFR
+- [The Shared Calendar Meal](../entries/b036-the-shared-calendar-meal.md) — Custom; 402–1248 AFR
+- [The Capitals Not Recognized](../entries/b036-the-capitals-not-recognized.md) — Text; 402–1248 AFR
+- [The Wall’s Unended Pressure](../entries/b036-the-wall-s-unended-pressure.md) — Phenomenon; 402–1248 AFR
+- [Calendar Conversion Teaching](../entries/b036-calendar-conversion-teaching.md) — Trade; 402–1248 AFR
+- [The Officer’s Surviving Claims](../entries/b036-the-officer-s-surviving-claims.md) — Dispute; 402–1248 AFR
+- [Lonsha of the Faceted Salt](../entries/b041-lonsha-of-the-faceted-salt.md) — Person; 89–1248 AFR
+- [The Faceted Water Hall](../entries/b041-the-faceted-water-hall.md) — Place; 89–1248 AFR
+- [The Named Crossing Council](../entries/b041-the-named-crossing-council.md) — Institution; 89–1248 AFR
+- [The Failed League’s Replacement](../entries/b041-the-failed-league-s-replacement.md) — Event; 89–1248 AFR
+- [The Accountant’s Two Grain Measures](../entries/b041-the-accountant-s-two-grain-measures.md) — Artifact; 89–1248 AFR
+- [The Facet Before the Legend](../entries/b041-the-facet-before-the-legend.md) — Custom; 89–1248 AFR
+- [The Basin Accounts Reconciled](../entries/b041-the-basin-accounts-reconciled.md) — Text; 89–1248 AFR
+- [The Salt Hall Cave Beetle](../entries/b041-the-salt-hall-cave-beetle.md) — Creature; 89–1248 AFR
+- [The First Council Messenger Road](../entries/b041-the-first-council-messenger-road.md) — Route; 89–1248 AFR
+- [The Coordination Scope Boundary](../entries/b041-the-coordination-scope-boundary.md) — Law; 89–1248 AFR
+- [Stonen of the Physical Ledger](../entries/b041-stonen-of-the-physical-ledger.md) — Person; 89–1248 AFR
+- [The Highland Dynasty Store](../entries/b041-the-highland-dynasty-store.md) — Place; 89–1248 AFR
+- [The Independent Sample Readers](../entries/b041-the-independent-sample-readers.md) — Institution; 89–1248 AFR
+- [The City Sack and Continued Kitchen](../entries/b041-the-city-sack-and-continued-kitchen.md) — Event; 89–1248 AFR
+- [The Council’s Limited Seal](../entries/b041-the-council-s-limited-seal.md) — Artifact; 89–1248 AFR
+- [The Undelivered Portion Spoken](../entries/b041-the-undelivered-portion-spoken.md) — Custom; 89–1248 AFR
+- [The First Reckoning Compared](../entries/b041-the-first-reckoning-compared.md) — Text; 89–1248 AFR
+- [The Faceted Basin’s Unshared Reflection](../entries/b041-the-faceted-basin-s-unshared-reflection.md) — Phenomenon; 89–1248 AFR
+- [Facet Shadow Measurement](../entries/b041-facet-shadow-measurement.md) — Trade; 89–1248 AFR
+- [The Famine Account Authority](../entries/b041-the-famine-account-authority.md) — Dispute; 89–1248 AFR
+- [Liwen of the Finite Bell](../entries/b042-liwen-of-the-finite-bell.md) — Person; 1221–1248 AFR
+- [The Chamber Beneath the Cistern](../entries/b042-the-chamber-beneath-the-cistern.md) — Place; 1221–1248 AFR
+- [The Seven Domain Electors](../entries/b042-the-seven-domain-electors.md) — Institution; 1221–1248 AFR
+- [The First Bell Descent](../entries/b042-the-first-bell-descent.md) — Event; 1221–1248 AFR
+- [The Inverted Bronze Bell](../entries/b042-the-inverted-bronze-bell.md) — Artifact; 1221–1248 AFR
+- [The Crew Named Before the Diver](../entries/b042-the-crew-named-before-the-diver.md) — Custom; 1221–1248 AFR
+- [The Seven Domains’ Descent Story](../entries/b042-the-seven-domains-descent-story.md) — Text; 1221–1248 AFR
+- [The Deep Chamber Root Fish](../entries/b042-the-deep-chamber-root-fish.md) — Creature; 1221–1248 AFR
+- [The Bell Rope Approach](../entries/b042-the-bell-rope-approach.md) — Route; 1221–1248 AFR
+- [The Inspection Is Not Title Rule](../entries/b042-the-inspection-is-not-title-rule.md) — Law; 1221–1248 AFR
+- [Banren of the Reclaimed Depths](../entries/b042-banren-of-the-reclaimed-depths.md) — Person; 1221–1248 AFR
+- [The Successor Harbor Court](../entries/b042-the-successor-harbor-court.md) — Place; 1221–1248 AFR
+- [The Finite Air Inspectors](../entries/b042-the-finite-air-inspectors.md) — Institution; 1221–1248 AFR
+- [The Election’s Descent Celebration](../entries/b042-the-election-s-descent-celebration.md) — Event; 1221–1248 AFR
+- [The Diver’s Plain Observation Tile](../entries/b042-the-diver-s-plain-observation-tile.md) — Artifact; 1221–1248 AFR
+- [The Return Before the Wonder](../entries/b042-the-return-before-the-wonder.md) — Custom; 1221–1248 AFR
+- [The Harbor Court’s Lost Names](../entries/b042-the-harbor-court-s-lost-names.md) — Text; 1221–1248 AFR
+- [The Sound Beyond the Bell](../entries/b042-the-sound-beyond-the-bell.md) — Phenomenon; 1221–1248 AFR
+- [Bell Rope Inspection](../entries/b042-bell-rope-inspection.md) — Trade; 1221–1248 AFR
+- [The Depths and the Electorate](../entries/b042-the-depths-and-the-electorate.md) — Dispute; 1221–1248 AFR
+- [The Doubly Held](../entries/the-doubly-held.md) — Condition; Before 0–1248 AFR
+- [The Door That Opens for No One](../entries/the-door-that-opens-for-no-one.md) — Unresolved place; Before 0–1248 AFR
+- [The Mask with the Wrong Fingerprint](../entries/the-mask-with-the-wrong-fingerprint.md) — Current inquiry; 1246–1248 AFR
+- [An Empty Bowl at the Door](../entries/an-empty-bowl-at-the-door.md) — Current expedition; 1248 AFR
+- [The Terraces of the Second Foot](../entries/the-terraces-of-the-second-foot.md) — Necropolis; 349–1248 AFR
+- [The Stair Built for a Drowned Court](../entries/the-stair-built-for-a-drowned-court.md) — Underwater ruin; Before 0–1248 AFR
+
+[All regions](index.md) · [All entries](../index.md)

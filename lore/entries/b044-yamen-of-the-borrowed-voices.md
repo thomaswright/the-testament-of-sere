@@ -1,0 +1,27 @@
+# Yamen of the Borrowed Voices
+
+*Person · Istren · Historical coverage: 1197–1248 AFR*
+
+Yamen can imitate officials, herders, and crew members with unsettling precision. Programs identify every performed role. The distinction prevents useful representation becoming false testimony, especially when patrons want a famous voice to appear endorsing a story its living owner disputes.
+
+Later accounts make Yamen of the Borrowed Voices the explanation for an entire local change. The surviving record instead places this life among dependencies: an introduction supplied by another household, materials purchased on credit, and testimony given by people with reasons of their own. A biography that removes those dependencies becomes a useful legend and a poor guide to what happened. Descendants inherit evidence and expectations, rather than the ability to repeat an ancestor’s achievement. The practical question is which part of the achievement can be maintained by ordinary people after the celebrated individual is gone.
+
+This belongs to The Voices Across the White Reach. A northern expedition initially planned one route, then secretly changed destination after rivals claimed its intended landmark. Its crews used sledges, stored provisions, and carefully placed depots rather than a miraculous means of movement. In 1197 they crossed the White Reach and returned, learning later that a rival party had died on its return. A valley court sponsoring the journey governed settled gardeners and mobile herders through two prestigious languages. An actor imitating many voices and a collaborative lantern troupe staged the expedition for audiences who could not travel. Their work made preparation intelligible but risked smoothing away omitted crew members and borrowed local knowledge. Current readers distinguish first arrival from the wider cooperation and losses surrounding it.
+
+In the connected record, [The White Reach Depot](b044-the-white-reach-depot.md) preserves another part of this history. The terms recorded under [The Journey’s Informed Crew Term](b044-the-journey-s-informed-crew-term.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether future journeys will fund practical depots and credit local knowledge or repeat the prestige competition that made secrecy more valuable than shared safety.
+
+Istren’s fishing villages and timber monasteries occupy a rainy coast where repairing roofs is a continuing expense rather than a finished achievement. Boats make neighboring settlements accessible when inland tracks become mud. Smokehouses, net yards, and communal ovens provide the places where people exchange reliable news. The dead are remembered through finite promises attached to landing water and particular working seasons. A claim on an abandoned beach can become dangerous when erosion moves a new household into its reach. Islanders generally test an alleged manifestation against wind, rot, and tides before paying for an interpreter.
+
+## Connected entries
+
+[The Monument or the Depot](b044-the-monument-or-the-depot.md) · [The White Reach Depot](b044-the-white-reach-depot.md) · [The Reach Sledge Hound](b044-the-reach-sledge-hound.md) · [The Feeding Is Not Ownership Clause](b043-the-feeding-is-not-ownership-clause.md) · [Ricen of the Crossing Ballads](b045-ricen-of-the-crossing-ballads.md)
+
+## Referenced by
+
+[Morgen of the Milk Relations](b043-morgen-of-the-milk-relations.md) · [The Cooperative Milk Yard](b043-the-cooperative-milk-yard.md) · [The Milk Kin Cooperative](b043-the-milk-kin-cooperative.md) · [The Closed Harbor Shortage](b043-the-closed-harbor-shortage.md) · [The Stone Families Tray](b043-the-stone-families-tray.md) · [The Name Chosen Without Rank](b043-the-name-chosen-without-rank.md) · [The Reader’s Ladder Corrected](b043-the-reader-s-ladder-corrected.md) · [The Milk Yard Stone Moth](b043-the-milk-yard-stone-moth.md) · [The Few Harbor Supply Road](b043-the-few-harbor-supply-road.md) · [The Feeding Is Not Ownership Clause](b043-the-feeding-is-not-ownership-clause.md) · [Shalen of the Plain Name](b043-shalen-of-the-plain-name.md) · [The Mineral Readers’ Field Shelter](b043-the-mineral-readers-field-shelter.md) · [The Fodder Sharing Houses](b043-the-fodder-sharing-houses.md) · [The First Milk Kin Appeal](b043-the-first-milk-kin-appeal.md) · [The Plain Name Distribution Bowl](b043-the-plain-name-distribution-bowl.md) · [The Stone Compared Before Praise](b043-the-stone-compared-before-praise.md) · [The Harbor Shortages Inland](b043-the-harbor-shortages-inland.md) · [The Milk Basin’s Unspent Warmth](b043-the-milk-basin-s-unspent-warmth.md) · [Fodder and Milk Transport](b043-fodder-and-milk-transport.md) · [The Newcomer’s Milk Name](b043-the-newcomer-s-milk-name.md) · [The White Reach Depot](b044-the-white-reach-depot.md) · [The Rival Return News](b044-the-rival-return-news.md) · [The Monument or the Depot](b044-the-monument-or-the-depot.md)
+
+## Inspiration
+
+[Source batch 044](../sources/batch-044.md). One of the shared cycle’s source transformations: A versatile voice actor and narrator becomes a live performer whose roles require distinguishing representation from actual testimony. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

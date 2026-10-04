@@ -1,0 +1,328 @@
+{
+  "batch": 1,
+  "title": "The War Without a Declaration",
+  "summary": "An attempt to monopolize river remembrance defeats its military victors and leaves an archive of deliberately missing identities.",
+  "source_notes": [
+    "The selected mechanism is an assassination during a gathering intended to reconcile rival communities, followed by disagreement over mercy. No real religious identity is transplanted into Sere.",
+    "Missing identities, compromised family histories, and the investigation of absence become an archivist's method. The fiction uses these questions rather than reproducing an author's biography or prose.",
+    "A conflict without a declaration and a victory that fails to save the victorious government become the architecture of the river campaign.",
+    "An extractive settlement nearly destroyed by hunger, then sustained by a labor-intensive export, informs the reed monopoly. The consequences of inherited coercion remain human and institutional."
+  ],
+  "entries": [
+    {
+      "id": "the-unannounced-war",
+      "title": "The Unannounced War",
+      "kind": "Event",
+      "region": "Orun",
+      "date": "781–789",
+      "links": [
+        "the-third-bowl",
+        "the-green-tithe",
+        "vesh-of-the-empty-register",
+        "the-bridge-of-mercies"
+      ],
+      "inspiration": "An undeclared conflict and the divergence between battlefield success and political survival.",
+      "body": "The Unannounced War began when the lower river's toll collectors stopped accepting witness tokens issued upstream. No ruler proclaimed hostilities. Each city called its armed boats inspectors, and each denied responsibility for the burned granaries discovered after inspections. The distinction mattered to the dead: military requisitions could suspend certain private undertakings, whereas an ordinary inspection could not. Soldiers therefore carried legal opinions into combat, hoping a favorable interpretation would make an enemy's ancestor withdraw protection from a landing.\n\nThe first serious fighting occurred at Heret Ford in 782. A company of reed cutters, whose families had been pledged to the Green Tithe, sank three inspection barges by opening a neglected side channel. Their victory convinced upland towns that the monopoly could be broken cheaply. Seven harvests later, those towns had paid for an army they could no longer feed. The lower coalition had lost almost every engagement on dry ground but retained the grain boats, the ferry witnesses, and the ability to close the estuary in winter.\n\nThe settlement of 789 awarded the upper towns the ceremonial right to wash their seals in the estuary. It left the monopoly's pricing and labor claims intact. The returning commanders displayed silver bowls as evidence of victory; hungry households displayed empty bowls outside the councils. Within a year, four councils had fallen and two victorious captains had been expelled from the cities they claimed to have liberated.\n\nPresent historians disagree about which battle ended the war because they first disagree about whether it was legally a war. Its clearest surviving legacy is mundane: river pilots still keep two cargo lists, one showing what a boat carries and another showing which authority has acknowledged the people aboard. A discrepancy can delay a vessel for days. In 1248, an unacknowledged passenger is more likely to drown waiting for a ruling than to be struck by an ancestral curse. That ordinary risk is the campaign's most durable monument."
+    },
+    {
+      "id": "the-third-bowl",
+      "title": "The Third Bowl",
+      "kind": "Ritual object",
+      "region": "Vey",
+      "date": "776–1248",
+      "links": [
+        "the-unannounced-war",
+        "the-bridge-of-mercies",
+        "the-daughters-petition"
+      ],
+      "inspiration": "A gathering for reconciliation becomes the setting for violence; the instrument of hospitality retains an awkward material history.",
+      "body": "The Third Bowl is an ordinary earthen vessel with a thumb-sized repair in its rim. During the reconciliation meetings of 776, delegates placed two bowls between them: one containing water from the upstream springs, the other water from the estuary. Witness Maren added a third filled from the public kitchen. Her argument was that agreements made between authorities should also be witnessed by the water used to feed people who held no authority. The kitchen servants approved; the delegates initially treated the addition as an eccentric courtesy.\n\nMaren's murder three meetings later made the object famous. A knife entered beneath her ribs as she leaned forward to pour. Her blood reached the kitchen bowl, while the vessels belonging to the delegates remained clean. The authorities declared their negotiation uncontaminated and attempted to resume it the following morning. Nobody could light the kitchen oven. Some blamed Maren's unfinished promise; others found that the assassin's accomplices had flooded the fuel store. The physical explanation did not settle the moral one.\n\nThe bowl's custody became a difficult honor. Its keeper was obliged to feed any person arriving with evidence of an interrupted negotiation, regardless of allegiance. During the Unannounced War, this included deserters, monopoly agents, and villagers whose homes both sides had burned. The vessel did not multiply food. Keeping its observance nearly bankrupted three successive households, and the fourth sold the house's roof beams to maintain the soup pot.\n\nIts present keeper, Hessa, has installed the bowl in a cheap boarding kitchen near the river court. Visitors may inspect the repair but cannot touch it without first helping prepare a meal. Hessa rejects proposals for a grand memorial because admission fees would turn the obligation into a privilege purchased by spectators. She is less certain how to answer genuine starvation. The bowl's claim is finite—hospitality for a single night—but there are now more interrupted negotiations than the kitchen can accommodate. The sound of water dripping from its repaired rim persists even when the bowl is empty."
+    },
+    {
+      "id": "the-green-tithe",
+      "title": "The Green Tithe",
+      "kind": "Institution",
+      "region": "Orun",
+      "date": "612–1248",
+      "links": [
+        "the-unannounced-war",
+        "heret-ford",
+        "the-leather-winter",
+        "the-salt-heirs"
+      ],
+      "inspiration": "An export crop supports a settlement while hereditary labor obligations outlive the original emergency.",
+      "body": "The Green Tithe began as a rescue loan. In 612, Talassari merchants supplied starving settlers with millet, fishing line, and seed for a fragrant reed used to protect stored cloth from moths. The settlers promised one tenth of the reed harvest until the merchants' descendants had recovered the expense. They did not specify a value for the loan, and the merchants did not disclose how rapidly the reed would sell in the upland markets. The undertaking was witnessed beside a ditch that later became the district's main irrigation channel.\n\nWithin three generations, reed cultivation displaced much of the settlement's food production. Buyers offered handsome prices to households with spare labor, then used debts to acquire the harvests of households without it. The original tithe expanded through separate contracts into compulsory cutting days, canal maintenance, and a claim upon a child's apprenticeship. These were human agreements authenticated by human courts. The old ancestors sustained only the original tenth, although monopoly advocates repeatedly represented every later exaction as sacred.\n\nThe Heret rebels proved the difference in 782 by destroying a warehouse while leaving the tithe's tenth untouched. No ancestral manifestation followed. The monopoly's guards nevertheless punished them as oathbreakers, and the courts declined to investigate during the campaign. This distinction—between a binding undertaking and the violence justified in its name—remains central to the Green Tithe's history.\n\nIn 1248, the monopoly sells excellent moth reed and maintains several canals that genuinely prevent flooding. Those services do not cancel its inherited claims. A reform council proposes paying the ancient tenth directly into a common granary, recognizing the original merchants' heirs as recipients rather than owners of the workers. The Salt Heirs oppose the change because it would expose how little of their authority has supernatural force. Reed cutters oppose parts of it too: a grain assessment would punish households whose marsh plots are too saline to grow grain. A workable settlement will require new irrigation and new accounting, not merely the destruction of a villain's ledger."
+    },
+    {
+      "id": "vesh-of-the-empty-register",
+      "title": "Vesh of the Empty Register",
+      "kind": "Person",
+      "region": "Vey",
+      "date": "1191–1248",
+      "links": [
+        "the-unannounced-war",
+        "the-house-of-missing-tenants",
+        "the-register-of-absences",
+        "the-salt-heirs"
+      ],
+      "inspiration": "An investigation proceeds through vanished identities and a family's compromised memory.",
+      "body": "Vesh earns a modest living tracing the names omitted from rental rolls. Clients usually want an ancestor who can establish a claim to a courtyard, fishing berth, or burial niche. Vesh instead begins with the apparently useless entries: a household that paid for three beds but recorded two occupants, a delivery of bread to a house officially empty, a funeral paid for by somebody described elsewhere as already dead. His empty register contains the spaces where those facts should have been reconciled.\n\nThe method began with his father's room. After the father's death in 1214, Vesh found two sets of keys wrapped in the same cloth. One fitted their home. The other fitted a room in the House of Missing Tenants, whose wartime occupants had never been entered on the public rolls. Vesh had been told his father worked as a copyist. Payments in the room's plaster revealed that he had also sold temporary identities to people fleeing labor claims. Some purchasers escaped. Others were delivered to the Salt Heirs when their money ran out.\n\nVesh refuses both a simple accusation and a consoling account of secret resistance. He publishes each transaction with the circumstances he can establish, leaving readers to judge motives he cannot recover. This has made him unpopular with the families of victims and beneficiaries alike. It has also made his work useful in court, where a narrow fact can survive scrutiny that a grand explanation cannot.\n\nHis most dangerous discovery concerns the Unannounced War: several officers honored as liberators appear in the rent accounts of monopoly safe houses. The payments might show treachery, ransom, or an effort to protect relatives. Vesh will not choose before finding the second half of the account. A spring under his office has begun forming condensation on blank pages, but he does not treat the shapes as testimony. He pays a mason to investigate the wall. That caution costs him clients who want an oracle and protects clients who need evidence."
+    },
+    {
+      "id": "the-bridge-of-mercies",
+      "title": "The Bridge of Mercies",
+      "kind": "Place",
+      "region": "Vey",
+      "date": "774–1248",
+      "links": [
+        "the-third-bowl",
+        "the-daughters-petition",
+        "maren-of-the-public-water",
+        "the-unannounced-war"
+      ],
+      "inspiration": "A peace gathering and a later dispute about clemency leave different memories in the same public place.",
+      "body": "The Bridge of Mercies spans the Vey just above the point where fresh water begins to taste faintly of salt. Its name is older than the murdered witness Maren. Builders in 774 promised that nobody pursued for an unpaid funeral fee would be arrested between the bridge's four boundary stones. It was a small sanctuary, intended to let bereaved households reach the riverside market and earn enough to bury their dead. The original promise did not protect fugitives accused of violence.\n\nAfter Maren was killed here in 776, her daughters asked the council to spare the assassin. They did not argue that he was innocent. They argued that executing him beneath the bridge would give his unfinished undertaking a permanent claim to the same water as their mother's. The council rejected their reasoning, moved the execution to a dry yard, and congratulated itself on having solved both justice and hydraulics. Three months later the executioner's household began hearing Maren's pouring song from its empty jars. Nobody has established whether this was an ancestral effect, an act of intimidation, or a story invented after the fact.\n\nTravelers now encounter competing memorials. The eastern parapet records the council's judgment. The western records the daughters' petition. A third inscription, repeatedly scratched off and restored, lists the kitchen workers who fed people waiting for both proceedings. These accounts do not agree about mercy, but none can be removed without damaging the bridge's masonry.\n\nIn the present year, the sanctuary protects debtors from twelve different funerary courts. Wardens admit petitioners in groups because the structure cannot bear a crowd. Its toll collector is elected by people who have used the sanctuary, giving indebted households an unusual public office. She spends most of her time arranging repairs. The bridge's famous history attracts generous donations for inscriptions and almost none for mortar. If its central arch fails, the basin will lose both a crossing and a legal interval in which people can become something other than the sum of their debts."
+    },
+    {
+      "id": "the-daughters-petition",
+      "title": "The Daughters' Petition",
+      "kind": "Text",
+      "region": "Vey",
+      "date": "777–1248",
+      "links": [
+        "the-bridge-of-mercies",
+        "maren-of-the-public-water",
+        "the-third-bowl",
+        "the-executioners-jars"
+      ],
+      "inspiration": "The victim's family seeks clemency while public authorities demand execution.",
+      "body": "The Daughters' Petition survives in three copies, none written by the daughters themselves. Ena dictated the household account to a market scribe. Her sister Sul corrected it orally before the court. The official clerk incorporated those corrections but omitted the sentence explaining why the sisters feared an execution beside the river. A kitchen apprentice copied the omitted sentence onto the reverse of a flour receipt. The flour receipt is now the most contested legal text in Vey.\n\nThe petition asked that their mother's murderer be kept alive, working under supervision to supply food for the gatherings he had interrupted. This was not an appeal to forgiveness without consequence. Ena proposed a permanent obligation measured in sacks of grain. Sul proposed that the murderer be forbidden to witness any undertaking, denying him the social standing through which he had approached Maren. Their recommendations would have made him dependent upon people he had tried to silence.\n\nCouncil advocates later praised the sisters as gentle mourners and quoted the petition at festivals. Their quotations stopped before the proposed sentence. Present opponents make the opposite mistake, treating the whole document as a technical warning about water while ignoring the sisters' refusal to manufacture a second bereaved household. The kitchen copy holds both arguments together. Its final line asks who would feed the assassin's elderly aunt after his death.\n\nIn 1248, prisoners' relatives cite the petition to demand that courts describe the practical consequences of a punishment before imposing it. Magistrates accept the principle when it concerns bridge labor and reject it when it concerns their own fees. A traveling copy has reached the reed districts, where cutters use its accounting method to calculate the costs of hereditary contracts. The text's authority is therefore widening beyond its original dispute. There is no proof that either daughter intended this legacy. Their surviving grocery accounts suggest they were chiefly concerned with keeping the public kitchen open through the winter after their mother died."
+    },
+    {
+      "id": "heret-ford",
+      "title": "Heret Ford",
+      "kind": "Place",
+      "region": "Orun",
+      "date": "612–1248",
+      "links": [
+        "the-green-tithe",
+        "the-unannounced-war",
+        "the-side-channel-compact",
+        "the-reed-cutters-masks"
+      ],
+      "inspiration": "Control of a trade route matters more than the visible sequence of military victories.",
+      "body": "Heret Ford is only a ford during the six driest weeks of the year. At other times, boats cross above a submerged line of limestone slabs whose original purpose is uncertain. The slabs divide the current into shallow tongues, making the location useful for unloading heavy cargo without a proper quay. Their worn marks resemble writing but have never been read consistently. The Green Tithe's collectors insist they are an ancient grant. Pilots note that four were turned upside down during repairs.\n\nIn 782, reed cutters opened a forgotten channel above the crossing and sent a wall of water into three armed inspection barges. The military account describes an ambush by hidden warriors. Canal maintenance rolls show that the same families had petitioned for years to repair the channel's failing gate. They used a dangerous structure they understood because the authorities had refused to maintain it. Their knowledge became celebrated only after it became useful in war.\n\nThe victory damaged the ford more seriously than the invaders did. Floodwater tore away the southern bank and exposed old graves, releasing competing observances into the crossing's already crowded water. For seventy years, ferry operators had to pour a measure upstream and another into a separate basin on shore. Combining them produced a pressure that cracked the boat's caulking. Whether this was a supernatural incompatibility or a particularly corrosive mineral deposit remains a subject of practical argument. The operators continue separating the water because it works.\n\nHeret's present market sells replacement ropes, pottery strainers, and seasonal licenses. A child can earn a little money marking safe shallows, but the town's elders forbid selling routes to strangers without an adult pilot. The prohibition followed three avoidable drownings, not an ancient curse. Tourists come to see the battlefield slabs and often leave disappointed by their ordinary appearance. The inhabitants regard that disappointment as welcome: the ford needs people willing to pay for transport, not visitors expecting history to announce itself in the shape of a sword."
+    },
+    {
+      "id": "the-leather-winter",
+      "title": "The Leather Winter",
+      "kind": "Event",
+      "region": "Orun",
+      "date": "611–612",
+      "links": [
+        "the-green-tithe",
+        "the-salt-heirs",
+        "the-boot-account",
+        "the-seed-barges"
+      ],
+      "inspiration": "An ill-planned settlement survives catastrophic hunger and becomes dependent upon an export economy.",
+      "body": "The Leather Winter is named for the final entries in the provisioning book of Edrin Settlement: harness leather, boiled shoe uppers, and strips cut from the witness tent. Later chronicles make these meals proof of heroic endurance. The provisioning book describes something less flattering. The settlers had brought ornamental trees, several crates of burial tiles, and almost no equipment for fishing a tidal river. Their sponsors expected to find valuable stone under the marsh. They found mud, brackish water, and neighbors unwilling to surrender existing fishing grounds.\n\nHunger did not affect every household equally. The overseer's family retained a private grain chest until its locks were broken in the fourth month. Unregistered servants received portions only after registered settlers had eaten. One servant, whose name survives only as an altered ration mark, moved the cooking shelter to a neighbor's bank and exchanged repaired nets for fish. This arrangement fed forty people while official negotiations remained stalled over the neighbors' refusal to acknowledge the settlers' land grant.\n\nBy spring 612, the survivors had agreed to leave. Talassari barges met them at the channel mouth with seed, grain, and a proposal for fragrant reed cultivation. The return was celebrated as a second founding. It also began the Green Tithe, whose original ambiguity would encumber descendants for centuries. The rescuer's kindness and the rescuer's advantage cannot be separated into different episodes; they arrived in the same boats.\n\nPresent observances consist of repairing a stranger's fishing net and cooking one meal without grain. Wealthier houses instead display ornamental shoes carved from expensive wood. Local historians object that these objects repeat the founders' priorities with remarkable accuracy. The surviving portion of the witness tent is kept in a dry storehouse, where it smells of smoke whenever a ration dispute reaches the river court. Officials sometimes call this a warning from the first settlers. Their descendants ask whether the warning is against hunger, vanity, or the habit of converting another person's rescue into an inheritable claim."
+    },
+    {
+      "id": "the-salt-heirs",
+      "title": "The Salt Heirs",
+      "kind": "Faction",
+      "region": "Talassar",
+      "date": "612–1248",
+      "links": [
+        "the-green-tithe",
+        "vesh-of-the-empty-register",
+        "the-leather-winter",
+        "the-heirs-drowned-room"
+      ],
+      "inspiration": "Commercial rescue develops into hereditary domination; later memory supplies its beneficiaries with a consoling origin story.",
+      "body": "The Salt Heirs are the recognized descendants of the merchants who financed Edrin's survival. They are not a single family and do not agree about their inheritance. Membership follows custody of authenticated portions of the original grain tallies. Marriage, adoption, debt settlement, and theft have spread those fragments among eighty-seven households. Several members are themselves indebted reed cutters. The faction's wealth is concentrated in eleven counting houses, but its public legitimacy depends on the poorer members attending ancestral ceremonies.\n\nEach tally entitles its custodian to a share of the original Green Tithe. The counting houses claim that the fragments also confer authority over every later undertaking issued by the rescued settlement. Their courts have repeated this assertion often enough that many workers regard it as a fact of nature. The wood does not support the claim: different fragments warm in the hand when the ancient tenth is withheld, but remain inert when a household refuses an added cutting day.\n\nReformers within the faction want to distinguish income from jurisdiction. They would preserve the original shares while surrendering control of employment, travel, and apprenticeship. Opponents warn that releasing those claims would make the maintenance of the reed canals impossible. Both sides can produce honest accounts showing the canals' expense. The disagreement concerns who bears that expense and whether a worker can refuse a contract without losing access to water.\n\nVesh's research threatens a different privilege. Several prestigious tallies were acquired from people who disappeared during the Unannounced War, and the Heirs' Drowned Room contains records of those transfers. Opening it would expose old crimes without necessarily resolving present ownership. A count house that bought a stolen fragment in good faith still receives grain from families harmed by its theft. In 1248, younger heirs have begun meeting those families outside the official ceremonies. Their conversations are slow and awkward. Unlike the faction's grand origin festival, they may eventually produce an agreement somebody can actually carry out."
+    },
+    {
+      "id": "the-house-of-missing-tenants",
+      "title": "The House of Missing Tenants",
+      "kind": "Place",
+      "region": "Vey",
+      "date": "780–1248",
+      "links": [
+        "vesh-of-the-empty-register",
+        "the-register-of-absences",
+        "the-wax-faces",
+        "the-unannounced-war"
+      ],
+      "inspiration": "A place's documentary gaps preserve traces of people whose identities were made unstable by occupation and illicit commerce.",
+      "body": "The House of Missing Tenants occupies a narrow plot between a dyer's yard and a disused court stair. From the street it appears to contain four rented rooms. Behind the upper corridor are nine additional chambers, reached through doors painted to resemble shelving. These were not built as secret prisons. They began as inexpensive storage spaces and acquired beds when the Unannounced War made travel papers more valuable than adequate shelter. The public rental roll continued describing them as cupboards.\n\nTenants paid for a room and the use of a name recognized by a local witness. Some were escaping the Green Tithe's added labor claims. Others were merchants avoiding inspection fees, soldiers deserting both coalitions, or families whose legitimate documents had been destroyed. The house's keeper did not distinguish among them until their payments failed. Then the same secrecy that sheltered a person could make that person easy to sell.\n\nThe house was seized in 794 after a baker complained that its official population could not account for the bread it purchased. The investigation established unregistered lodging but declined to identify individual tenants. Several councilors had relatives who used the chambers, and the rent book contained payments from officers already honored as liberators. The keeper was fined. The hidden rooms were sealed, allowing the city to punish a building while protecting its clients.\n\nVesh reopened one chamber in 1215 with a key inherited from his father. Since then, volunteers have searched cracks in the plaster for bills, scraps of clothing, and tally ends. Their discoveries rarely identify a whole person; more often they join two previously disconnected facts. The current owner charges no rent for the research room but rents the other visible rooms at market rates. People still live above the sealed chambers, cook supper, argue about washing, and descend the same stairs as visitors carrying flowers for unnamed victims. The coexistence troubles memorial committees. It also keeps the roof repaired, which their solemn proposals have repeatedly failed to do."
+    },
+    {
+      "id": "maren-of-the-public-water",
+      "title": "Maren of the Public Water",
+      "kind": "Person",
+      "region": "Vey",
+      "date": "723–776",
+      "links": [
+        "the-third-bowl",
+        "the-daughters-petition",
+        "the-bridge-of-mercies",
+        "the-public-kitchen-witnesses"
+      ],
+      "inspiration": "The murder of a reconciler exposes who is excluded from supposedly universal public negotiations.",
+      "body": "Maren was a cook before she was a witness, and remained a cook after acquiring the title. Her authority came from a small undertaking made in 748: she promised to provide one hot meal to any person who had spent a day assisting with the river's public maintenance. The promise attracted laborers whose names did not appear in the city's household lists. When disagreements arose about their work, Maren's kitchen accounts supplied evidence that official registers lacked. She became a witness because people already relied upon her records.\n\nHer early decisions were practical rather than visionary. She counted a borrowed tool as a contribution only if its owner helped repair it. She accepted children's work when the work was safe and refused adults who assigned dangerous tasks to children. Her most unpopular ruling required masters to include servants in the distribution of meals earned by a household. The river court upheld it narrowly, recognizing a cook's right to decide whom she fed without recognizing the servants as independent claimants.\n\nDuring the negotiations of 776, Maren insisted that public kitchen water join the water presented by rival authorities. She understood that most inhabitants would experience the agreement through bread prices, tolls, and access to canal labor, not through the titles its delegates bestowed upon themselves. The assassin accused her of making the city's ancestral rights available to outsiders. That accusation was false in law: kitchen testimony could establish labor, not transfer an ancestor's land. It was effective politically because it made ordinary recognition sound like dispossession.\n\nHer descendants reject the smooth-faced statues sold beside the Bridge of Mercies. A surviving list shows that she was often impatient, occasionally miscounted, and once refused to hear a petition until its speaker helped peel roots. Those faults make her procedures more intelligible than sainthood does. Her unfinished meal promise remains attached to the Third Bowl, but her descendants believe it can eventually be discharged by completing the maintenance work for which the murdered day's meal had been owed. Nobody has yet established which stretch of bank those workers repaired."
+    },
+    {
+      "id": "the-register-of-absences",
+      "title": "The Register of Absences",
+      "kind": "Archive",
+      "region": "Vey",
+      "date": "1216–1248",
+      "links": [
+        "vesh-of-the-empty-register",
+        "the-house-of-missing-tenants",
+        "the-wax-faces",
+        "the-boot-account"
+      ],
+      "inspiration": "Memory is investigated through gaps rather than repaired with a confident invented biography.",
+      "body": "The Register of Absences is a collection of questions arranged as if they were household records. Each leaf names a place, a date, an unexplained transaction, and the evidence still needed to interpret it. Vesh invented the format after finding that ordinary archives encouraged researchers to fill a blank with the most satisfying available story. His register instead gives the blank a permanent address. A reader can add evidence without pretending that the question has already been answered.\n\nThe first leaf concerns four extra bowls purchased for a house that officially held two people. Subsequent leaves cover ferry fares paid after a recorded death, a child apprenticed under two incompatible names, and rent supplied by the wrong military treasury. Some mysteries have harmless solutions. A widow kept her dead husband's trade name because changing it would invalidate her stall lease. A ferryman's date marks followed a local flood calendar rather than the common Reckoning. Solving these cases prevents them from becoming evidence for an imagined conspiracy.\n\nOther leaves document genuine coercion. Several tenants in the hidden chambers disappeared just before their assumed names were transferred to paying clients. Vesh records the probable pattern but marks the individual fates as unknown. Families sometimes find this refusal unbearable. He offers them separate memorial leaves on which a hope or recollection can be preserved without being confused with established fact. The register thus contains grief beside evidence, distinguished by the color of the cord binding each section.\n\nCourts have begun accepting references to the register, which presents a new problem: a wealthy claimant can commission repeated investigations into a poor neighbor's identity. Vesh now requires a public reason for any inquiry seeking to remove an existing right. That rule slows useful work as well as abusive work. In 1248 the collection occupies two cupboards and needs a trained successor. Its achievement is not the number of names recovered but the number of convenient conclusions it has prevented from becoming somebody else's inherited misfortune."
+    },
+    {
+      "id": "the-executioners-jars",
+      "title": "The Executioner's Jars",
+      "kind": "Phenomenon",
+      "region": "Vey",
+      "date": "777–1248",
+      "links": [
+        "the-daughters-petition",
+        "the-bridge-of-mercies",
+        "the-third-bowl",
+        "the-dry-yard-verdict"
+      ],
+      "inspiration": "A rejected plea for mercy survives through domestic consequences rather than a spectacular public curse.",
+      "body": "Three storage jars belonged to the household of the man who executed Maren's assassin. Their surfaces bear ordinary marks for oil, grain, and washing water. Witnesses in 777 claimed that the jars repeated Maren's pouring song despite being empty. The earliest testimony came from the executioner's niece, who described the sound as the rhythm of ladling rather than recognizable words. A later clerk embellished it into a complete lament and supplied verses absent from the household account.\n\nThe council ordered the jars buried separately in dry ground. Two were recovered when the executioner's descendants moved house. The third remained beneath a courtyard and was broken by a drain repair in 946. Its fragments entered the fill used to raise a nearby lane. People walking that lane during rain sometimes report an additional footstep, but this claim appeared in writing only after the fragments' origin became public. The evidence supports caution more readily than certainty.\n\nThe intact jars passed between households unwilling to destroy them and unable to sell them honestly. Their current custodian keeps one filled with clean water and the other with grain reserved for the public kitchen. Under this arrangement, the reported sound has ceased. Advocates of the Daughters' Petition interpret the silence as acceptance of the sentence the council refused to impose: continuing provision for the interrupted gatherings. Potters suggest that changing temperature and load altered the jars' acoustics. The custodian sees no need to choose, since feeding the kitchen is useful under either explanation.\n\nTraveling collectors have offered enough money to repair her whole roof. She refuses because removing the jars would end the arrangement before anyone knows whether it has finally discharged the old obligation. Her neighbors disagree about the wisdom of this refusal. Some contribute roofing straw; others call her frightened and wasteful. The jars therefore sustain a present argument about cost, obligation, and evidence. Their smallness is essential to that argument. A monstrous apparition would settle nothing about who ought to buy next month's grain."
+    },
+    {
+      "id": "the-side-channel-compact",
+      "title": "The Side Channel Compact",
+      "kind": "Law",
+      "region": "Orun",
+      "date": "859–1248",
+      "links": [
+        "heret-ford",
+        "the-unannounced-war",
+        "the-green-tithe",
+        "the-reed-cutters-masks"
+      ],
+      "inspiration": "The military use of local infrastructure leaves a lasting administrative problem that a peace settlement overlooks.",
+      "body": "The Side Channel Compact ended seventy-seven years of argument about who should repair the flood damage caused by the Heret ambush. Its signatories included reed cutters, ferry households, burial custodians, and the Green Tithe's counting houses. The military coalitions were excluded because neither would acknowledge that the Unannounced War had legally occurred. Their refusal, intended to avoid compensation, deprived them of any voice in the channel's subsequent governance.\n\nThe compact assigns maintenance by benefit rather than ownership. A field owner contributes according to the land protected from flooding. A ferryman contributes according to the number of crossings made. Burial custodians contribute labor only when a repair threatens grave ground. Counting houses contribute a portion of stored reed because the channel allows their warehouses to remain usable. These different measures require frequent conversion, and the conversion table is the compact's most fought-over annex.\n\nIts unusual clause allows a contributor to dispute an assessment while continuing essential repairs. Earlier agreements treated refusal to pay as refusal to honor the whole undertaking, making a minor accounting disagreement capable of provoking a supernatural crisis. The compact separates the unquestioned task from the contested expense. Courts elsewhere cite this distinction, although wealthy parties often resist it when it would prevent them from stopping work to strengthen a bargaining position.\n\nIn 1248, the channel's upper gate is failing again. The original maintenance schedule assumed a rainfall pattern that no longer holds, and the burial terrace has expanded into the only safe approach for heavy timber. The compact can be amended, but each party demands evidence before accepting a new measure of benefit. Meanwhile, cutters reinforce the gate with basketwork and ferry households transport stone without charging the full rate. They record these contributions in a temporary account. Their immediate cooperation preserves the possibility of a later dispute, which is exactly the kind of imperfect success the compact was designed to permit."
+    },
+    {
+      "id": "the-reed-cutters-masks",
+      "title": "The Reed Cutters' Masks",
+      "kind": "Custom",
+      "region": "Orun",
+      "date": "782–1248",
+      "links": [
+        "heret-ford",
+        "the-side-channel-compact",
+        "the-green-tithe",
+        "the-unannounced-war"
+      ],
+      "inspiration": "The distinction between unofficial combatants and officially denied warfare becomes a practical problem of identity.",
+      "body": "Reed cutters cover their faces during the annual Heret maintenance assembly, though nobody agrees that they did so during the ambush itself. The oldest account mentions cloth against insects and smoke. A victory poem written forty years later describes faceless warriors emerging from the marsh. The counting houses subsequently used that poem to argue that the attackers could not be recognized as lawful witnesses. The masks began as protection, became a heroic image, and then became evidence against the people who wore them.\n\nThe present custom reverses the accusation. Each masked participant places a named tally beside the maintenance basin before speaking. The visible face is withheld, but responsibility is explicitly recorded. A debt holder cannot identify a speaker by sight and intimidate their relatives during the meeting; the assembly can still hold the speaker accountable afterward through the tally. This arrangement is imperfect because powerful families know their debtors' voices. Children therefore read some statements for adults, flattening local accents through a deliberately monotonous recital.\n\nMasks are made from woven reed, cloth, or thin bark. Expensive carved examples are frowned upon because they advertise the wearer's household. A speaker who insists upon ornaments must place them on the common table until the assembly ends. One counting-house representative repeatedly brings a gold-edged mask, pays the resulting fine, and treats the incident as proof of generosity. Cutters have begun buying grain with his fines before he arrives, reducing his yearly performance to an accounting convenience.\n\nOutsiders often interpret the ceremony as worship of a hidden marsh god. There is no such god in the surviving undertakings. The assembly negotiates sluice repairs, working hours, and injury compensation. Its anonymity serves living people facing recognizable pressures. In 1248, the participants are debating whether newcomers without registered tallies should be allowed to speak through a sponsor. The choice will determine whether the custom continues protecting vulnerable workers or merely conceals the authority of an established group behind a memorable local image."
+    },
+    {
+      "id": "the-boot-account",
+      "title": "The Boot Account",
+      "kind": "Document",
+      "region": "Orun",
+      "date": "611–1248",
+      "links": [
+        "the-leather-winter",
+        "the-register-of-absences",
+        "the-seed-barges",
+        "the-green-tithe"
+      ],
+      "inspiration": "Material evidence of starvation contradicts a heroic founding narrative and preserves otherwise unrecorded labor.",
+      "body": "The Boot Account is a provisioning leaf repaired with thin leather along its bottom edge. Its surviving entries document the settlers' final hungry weeks, including a pair of boots cut into fourteen portions. The leather repair was added later by a binder who did not know the page's subject. This accident has tempted generations of commentators to describe the document itself as a meal preserved in writing. The surviving leather cannot be dated closely enough to support that claim.\n\nMore consequential is the ration mark used for an unregistered servant. Official copies replace it with a blank, but the original mark appears beside net repairs, fish deliveries, and a loan of cooking pots. It identifies the person who negotiated an informal exchange with neighboring fishers while the overseer demanded recognition of his land grant. The leaf never supplies a name. Its evidence is nevertheless enough to show that the settlement survived partly through an agreement its leaders did not make and did not later acknowledge.\n\nThe Green Tithe's festivals display an enlarged reproduction with the servant's mark omitted. Curators say the omission makes the account easier to read. Reed households reply that readability is not the difficulty: recognizing the servant's contribution would undermine the faction's account of rescue as a transaction between merchants and legitimate founders alone. An accurate copy might support the descendants of fishers whose aid has never been included in the repayment calculation.\n\nIn 1248, Vesh is comparing the mark with pottery signs from the neighboring settlement's abandoned cooking shelter. A resemblance would establish a shared accounting practice, not necessarily an individual's identity. He has refused a patron's request to announce a recovered name before the comparison is complete. The leaf remains available for inspection behind an ordinary mesh screen, which protects it from sleeves and insects. Scholars have asked for a locked cabinet. Its custodian objects that the document has already spent too much of its history being kept safe from the people whose history it records."
+    },
+    {
+      "id": "the-seed-barges",
+      "title": "The Seed Barges",
+      "kind": "Fleet",
+      "region": "Talassar and Orun",
+      "date": "612–1248",
+      "links": [
+        "the-leather-winter",
+        "the-green-tithe",
+        "the-boot-account",
+        "the-salt-heirs"
+      ],
+      "inspiration": "A resupply encounter reverses abandonment but establishes a durable and unequal commercial relationship.",
+      "body": "The Seed Barges were seven shallow vessels that met Edrin's departing survivors in the spring of 612. Only four carried seed. The others carried grain, cooking salt, spare rope, and the merchants' household servants. Later paintings omit those three boats because the rescued settlement's founders preferred a story of renewed cultivation to an admission that they still needed somebody else to feed them. The cargo lists survive in fragments held by rival Salt Heirs.\n\nThe barges did not return the survivors to their original landing immediately. Their captains required them to camp for nine days while negotiating a safe channel with the neighboring fishers. This delay saved the seed from a late tidal surge but also allowed the merchants to secure transport privileges before the settlers understood the value of the trade they were entering. Benevolence, caution, and advantage traveled together. The captains' descendants emphasize whichever motive best supports their present claims.\n\nNo original hull survives. A ceremonial vessel built in 1042 incorporates one old steering pin whose age is uncertain. Every spring it delivers grain to the lower canal kitchens and reed seedlings to households rebuilding a damaged plot. Until recently, recipients had to swear that their aid came from the Salt Heirs alone. Kitchen keepers now record contributions from boat crews, fishers, and donors outside the faction. Several counting houses have withdrawn support rather than accept the longer acknowledgment.\n\nThe current flotilla therefore consists of ordinary working boats decorated for a single day's journey. It is smaller than the official festival fleet and reaches more shallow landings. Its organizers are considering an undertaking that would guarantee annual deliveries without assigning permanent control over the recipients' work. The old rescue supplies the reason for trying and the warning against a vague promise. A few households refuse all ceremonial seed and purchase their own. Their independence is expensive, but it ensures that the next hungry generation will not inherit an obligation whose final price nobody can calculate."
+    },
+    {
+      "id": "the-heirs-drowned-room",
+      "title": "The Heirs' Drowned Room",
+      "kind": "Place",
+      "region": "Talassar",
+      "date": "786–1248",
+      "links": [
+        "the-salt-heirs",
+        "vesh-of-the-empty-register",
+        "the-wax-faces",
+        "the-house-of-missing-tenants"
+      ],
+      "inspiration": "Compromised commerce and contested family memory accumulate in an archive whose inaccessibility benefits present owners.",
+      "body": "The Heirs' Drowned Room lies beneath the oldest counting house in Talassar. It contains transfer records for grain tallies, identity loans, and wartime guarantees. In 786 the room flooded during an unusually high tide. Clerks moved the valuable wooden fragments upstairs but left the accounts documenting how those fragments had changed hands. Later heirs treated the inundation as proof that the records were lost. The water table has fallen since then, and fragments of legible parchment now dry along the upper shelves.\n\nOpening the room presents ordinary physical dangers. The stair has weakened, the air is poor, and salt crystals cause brittle pages to crumble when moved. A conservator can preserve some leaves by supporting them between fine woven screens and drying them slowly. The counting house has repeatedly refused to pay for this work, while paying considerably more to commission portraits of its founders. Its spokesman says uncertain records would encourage fraudulent claims. People with existing claims answer that uncertainty already protects the owners.\n\nThe room is also associated with a localized pressure in the drains. Whenever a fragment is carried beyond the threshold without its corresponding account, water rises in the counting house's clean well. The effect ceases when both are returned together. This suggests an undertaking binding ownership to disclosure, but nobody has found its witnessed terms. The heirs can avoid the inconvenience simply by leaving everything in place. Their caution has preserved evidence and obstructed inquiry at the same time.\n\nIn 1248 a younger heir has offered Vesh access in exchange for publishing her household's transfers first. He accepts the sequence but refuses any promise that the publication will rehabilitate her ancestors. They have engaged two masons and a screen maker. The project could expose crimes, innocent purchases, and mistakes that nobody intended. Its real obstacle is the expectation that a recovered archive should deliver a single moral verdict, when what the drowned room contains is a long series of transactions whose costs have landed upon different people."
+    },
+    {
+      "id": "the-wax-faces",
+      "title": "The Wax Faces",
+      "kind": "Artifact tradition",
+      "region": "Vey",
+      "date": "783–1248",
+      "links": [
+        "the-house-of-missing-tenants",
+        "the-register-of-absences",
+        "the-heirs-drowned-room",
+        "vesh-of-the-empty-register"
+      ],
+      "inspiration": "Unstable identities and the illicit economy of occupation become portable credentials with material limitations.",
+      "body": "Wax faces are palm-sized seal impressions used to borrow an absent person's recognized household identity. They contain no portrait. The name arose from a witness's complaint that a stamp had begun serving as a face at the court door. During the Unannounced War, travel became difficult for people whose original witnesses lived behind an opposing coalition's checkpoints. Brokers offered wax impressions accompanied by memorized family details. A borrowed identity could get a person through a gate, onto a ferry, or into a kitchen where an unrecognized stranger would be refused.\n\nThe practice did not create a new ancestral undertaking. It deceived living officials about which undertaking already applied. Brokers therefore preferred identities whose owners had disappeared but had not been legally declared dead. The missing person's unresolved status became a commodity. Relatives sometimes cooperated to support escape; sometimes they discovered that a vanished child or parent had been assigned to several unrelated clients.\n\nWax was both useful and treacherous. Heat softened a credential at precisely the season when travelers most needed water. Cheap impressions trapped hairs and fibers that could expose the broker's workshop. A border clerk who learned to recognize those fibers became more effective than a soldier at finding fugitives. One surviving case records a household buying its own confiscated identity back from the clerk, who then testified to its authenticity for an additional fee.\n\nVesh collects impressions only when their ownership can be documented. He stores them in shallow clay trays, each beside a note distinguishing the original name holder from known borrowers. Families object when a borrower's escape story becomes better known than the disappeared person's life. The collection has therefore acquired two separate indexes. In 1248, officials propose destroying the seals to prevent renewed fraud. Archivists counter that the seals show how courts manufactured vulnerability and how ordinary people navigated it. Both concerns are credible. A solution may involve keeping accurate dry copies while marking the surviving wax visibly enough that it can no longer serve as a useful credential."
+    },
+    {
+      "id": "the-dry-yard-verdict",
+      "title": "The Dry Yard Verdict",
+      "kind": "Legal precedent",
+      "region": "Vey",
+      "date": "777–1248",
+      "links": [
+        "the-daughters-petition",
+        "the-executioners-jars",
+        "the-bridge-of-mercies",
+        "the-public-kitchen-witnesses"
+      ],
+      "inspiration": "Authorities reject a plea for clemency while seeking a technical way to avoid its predicted consequences.",
+      "body": "The Dry Yard Verdict holds that an execution conducted beyond the reach of a river undertaking cannot automatically transfer the condemned person's unfinished obligations into that river. The principle arose when Vey's council rejected the Daughters' Petition but accepted its warning about the location of punishment. Officials moved Maren's assassin to a paved yard with no visible water. They covered the executioner's drinking cup and required witnesses to arrive without wet footwear. The care given to these precautions is documented more fully than the council's consideration of the proposed alternative sentence.\n\nLater jurists found the verdict narrower than the officials intended. A yard can contain buried drains, damp earth, and water carried inside living bodies. The precedent never proved that these forms counted as contact, but it also failed to establish that visible dryness was sufficient. Courts gradually replaced its physical test with an accounting test: had the execution created a new claimant whose dependency was foreseeable? This revision made the assassin's elderly aunt more relevant than the paving stones.\n\nPunishment did not disappear. Some towns used the new test to require provision for a prisoner's dependents. Others charged the provision back to those dependents as a hereditary debt. The same protective language could therefore soften a sentence or extend its reach. Kitchen witnesses began recording the actual flow of food and money rather than accepting a court's statement that provision had been made. Their accounts remain the best evidence for distinguishing these outcomes.\n\nIn 1248, a reed district wants to invoke the verdict against a counting house that destroyed a debtor's home during repossession. The house argues that repossession is not punishment. The petitioners argue that the legal label matters less than the predictable creation of hunger. Their case depends upon whether a precedent about death can govern deliberate exposure to winter. It will be heard near the Bridge of Mercies, where the original council's tidy distinction between technical safety and human consequence has never entirely survived contact with daily life."
+    },
+    {
+      "id": "the-public-kitchen-witnesses",
+      "title": "The Public Kitchen Witnesses",
+      "kind": "Guild",
+      "region": "Vey and Orun",
+      "date": "748–1248",
+      "links": [
+        "maren-of-the-public-water",
+        "the-third-bowl",
+        "the-dry-yard-verdict",
+        "the-seed-barges",
+        "the-boot-account"
+      ],
+      "inspiration": "An institution grows from overlooked provisioning labor and preserves facts excluded by official political accounts.",
+      "body": "Public Kitchen Witnesses authenticate work, provisioning, and dependency through the accounts of communal meals. They do not possess a general power to judge ancestor law. Their evidence is narrower and often more useful: who cooked, who delivered fuel, who ate, whose portion was withheld, and what conditions were attached to food. The guild traces its method to Maren but acknowledges older village kitchens whose records were kept without a formal title. Its founding claim is a lineage of practice, not exclusive invention.\n\nTraining begins with purchasing roots for a crowded meal. An apprentice must distinguish weight from edible yield, account for spoiled portions, and record help given by people outside registered households. Only afterward do they learn court forms. This order frustrates patrons who want prestigious scribes rather than experienced cooks. It also makes the witnesses difficult to deceive with a ledger that balances financially while leaving somebody hungry.\n\nThe guild has committed its own abuses. During the repair centuries, several kitchens excluded traveling workers to protect their grain reserves while continuing to certify public generosity. An internal inquiry required those kitchens to preserve the names of people refused a meal. The resulting records embarrassed the guild and made its testimony stronger. That experience informs its present rule: a kitchen can refuse a request it cannot meet, but it must not count the refusal as assistance.\n\nThe thin springs are testing the rule. More claimants arrive, fuel costs rise, and patrons prefer funding visible ceremonies to buying ordinary millet. Some witnesses propose a collective undertaking guaranteeing a meal across the basin. Others warn that such a promise would exceed the guild's resources and might become a new inherited burden. They are experimenting instead with finite seasonal agreements between named kitchens. The Seed Barges supply several of these routes. In 1248, a network of imperfect local commitments is beginning to replace the grand claim that one beneficent authority feeds everyone. Whether it can survive a bad harvest remains an open and urgent question."
+    }
+  ]
+}

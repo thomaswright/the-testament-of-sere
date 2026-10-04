@@ -1,0 +1,27 @@
+# The Restored Spring Field
+
+*Place · Avel · Historical coverage: 827–1248 AFR*
+
+The field retains shallow trenches and irrigation cuts reused during the battle. Farmers repair them for water, not tourists. Its tactical history depends on ordinary terrain knowledge that restoration monuments assign exclusively to the commanding dynasty.
+
+The site has changed use more than once. Its surviving structures should not be read as a single intact design: one household repairs what another abandoned, and a later occupant can preserve a wall while giving its opening a different purpose. Visitors who search only for the original foundation overlook the people paying for the present roof. Custody depends on continuing access and maintenance, not merely on a persuasive genealogy. Removing an interesting object may erase evidence of a repair that explains why the place remains habitable at all.
+
+This belongs to The Secretary at the Restored Spring. After sixty years sharing a crown with a mainland realm, island nobles restored a separate dynasty in 827. Their secretary, born outside the ruling households, became a capable commander but lacked automatic standing among his officers. Rival exiles attempted a patron-funded landing expecting widespread support and found their boats stranded against defended shallows. Later an advancing mainland force was drawn toward a spring through a controlled withdrawal and halted. Restoration ceremonies joined both episodes into a single inevitable victory, although they involved different loyalties and risks. The secretary’s supply accounts preserve the ordinary decisions beneath legitimacy’s grand language and the uneasy relationship between professed dynastic service and personal survival.
+
+In the connected record, [The Restoration Grant Houses](b035-the-restoration-grant-houses.md) preserves another part of this history. The terms recorded under [The Service Before the Lineage Grant](b035-the-service-before-the-lineage-grant.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether restoration grants can be revised to recognize actual service without turning every successful commander’s claim into hereditary authority over the spring.
+
+Avel’s islands preserve competing versions of the basin’s earliest treaties. Sea crossings depend on sails, weather, and provisions, giving a copied text little authority unless somebody can carry its terms home and explain them. Fishing households share beaches with custodians of drowned foundations. Low water reveals masonry that changes both navigation and historical argument. An island’s isolation can shelter dissent and conceal abuse; its effects depend upon who controls the boats. Agreements are usually bounded by named landing places, because a promise to protect an entire sea would have no workable observance.
+
+## Connected entries
+
+[Eumren of the Supply Seal](b035-eumren-of-the-supply-seal.md) · [The Restoration Grant Houses](b035-the-restoration-grant-houses.md) · [The Defenders’ Shallow Passage](b035-the-defenders-shallow-passage.md) · [The Rite Separate from Service](b034-the-rite-separate-from-service.md) · [Syren the Officer Called King](b036-syren-the-officer-called-king.md)
+
+## Referenced by
+
+[Eumren of the Supply Seal](b035-eumren-of-the-supply-seal.md) · [The Restoration Grant Houses](b035-the-restoration-grant-houses.md) · [The Exile’s Landing Ladder](b035-the-exile-s-landing-ladder.md)
+
+## Inspiration
+
+[Source batch 035](../sources/batch-035.md). One of the shared cycle’s source transformations: A royal secretary becoming a commander while lacking the dominant group’s inherited standing becomes a contested outsider’s military authority. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

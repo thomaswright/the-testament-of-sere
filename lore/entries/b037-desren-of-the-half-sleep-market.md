@@ -1,0 +1,27 @@
+# Desren of the Half-Sleep Market
+
+*Person · Talassar · Historical coverage: 1041–1248 AFR*
+
+Desren described fish wearing merchants’ rings and coins shedding empty skins. Audiences treated invention as revelation. He marked performed dreams separately from witnessed facts, preserving their unsettling insight without authorizing judges to confiscate property through a poetic image.
+
+Later accounts make Desren of the Half-Sleep Market the explanation for an entire local change. The surviving record instead places this life among dependencies: an introduction supplied by another household, materials purchased on credit, and testimony given by people with reasons of their own. A biography that removes those dependencies becomes a useful legend and a poor guide to what happened. Descendants inherit evidence and expectations, rather than the ability to repeat an ancestor’s achievement. The practical question is which part of the achievement can be maintained by ordinary people after the celebrated individual is gone.
+
+This belongs to The Dream Market of the Silver Shore. The Silver Shore received new coin faster than food supplies grew, and prices rose across generations while some rents retained older measures. Its fortified island port accumulated settler marriages, garrisons, imposed identities, and households displaced from valuable land. In 1041 a market poet began reciting dreamlike sequences in a half-sleep, making ordinary goods appear strange without claiming his visions proved factual events. A historical reader challenged the port’s comforting account of consensual settlement by tracing departures and confiscations. His interpretation drew strong dispute. Original household records remain essential because neither poetic force nor political conviction settles every transaction. Present residents live amid valuable trade whose prosperity and origin stories conceal uneven costs.
+
+In the connected record, [The Silver Shore Fish Hall](b037-the-silver-shore-fish-hall.md) preserves another part of this history. The terms recorded under [The Old Rent Meal Comparison](b037-the-old-rent-meal-comparison.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: how old rents and displacement claims can be reviewed when rising food prices make both delay and abrupt eviction dangerous to current households.
+
+Talassar combines salt marshes, sheltered boat towns, and orchards whose irrigation depends on tidal timing. Merchants trade durable claims alongside perishable cargo, although only an actual witnessed undertaking has force after death. A repaired boat, a borrowed name, and a neglected drain can each determine whether a contract remains practical. Houses that prosper from distant obligations are exposed to local maintenance costs they would prefer to call somebody else’s problem. Seasonal kitchens and landing crews keep accounts that often describe the region more accurately than its ceremonial histories of uninterrupted family success.
+
+## Connected entries
+
+[The Price of Returning Land](b037-the-price-of-returning-land.md) · [The Silver Shore Fish Hall](b037-the-silver-shore-fish-hall.md) · [The Coin Brightness Shore Crab](b037-the-coin-brightness-shore-crab.md) · [The Successor’s Explicit Scope](b036-the-successor-s-explicit-scope.md) · [Proven of the Wagon Prayer](b038-proven-of-the-wagon-prayer.md)
+
+## Referenced by
+
+[Syren the Officer Called King](b036-syren-the-officer-called-king.md) · [The Eastern Capital Rooms](b036-the-eastern-capital-rooms.md) · [The Last Imperial School](b036-the-last-imperial-school.md) · [The Ancient Name Conquest](b036-the-ancient-name-conquest.md) · [The Officer’s Unroyal Seal](b036-the-officer-s-unroyal-seal.md) · [The Name and Task Recited](b036-the-name-and-task-recited.md) · [The City After the Empire](b036-the-city-after-the-empire.md) · [The Wall Cistern Blind Fish](b036-the-wall-cistern-blind-fish.md) · [The Weavers’ Wall Passage](b036-the-weavers-wall-passage.md) · [The Successor’s Explicit Scope](b036-the-successor-s-explicit-scope.md) · [Sarken of the Golden Name](b036-sarken-of-the-golden-name.md) · [The Outside Specialists’ Yard](b036-the-outside-specialists-yard.md) · [The Reunited Cistern Keepers](b036-the-reunited-cistern-keepers.md) · [The First Wall Gate Closure](b036-the-first-wall-gate-closure.md) · [The Legendary King’s New Brick](b036-the-legendary-king-s-new-brick.md) · [The Shared Calendar Meal](b036-the-shared-calendar-meal.md) · [The Capitals Not Recognized](b036-the-capitals-not-recognized.md) · [The Wall’s Unended Pressure](b036-the-wall-s-unended-pressure.md) · [Calendar Conversion Teaching](b036-calendar-conversion-teaching.md) · [The Officer’s Surviving Claims](b036-the-officer-s-surviving-claims.md) · [The Silver Shore Fish Hall](b037-the-silver-shore-fish-hall.md) · [The Dream Recitation Hearing](b037-the-dream-recitation-hearing.md) · [The Price of Returning Land](b037-the-price-of-returning-land.md)
+
+## Inspiration
+
+[Source batch 037](../sources/batch-037.md). One of the shared cycle’s source transformations: Surreal poetry, market upbringing, and experimental recitation become a dream performer whose imaginative work remains distinct from historical proof. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

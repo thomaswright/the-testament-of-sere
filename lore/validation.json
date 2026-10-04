@@ -1,0 +1,10 @@
+{
+  "entries": 1017,
+  "narrative_words": 409958,
+  "minimum_words": 315,
+  "directed_connections": 5046,
+  "source_batches": 50,
+  "story_cycles": 53,
+  "isolated_entries": [],
+  "failures": []
+}

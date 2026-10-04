@@ -1,0 +1,27 @@
+# The Rite Separate from Service
+
+*Law · Orun · Historical coverage: 694–1248 AFR*
+
+Defense service does not require changing household rites unless separately agreed. The clause protects distinct practice without granting every rite immunity from specific harm claims. Its narrow scope sustains cooperation more reliably than a declaration of absolute uniformity or absolute exemption.
+
+The rule’s force depends on a stated scope. It governs named acts and claimants, rather than every future disagreement that resembles its original case. Courts have nevertheless tried to extend it, usually when a narrow precedent would benefit a powerful applicant. Opponents do not have to deny ancestor law to challenge that extension. They can ask which promise was actually made, who witnessed it, and whether the required observance remains possible. The difference between a valid undertaking and a convenient assertion of authority is central to the current dispute.
+
+This belongs to The Fourteen Courtesies at the Frontier. A frontier confederation defended the reedlands for a larger court while preserving distinct household rites. In 694 a ruler celebrated for avoiding outside wars ordered itinerant households confined, calling the measure domestic order rather than violence. A polished dramatist exposed social bargaining through lovers and rival hosts, but patrons quoted his clever lines without hearing their consequences. Peace negotiators proposed fourteen principles whose general promises exceeded what signatories were willing to provide. Frontier households welcomed reduced warfare and demanded specific terms for movement, food, and independent rites. The resulting courtesies remain useful precisely where they name finite acts, and hollow where elegant language replaces the work required to carry them out.
+
+In the connected record, [Feren of the Avoided Wars](b034-feren-of-the-avoided-wars.md) preserves another part of this history. The terms recorded under [The Rite Separate from Service](b034-the-rite-separate-from-service.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether a peace settlement can protect itinerant households and frontier rites through executable terms instead of another ceremony praising the ruler’s prudence.
+
+The Orun channels shift across a landscape whose legal descriptions often name vanished banks. Fishers, reed workers, and gardeners share access without sharing a single account of ownership. Transport depends on shallow boats and pilots who read changes in sediment. Salt reaches some plots well before neighboring plots, making an apparently equal assessment unfair in practice. An ancestral claim can survive a change in the channel, but its observance may become impossible at the old site. Communities must decide whether to move the observance, compensate its claimants, or leave the affected water unused.
+
+## Connected entries
+
+[The Itinerants’ Interrupted Circuit](b034-the-itinerants-interrupted-circuit.md) · [Feren of the Avoided Wars](b034-feren-of-the-avoided-wars.md) · [The Confined Trades’ Accounts](b034-the-confined-trades-accounts.md) · [The Uniform Has No Exception](b033-the-uniform-has-no-exception.md) · [Eumren of the Supply Seal](b035-eumren-of-the-supply-seal.md)
+
+## Referenced by
+
+[The Reed Frontier Confederation](b034-the-reed-frontier-confederation.md) · [The Itinerants’ Interrupted Circuit](b034-the-itinerants-interrupted-circuit.md) · [Feren of the Avoided Wars](b034-feren-of-the-avoided-wars.md) · [Eumren of the Supply Seal](b035-eumren-of-the-supply-seal.md) · [The Restored Spring Field](b035-the-restored-spring-field.md) · [The Restoration Grant Houses](b035-the-restoration-grant-houses.md) · [The Stranded Exile Landing](b035-the-stranded-exile-landing.md) · [The Secretary’s Repaired Seal](b035-the-secretary-s-repaired-seal.md) · [The Retreat Named Before the Charge](b035-the-retreat-named-before-the-charge.md) · [The Restored Crown’s Shared Years](b035-the-restored-crown-s-shared-years.md) · [The Spring Reed Warbler](b035-the-spring-reed-warbler.md) · [The Defenders’ Shallow Passage](b035-the-defenders-shallow-passage.md) · [The Service Before the Lineage Grant](b035-the-service-before-the-lineage-grant.md) · [Joren of the Separate Crown](b035-joren-of-the-separate-crown.md) · [The Exiles’ Unreturned Boat Yard](b035-the-exiles-unreturned-boat-yard.md) · [The Spring Maintenance Claimants](b035-the-spring-maintenance-claimants.md) · [The Controlled Withdrawal](b035-the-controlled-withdrawal.md) · [The Exile’s Landing Ladder](b035-the-exile-s-landing-ladder.md) · [The Rival Dead Named](b035-the-rival-dead-named.md) · [The Secretary’s Two Allegiances](b035-the-secretary-s-two-allegiances.md) · [The Restored Spring’s Reverse Flow](b035-the-restored-spring-s-reverse-flow.md) · [Landing Ladder Repair](b035-landing-ladder-repair.md) · [The Spring Grant Revision](b035-the-spring-grant-revision.md)
+
+## Inspiration
+
+[Source batch 034](../sources/batch-034.md). One of the shared cycle’s source transformations: A ruler praised for peace alongside a mass confinement order becomes incompatible public evaluations grounded in different affected households. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

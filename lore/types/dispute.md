@@ -1,0 +1,53 @@
+# Dispute
+
+- [The Refuge Compensation Hearing](../entries/b002-the-refuge-compensation-hearing.md) — Keth; 846–1248 AFR
+- [Who May Name Ulven](../entries/b003-who-may-name-ulven.md) — Namar; 731–1248 AFR
+- [The Ninth Voice Petition](../entries/b004-the-ninth-voice-petition.md) — Vey; 208–1248 AFR
+- [The Monuments’ Maintenance Claim](../entries/b005-the-monuments-maintenance-claim.md) — Suth; 982–1248 AFR
+- [The Unrecognized Children’s Release](../entries/b006-the-unrecognized-children-s-release.md) — Namar; 667–1248 AFR
+- [The Border’s Missing Review](../entries/b007-the-border-s-missing-review.md) — Avel; 914–1248 AFR
+- [Who Owns the Mill Gesture](../entries/b008-who-owns-the-mill-gesture.md) — Orun; 537–1248 AFR
+- [The Founder Credit Hearing](../entries/b009-the-founder-credit-hearing.md) — Istren; 1007–1248 AFR
+- [The Toll Without the Ridge](../entries/b010-the-toll-without-the-ridge.md) — Talassar; 758–1248 AFR
+- [The Forest and the Fair](../entries/b011-the-forest-and-the-fair.md) — Istren; 423–1248 AFR
+- [The Old Debt Price Review](../entries/b012-the-old-debt-price-review.md) — Talassar; 1123–1248 AFR
+- [The Capital’s Living Successors](../entries/b013-the-capital-s-living-successors.md) — Suth; 1059–1248 AFR
+- [Freedom Upon Borrowed Land](../entries/b014-freedom-upon-borrowed-land.md) — Avel; 688–1248 AFR
+- [The Shelter Reference Debate](../entries/b015-the-shelter-reference-debate.md) — Vey; 1176–1248 AFR
+- [The Succession Without a Throne](../entries/b016-the-succession-without-a-throne.md) — Keth; 349–1248 AFR
+- [The Refuge Membership Hearing](../entries/b017-the-refuge-membership-hearing.md) — Avel; 809–1248 AFR
+- [The Praise Without the Promise](../entries/b018-the-praise-without-the-promise.md) — Talassar; 1206–1248 AFR
+- [The Store’s Sacred Debt Claim](../entries/b019-the-store-s-sacred-debt-claim.md) — Keth; 1162–1248 AFR
+- [The Servants’ Election Petition](../entries/b020-the-servants-election-petition.md) — Suth; 943–1248 AFR
+- [The Victory Oracle Claim](../entries/b021-the-victory-oracle-claim.md) — Namar; 472–1248 AFR
+- [The Old Refuge Assessment](../entries/b022-the-old-refuge-assessment.md) — Vey; 591–1248 AFR
+- [Who Belongs to the Dry League](../entries/b023-who-belongs-to-the-dry-league.md) — Namar; 1081–1248 AFR
+- [Order and the Unregistered Household](../entries/b024-order-and-the-unregistered-household.md) — Vey; 1138–1248 AFR
+- [The Care After the Statue](../entries/b025-the-care-after-the-statue.md) — Istren; 1104–1248 AFR
+- [The Beach Before the Boundary](../entries/b026-the-beach-before-the-boundary.md) — Avel; 969–1248 AFR
+- [The Court Requisition Appeal](../entries/b027-the-court-requisition-appeal.md) — Keth; 1181–1248 AFR
+- [The Plot Without the Gate](../entries/b028-the-plot-without-the-gate.md) — Vey; 721–1248 AFR
+- [The Courage Levy Petition](../entries/b029-the-courage-levy-petition.md) — Orun; 873–1248 AFR
+- [The Patron’s Exclusive Repertoire](../entries/b030-the-patron-s-exclusive-repertoire.md) — Istren; 156–1248 AFR
+- [The Mixed Descendants’ Place](../entries/b031-the-mixed-descendants-place.md) — Suth; 631–1248 AFR
+- [The Openness Without Compensation](../entries/b032-the-openness-without-compensation.md) — Istren; 1019–1248 AFR
+- [Disruption at the Memorial](../entries/b033-disruption-at-the-memorial.md) — Namar; 1072–1248 AFR
+- [The Peace That Includes Return](../entries/b034-the-peace-that-includes-return.md) — Orun; 694–1248 AFR
+- [The Spring Grant Revision](../entries/b035-the-spring-grant-revision.md) — Avel; 827–1248 AFR
+- [The Officer’s Surviving Claims](../entries/b036-the-officer-s-surviving-claims.md) — Keth; 402–1248 AFR
+- [The Price of Returning Land](../entries/b037-the-price-of-returning-land.md) — Talassar; 1041–1248 AFR
+- [The Capital Repair Inheritance](../entries/b038-the-capital-repair-inheritance.md) — Namar; 932–1248 AFR
+- [The Garden’s New Sponsor](../entries/b039-the-garden-s-new-sponsor.md) — Suth; 779–1248 AFR
+- [The Shared Tenancy Proposal](../entries/b040-the-shared-tenancy-proposal.md) — Talassar; 1214–1248 AFR
+- [The Famine Account Authority](../entries/b041-the-famine-account-authority.md) — Keth; 89–1248 AFR
+- [The Depths and the Electorate](../entries/b042-the-depths-and-the-electorate.md) — Keth; 1221–1248 AFR
+- [The Newcomer’s Milk Name](../entries/b043-the-newcomer-s-milk-name.md) — Namar; 1034–1248 AFR
+- [The Monument or the Depot](../entries/b044-the-monument-or-the-depot.md) — Istren; 1197–1248 AFR
+- [Equality Claimed by the Commander](../entries/b045-equality-claimed-by-the-commander.md) — Orun; 1151–1248 AFR
+- [The School Beyond the Heirs](../entries/b046-the-school-beyond-the-heirs.md) — Suth; 1188–1248 AFR
+- [The Discipline Without Consent](../entries/b047-the-discipline-without-consent.md) — Vey; 976–1248 AFR
+- [The Old Debt Under Rubble](../entries/b048-the-old-debt-under-rubble.md) — Talassar; 1232–1248 AFR
+- [The Victory’s Care Debt](../entries/b049-the-victory-s-care-debt.md) — Orun; 1117–1248 AFR
+- [The Charter After the Chorus](../entries/b050-the-charter-after-the-chorus.md) — Avel; 1239–1248 AFR
+
+[All kinds](index.md)

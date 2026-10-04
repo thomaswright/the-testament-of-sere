@@ -1,0 +1,27 @@
+# The Emergency Portion Substitution
+
+*Law · Orun · Historical coverage: 1117–1248 AFR*
+
+A food undertaking can be temporarily substituted through claimant consent and documented later provision. The rule creates negotiation, not automatic release. Its usefulness depends on suppliers being represented, including small households whose grain claims sustain their own meals.
+
+The rule’s force depends on a stated scope. It governs named acts and claimants, rather than every future disagreement that resembles its original case. Courts have nevertheless tried to extend it, usually when a narrow precedent would benefit a powerful applicant. Opponents do not have to deny ancestor law to challenge that extension. They can ask which promise was actually made, who witnessed it, and whether the required observance remains possible. The difference between a valid undertaking and a convenient assertion of authority is central to the current dispute.
+
+This belongs to The Blue Wards After Victory. After a defended reed kingdom defeated an invading ruler, its queen became a subject of later paintings based chiefly on one surviving account. In 1117 postwar shortages combined damaged irrigation, poor rainfall, export commitments, and unequal distribution into famine. A glaze worker found a reliable brilliant blue through years of failed kiln batches and collaboration the workshop’s master initially claimed. Care houses used the blue tiles to mark clean water stations, with an ordinary glaze visible in daylight. Their development joined older shrine hospitality, military nursing, and neighborhood kitchens. Present residents compare glorious victory images with actual child portions and repair needs, asking what protection means when a surviving realm cannot adequately feed those it celebrates having saved.
+
+In the connected record, [Tomren of the Uncertain Victory](b049-tomren-of-the-uncertain-victory.md) preserves another part of this history. The terms recorded under [The Emergency Portion Substitution](b049-the-emergency-portion-substitution.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether export undertakings can be substituted or delayed so that care houses receive grain without simply transferring every loss to small upstream suppliers.
+
+The Orun channels shift across a landscape whose legal descriptions often name vanished banks. Fishers, reed workers, and gardeners share access without sharing a single account of ownership. Transport depends on shallow boats and pilots who read changes in sediment. Salt reaches some plots well before neighboring plots, making an apparently equal assessment unfair in practice. An ancestral claim can survive a change in the channel, but its observance may become impossible at the old site. Communities must decide whether to move the observance, compensate its claimants, or leave the affected water unused.
+
+## Connected entries
+
+[The Export Grain Bypass](b049-the-export-grain-bypass.md) · [Tomren of the Uncertain Victory](b049-tomren-of-the-uncertain-victory.md) · [The Famine’s Several Ledgers](b049-the-famine-s-several-ledgers.md) · [The Available Goods Relief Test](b048-the-available-goods-relief-test.md) · [Hawren of the Changed Name](b050-hawren-of-the-changed-name.md)
+
+## Referenced by
+
+[The Postwar Portion Council](b049-the-postwar-portion-council.md) · [The Export Grain Bypass](b049-the-export-grain-bypass.md) · [Tomren of the Uncertain Victory](b049-tomren-of-the-uncertain-victory.md) · [Hawren of the Changed Name](b050-hawren-of-the-changed-name.md) · [The Southern Water Gate](b050-the-southern-water-gate.md) · [The Occupation Reform Rooms](b050-the-occupation-reform-rooms.md) · [The Siege’s Reopened Water](b050-the-siege-s-reopened-water.md) · [The Bell’s Earlier Gathering Tile](b050-the-bell-s-earlier-gathering-tile.md) · [The Wordless Song Explained](b050-the-wordless-song-explained.md) · [The House of the Unpaid Ancestor](b050-the-house-of-the-unpaid-ancestor.md) · [The Gate Bell Nest Dove](b050-the-gate-bell-nest-dove.md) · [The Siege Kitchen Boat Route](b050-the-siege-kitchen-boat-route.md) · [The Song Is Not Consent Rule](b050-the-song-is-not-consent-rule.md) · [Khilven of the Returning Air](b050-khilven-of-the-returning-air.md) · [The Neighbor’s Weakened Spring](b050-the-neighbor-s-weakened-spring.md) · [The Harbor Amendment Witnesses](b050-the-harbor-amendment-witnesses.md) · [The Charter Singing Ceremony](b050-the-charter-singing-ceremony.md) · [The Storyteller’s Different Letter](b050-the-storyteller-s-different-letter.md) · [The Bell and the Amendment Pause](b050-the-bell-and-the-amendment-pause.md) · [The Bells Before the Victory](b050-the-bells-before-the-victory.md) · [The Bell’s Unheard Second Stroke](b050-the-bell-s-unheard-second-stroke.md) · [Gate Bell Support Repair](b050-gate-bell-support-repair.md) · [The Charter After the Chorus](b050-the-charter-after-the-chorus.md) · [The Last Season at the Peace Garden](the-last-season-at-the-peace-garden.md)
+
+## Inspiration
+
+[Source batch 049](../sources/batch-049.md). One of the shared cycle’s source transformations: A queen’s victory known chiefly through one ancient account and later visual interpretations becomes a remembered ruler whose dramatic details remain uncertain. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

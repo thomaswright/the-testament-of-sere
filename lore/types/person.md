@@ -1,0 +1,104 @@
+# Person
+
+- [Vesh of the Empty Register](../entries/vesh-of-the-empty-register.md) — Vey; 1191–1248 AFR
+- [Maren of the Public Water](../entries/maren-of-the-public-water.md) — Vey; 723–776 AFR
+- [Darr of the Borrowed Crown](../entries/b002-darr-of-the-borrowed-crown.md) — Keth; 846–1248 AFR
+- [Nessa the Sheet Keeper](../entries/b002-nessa-the-sheet-keeper.md) — Keth; 846–1248 AFR
+- [Erel of the Quiet Elbow](../entries/b003-erel-of-the-quiet-elbow.md) — Namar; 731–1248 AFR
+- [Savel the Condemned Player](../entries/b003-savel-the-condemned-player.md) — Namar; 731–1248 AFR
+- [Orvel the Unenrolled Reader](../entries/b004-orvel-the-unenrolled-reader.md) — Vey; 208–1248 AFR
+- [Pera of the Kitchen Meetings](../entries/b004-pera-of-the-kitchen-meetings.md) — Vey; 208–1248 AFR
+- [Lethra of the Late Measure](../entries/b005-lethra-of-the-late-measure.md) — Suth; 982–1248 AFR
+- [Oren Who Turned Back](../entries/b005-oren-who-turned-back.md) — Suth; 982–1248 AFR
+- [Hevren of the Many Courtyards](../entries/b006-hevren-of-the-many-courtyards.md) — Namar; 667–1248 AFR
+- [Taren of the Servants’ Door](../entries/b006-taren-of-the-servants-door.md) — Namar; 667–1248 AFR
+- [Fen of the Rotating Tables](../entries/b007-fen-of-the-rotating-tables.md) — Avel; 914–1248 AFR
+- [Aser of the Distant Lamp](../entries/b007-aser-of-the-distant-lamp.md) — Avel; 914–1248 AFR
+- [Dessa of the Mill Dance](../entries/b008-dessa-of-the-mill-dance.md) — Orun; 537–1248 AFR
+- [Uren of the Returned Assembly](../entries/b008-uren-of-the-returned-assembly.md) — Orun; 537–1248 AFR
+- [Halen of the Shared Oven](../entries/b009-halen-of-the-shared-oven.md) — Istren; 1007–1248 AFR
+- [Soren the Pool Adviser](../entries/b009-soren-the-pool-adviser.md) — Istren; 1007–1248 AFR
+- [Koresh of the Polished Edge](../entries/b010-koresh-of-the-polished-edge.md) — Talassar; 758–1248 AFR
+- [Ovel the Small Beast Maker](../entries/b010-ovel-the-small-beast-maker.md) — Talassar; 758–1248 AFR
+- [Varn of the Joined Shores](../entries/b011-varn-of-the-joined-shores.md) — Istren; 423–1248 AFR
+- [Arven the Royal Villain](../entries/b011-arven-the-royal-villain.md) — Istren; 423–1248 AFR
+- [Leven of the Curved Workers](../entries/b012-leven-of-the-curved-workers.md) — Talassar; 1123–1248 AFR
+- [Cera of the Contract Marks](../entries/b012-cera-of-the-contract-marks.md) — Talassar; 1123–1248 AFR
+- [Noren of the Small Exchanges](../entries/b013-noren-of-the-small-exchanges.md) — Suth; 1059–1248 AFR
+- [Femu the Listening Player](../entries/b013-femu-the-listening-player.md) — Suth; 1059–1248 AFR
+- [Samel of the Open Rehearsal](../entries/b014-samel-of-the-open-rehearsal.md) — Avel; 688–1248 AFR
+- [Alya of the Unheard Teacher](../entries/b014-alya-of-the-unheard-teacher.md) — Avel; 688–1248 AFR
+- [Poven of the Hinged Judgment](../entries/b015-poven-of-the-hinged-judgment.md) — Vey; 1176–1248 AFR
+- [Sulev the Returning Illuminator](../entries/b015-sulev-the-returning-illuminator.md) — Vey; 1176–1248 AFR
+- [Arken of the Shared Spindle](../entries/b016-arken-of-the-shared-spindle.md) — Keth; 349–1248 AFR
+- [Mendel of the Narrow Hospice](../entries/b016-mendel-of-the-narrow-hospice.md) — Keth; 349–1248 AFR
+- [Taven of the Two Brothers](../entries/b017-taven-of-the-two-brothers.md) — Avel; 809–1248 AFR
+- [Kemren the Shelter Captain](../entries/b017-kemren-the-shelter-captain.md) — Avel; 809–1248 AFR
+- [Grosen of the Painted Landing](../entries/b018-grosen-of-the-painted-landing.md) — Talassar; 1206–1248 AFR
+- [Orven the Unmoving Singer](../entries/b018-orven-the-unmoving-singer.md) — Talassar; 1206–1248 AFR
+- [Petren of the Linked Measures](../entries/b019-petren-of-the-linked-measures.md) — Keth; 1162–1248 AFR
+- [Erven of the Deep Refrain](../entries/b019-erven-of-the-deep-refrain.md) — Keth; 1162–1248 AFR
+- [Valen the Basin Physician](../entries/b020-valen-the-basin-physician.md) — Suth; 943–1248 AFR
+- [Iren of the Exiled Measures](../entries/b020-iren-of-the-exiled-measures.md) — Suth; 943–1248 AFR
+- [Sendren of the Open Flame](../entries/b021-sendren-of-the-open-flame.md) — Namar; 472–1248 AFR
+- [Vasen of the Seventh Recitation](../entries/b021-vasen-of-the-seventh-recitation.md) — Namar; 472–1248 AFR
+- [Salla of the Raised Tally](../entries/b022-salla-of-the-raised-tally.md) — Vey; 591–1248 AFR
+- [Mosen of the Joined Refuge](../entries/b022-mosen-of-the-joined-refuge.md) — Vey; 591–1248 AFR
+- [Alven of the Changing Ensemble](../entries/b023-alven-of-the-changing-ensemble.md) — Namar; 1081–1248 AFR
+- [Nagen the Compromised Reformer](../entries/b023-nagen-the-compromised-reformer.md) — Namar; 1081–1248 AFR
+- [Pedren of the Bright Households](../entries/b024-pedren-of-the-bright-households.md) — Vey; 1138–1248 AFR
+- [Evrin of the Contrary Margins](../entries/b024-evrin-of-the-contrary-margins.md) — Vey; 1138–1248 AFR
+- [Elren of the Collected Customs](../entries/b025-elren-of-the-collected-customs.md) — Istren; 1104–1248 AFR
+- [Saven the Celebrated Giver](../entries/b025-saven-the-celebrated-giver.md) — Istren; 1104–1248 AFR
+- [Jula of the Fast Cast](../entries/b026-jula-of-the-fast-cast.md) — Avel; 969–1248 AFR
+- [Eshan of the Second Measure](../entries/b026-eshan-of-the-second-measure.md) — Avel; 969–1248 AFR
+- [Vena of the Paired Court](../entries/b027-vena-of-the-paired-court.md) — Keth; 1181–1248 AFR
+- [Saha of the Unranked Furnace](../entries/b027-saha-of-the-unranked-furnace.md) — Keth; 1181–1248 AFR
+- [Khalven of the Quiet Keys](../entries/b028-khalven-of-the-quiet-keys.md) — Vey; 721–1248 AFR
+- [Storen of the Garden Survey](../entries/b028-storen-of-the-garden-survey.md) — Vey; 721–1248 AFR
+- [Hela of the Unheroic Diary](../entries/b029-hela-of-the-unheroic-diary.md) — Orun; 873–1248 AFR
+- [Pera of the Kitchen Comedy](../entries/b029-pera-of-the-kitchen-comedy.md) — Orun; 873–1248 AFR
+- [Chaela of the Exiled School](../entries/b030-chaela-of-the-exiled-school.md) — Istren; 156–1248 AFR
+- [Soren of the Easy Measures](../entries/b030-soren-of-the-easy-measures.md) — Istren; 156–1248 AFR
+- [Rathen of the Shared Metal](../entries/b031-rathen-of-the-shared-metal.md) — Suth; 631–1248 AFR
+- [Aulena of the Seven Gardens](../entries/b031-aulena-of-the-seven-gardens.md) — Suth; 631–1248 AFR
+- [Ewan of the Borrowed Work Songs](../entries/b032-ewan-of-the-borrowed-work-songs.md) — Istren; 1019–1248 AFR
+- [Galena of the Held Step](../entries/b032-galena-of-the-held-step.md) — Istren; 1019–1248 AFR
+- [Igven of the Raw Drum](../entries/b033-igven-of-the-raw-drum.md) — Namar; 1072–1248 AFR
+- [Carven of the Yielded Throne](../entries/b033-carven-of-the-yielded-throne.md) — Namar; 1072–1248 AFR
+- [Congren of the Polite Bargain](../entries/b034-congren-of-the-polite-bargain.md) — Orun; 694–1248 AFR
+- [Feren of the Avoided Wars](../entries/b034-feren-of-the-avoided-wars.md) — Orun; 694–1248 AFR
+- [Eumren of the Supply Seal](../entries/b035-eumren-of-the-supply-seal.md) — Avel; 827–1248 AFR
+- [Joren of the Separate Crown](../entries/b035-joren-of-the-separate-crown.md) — Avel; 827–1248 AFR
+- [Syren the Officer Called King](../entries/b036-syren-the-officer-called-king.md) — Keth; 402–1248 AFR
+- [Sarken of the Golden Name](../entries/b036-sarken-of-the-golden-name.md) — Keth; 402–1248 AFR
+- [Desren of the Half-Sleep Market](../entries/b037-desren-of-the-half-sleep-market.md) — Talassar; 1041–1248 AFR
+- [Paven of the Contrary Shore History](../entries/b037-paven-of-the-contrary-shore-history.md) — Talassar; 1041–1248 AFR
+- [Proven of the Wagon Prayer](../entries/b038-proven-of-the-wagon-prayer.md) — Namar; 932–1248 AFR
+- [Agnel of the Many Axles](../entries/b038-agnel-of-the-many-axles.md) — Namar; 932–1248 AFR
+- [Pastren of the Meeting Garden](../entries/b039-pastren-of-the-meeting-garden.md) — Suth; 779–1248 AFR
+- [Sundren of the Returning Epic](../entries/b039-sundren-of-the-returning-epic.md) — Suth; 779–1248 AFR
+- [Milen of the Changed Alliance](../entries/b040-milen-of-the-changed-alliance.md) — Talassar; 1214–1248 AFR
+- [Tsiren of the Quay Tavern](../entries/b040-tsiren-of-the-quay-tavern.md) — Talassar; 1214–1248 AFR
+- [Lonsha of the Faceted Salt](../entries/b041-lonsha-of-the-faceted-salt.md) — Keth; 89–1248 AFR
+- [Stonen of the Physical Ledger](../entries/b041-stonen-of-the-physical-ledger.md) — Keth; 89–1248 AFR
+- [Liwen of the Finite Bell](../entries/b042-liwen-of-the-finite-bell.md) — Keth; 1221–1248 AFR
+- [Banren of the Reclaimed Depths](../entries/b042-banren-of-the-reclaimed-depths.md) — Keth; 1221–1248 AFR
+- [Morgen of the Milk Relations](../entries/b043-morgen-of-the-milk-relations.md) — Namar; 1034–1248 AFR
+- [Shalen of the Plain Name](../entries/b043-shalen-of-the-plain-name.md) — Namar; 1034–1248 AFR
+- [Yamen of the Borrowed Voices](../entries/b044-yamen-of-the-borrowed-voices.md) — Istren; 1197–1248 AFR
+- [Amren of the Measured Return](../entries/b044-amren-of-the-measured-return.md) — Istren; 1197–1248 AFR
+- [Ricen of the Crossing Ballads](../entries/b045-ricen-of-the-crossing-ballads.md) — Orun; 1151–1248 AFR
+- [Samren of the Expanding Resistance](../entries/b045-samren-of-the-expanding-resistance.md) — Orun; 1151–1248 AFR
+- [Hersen of the Milk Caramel](../entries/b046-hersen-of-the-milk-caramel.md) — Suth; 1188–1248 AFR
+- [Proven of the Shared Vibration](../entries/b046-proven-of-the-shared-vibration.md) — Suth; 1188–1248 AFR
+- [Huven of the Serious Game](../entries/b047-huven-of-the-serious-game.md) — Vey; 976–1248 AFR
+- [Desven of the Strict Household](../entries/b047-desven-of-the-strict-household.md) — Vey; 976–1248 AFR
+- [Rubren of the High Search Note](../entries/b048-rubren-of-the-high-search-note.md) — Talassar; 1232–1248 AFR
+- [Andren of the Central Relief List](../entries/b048-andren-of-the-central-relief-list.md) — Talassar; 1232–1248 AFR
+- [Shuren of the Reliable Blue](../entries/b049-shuren-of-the-reliable-blue.md) — Orun; 1117–1248 AFR
+- [Tomren of the Uncertain Victory](../entries/b049-tomren-of-the-uncertain-victory.md) — Orun; 1117–1248 AFR
+- [Hawren of the Changed Name](../entries/b050-hawren-of-the-changed-name.md) — Avel; 1239–1248 AFR
+- [Khilven of the Returning Air](../entries/b050-khilven-of-the-returning-air.md) — Avel; 1239–1248 AFR
+
+[All kinds](index.md)

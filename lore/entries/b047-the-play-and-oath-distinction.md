@@ -1,0 +1,27 @@
+# The Play and Oath Distinction
+
+*Law · Vey · Historical coverage: 976–1248 AFR*
+
+Voluntary game rules expire with the named play unless separately witnessed as an undertaking. The distinction limits accidental inheritance. It protects meaningful agreement without allowing every contest, joke, or temporary experiment to become permanent ancestor law.
+
+The rule’s force depends on a stated scope. It governs named acts and claimants, rather than every future disagreement that resembles its original case. Courts have nevertheless tried to extend it, usually when a narrow precedent would benefit a powerful applicant. Opponents do not have to deny ancestor law to challenge that extension. They can ask which promise was actually made, who witnessed it, and whether the required observance remains possible. The difference between a valid undertaking and a convenient assertion of authority is central to the current dispute.
+
+This belongs to The Games of the Unwritten Page. After an emergency regime ended, rival reform groups briefly governed together under a strict administrator whose private disciplines became public expectations. In 976 inquiry societies used demonstrations and handwritten exchanges to test claims once accepted through prestige alone. A cultural reader studied play as a serious source of shared rules rather than a childish distraction. A river battle involving shifting allies was remembered as the moment captive artisans introduced papermaking. Earlier fiber sheets complicated that convenient origin story. Schools learned to trace actual techniques through migration and exchange. Their surviving games and archives distinguish voluntary participation from witnessed undertakings, making room for experimentation without converting every agreed rule into an ancestral burden.
+
+In the connected record, [Desven of the Strict Household](b047-desven-of-the-strict-household.md) preserves another part of this history. The terms recorded under [The Play and Oath Distinction](b047-the-play-and-oath-distinction.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether inquiry houses can keep access voluntary when patrons want their favored disciplines and origin stories treated as compulsory public truth.
+
+Vey households measure wealth partly in dependable access to a public landing. Their markets exchange grain, lamp oil, glazed jars, and legal testimony. A witness can authenticate a transaction but cannot provide the labor needed to fulfill it. Seasonal crews clean the same embankments on which courts announce judgments, and a decision that ignores those crews soon meets an expensive physical limit. Flood deposits preserve small objects while destroying the arrangement that once made their meaning obvious. Recovering an object is therefore easier than establishing what anybody was entitled to do with it.
+
+## Connected entries
+
+[The Captive Artisans’ Return Route](b047-the-captive-artisans-return-route.md) · [Desven of the Strict Household](b047-desven-of-the-strict-household.md) · [The Paper Before the Battle](b047-the-paper-before-the-battle.md) · [The Host’s Consent Distinction](b046-the-host-s-consent-distinction.md) · [Rubren of the High Search Note](b048-rubren-of-the-high-search-note.md)
+
+## Referenced by
+
+[The Open Comparison Houses](b047-the-open-comparison-houses.md) · [The Captive Artisans’ Return Route](b047-the-captive-artisans-return-route.md) · [Desven of the Strict Household](b047-desven-of-the-strict-household.md) · [Rubren of the High Search Note](b048-rubren-of-the-high-search-note.md) · [The Broken Mint Quarter](b048-the-broken-mint-quarter.md) · [The Independent Relief Kitchens](b048-the-independent-relief-kitchens.md) · [The Mint Quarter Shaking](b048-the-mint-quarter-shaking.md) · [The Grain Claim Coin](b048-the-grain-claim-coin.md) · [The Supply Spoken as Arrived](b048-the-supply-spoken-as-arrived.md) · [The Quarter’s Uncertain Losses](b048-the-quarter-s-uncertain-losses.md) · [The Rubble Roof Rat](b048-the-rubble-roof-rat.md) · [The Aftershock Inspection Walk](b048-the-aftershock-inspection-walk.md) · [The Available Goods Relief Test](b048-the-available-goods-relief-test.md) · [Andren of the Central Relief List](b048-andren-of-the-central-relief-list.md) · [The Mint School’s Temporary Shade](b048-the-mint-school-s-temporary-shade.md) · [The Paired Search Listeners](b048-the-paired-search-listeners.md) · [The First Relief List Exclusion](b048-the-first-relief-list-exclusion.md) · [The Singer’s Limited Pitch Board](b048-the-singer-s-limited-pitch-board.md) · [The Debt Beside the Meal](b048-the-debt-beside-the-meal.md) · [The Money Forms Compared](b048-the-money-forms-compared.md) · [The Mint’s Unspent Ringing](b048-the-mint-s-unspent-ringing.md) · [Relief Beam Salvage](b048-relief-beam-salvage.md) · [The Old Debt Under Rubble](b048-the-old-debt-under-rubble.md) · [Dry Copies and Wet Witnesses](dry-copies-and-wet-witnesses.md)
+
+## Inspiration
+
+[Source batch 047](../sources/batch-047.md). One of the shared cycle’s source transformations: Cultural history treating play as fundamental becomes study of shared voluntary rules and their boundaries. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

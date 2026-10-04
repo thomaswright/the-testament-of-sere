@@ -1,0 +1,27 @@
+# Proven of the Wagon Prayer
+
+*Person · Namar · Historical coverage: 932–1248 AFR*
+
+Proven conducted finite rites before inspecting wagon joints. Opponents called his roles incompatible. His account distinguishes ritual witness from mechanical safety, showing that combining professions need not mean treating sacred authority as proof a wheel will hold.
+
+Later accounts make Proven of the Wagon Prayer the explanation for an entire local change. The surviving record instead places this life among dependencies: an introduction supplied by another household, materials purchased on credit, and testimony given by people with reasons of their own. A biography that removes those dependencies becomes a useful legend and a poor guide to what happened. Descendants inherit evidence and expectations, rather than the ability to repeat an ancestor’s achievement. The practical question is which part of the achievement can be maintained by ordinary people after the celebrated individual is gone.
+
+This belongs to The Wagons Beneath the Borrowed Capital. A confederation of pasture kingdoms formed through migration and intermarriage, retaining local rulers even under later outside administrations. In 932 a priest-general organized defensive wagons while continuing ritual duties, unsettling households accustomed to separating those roles. A wealthy cart-building dynasty supplied repairs and adopted eccentric dress copied as aristocratic taste. Competing generals claimed one capital, obtaining foreign recognition, loans, and customs income despite incomplete local control. The pasture kingdoms negotiated with whichever office could actually sustain a route. Present descendants inherit useful wagon techniques alongside exaggerated accounts of a single commanding state, making continuity a question of maintenance, marriage, and finite commitments rather than unchanged political unity.
+
+In the connected record, [The Borrowed Capital Custom House](b038-the-borrowed-capital-custom-house.md) preserves another part of this history. The terms recorded under [The Benefited Repair Assessment](b038-the-benefited-repair-assessment.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: which recognized capital office should repay repairs ordered by rivals when every current claimant benefited from the routes kept open.
+
+The Namar passes join pasture settlements to caravan markets. Pack animals carry nearly everything that cannot be made from local stone, wool, or timber. Snow closes crossings irregularly, and a route that is short on a map may cost more food than a longer sheltered path. Hospices preserve undertakings made by travelers who never returned. Their custodians cannot assume that a visitor belongs to one sovereign or one witness tradition. A workable agreement must specify which season, which spring, and which people it protects, rather than claiming a universal welcome the stores cannot support.
+
+## Connected entries
+
+[The Capital Repair Inheritance](b038-the-capital-repair-inheritance.md) · [The Borrowed Capital Custom House](b038-the-borrowed-capital-custom-house.md) · [The Wagon Brake Grasshopper](b038-the-wagon-brake-grasshopper.md) · [The Old Rent Meal Comparison](b037-the-old-rent-meal-comparison.md) · [Pastren of the Meeting Garden](b039-pastren-of-the-meeting-garden.md)
+
+## Referenced by
+
+[Desren of the Half-Sleep Market](b037-desren-of-the-half-sleep-market.md) · [The Silver Shore Fish Hall](b037-the-silver-shore-fish-hall.md) · [The Disputed Settlement Readers](b037-the-disputed-settlement-readers.md) · [The Long Rise in Meal Prices](b037-the-long-rise-in-meal-prices.md) · [The Dream Poet’s Market Scale](b037-the-dream-poet-s-market-scale.md) · [The Dream Named as Dream](b037-the-dream-named-as-dream.md) · [The Port’s Departing Households](b037-the-port-s-departing-households.md) · [The Coin Brightness Shore Crab](b037-the-coin-brightness-shore-crab.md) · [The Fortified Marriage Route](b037-the-fortified-marriage-route.md) · [The Old Rent Meal Comparison](b037-the-old-rent-meal-comparison.md) · [Paven of the Contrary Shore History](b037-paven-of-the-contrary-shore-history.md) · [The Garrison Families’ Gardens](b037-the-garrison-families-gardens.md) · [The Meal Basket Comparers](b037-the-meal-basket-comparers.md) · [The Dream Recitation Hearing](b037-the-dream-recitation-hearing.md) · [The Fixed Rent Shell Token](b037-the-fixed-rent-shell-token.md) · [The Departure Story Compared](b037-the-departure-story-compared.md) · [The Coin and Grain Correspondence](b037-the-coin-and-grain-correspondence.md) · [The Market’s Borrowed Sleep](b037-the-market-s-borrowed-sleep.md) · [Shore Coin Weighing](b037-shore-coin-weighing.md) · [The Price of Returning Land](b037-the-price-of-returning-land.md) · [The Borrowed Capital Custom House](b038-the-borrowed-capital-custom-house.md) · [The First Moving Defense](b038-the-first-moving-defense.md) · [The Capital Repair Inheritance](b038-the-capital-repair-inheritance.md)
+
+## Inspiration
+
+[Source batch 038](../sources/batch-038.md). One of the shared cycle’s source transformations: A priest continuing religious service while commanding radical forces becomes a wagon general with overlapping roles. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

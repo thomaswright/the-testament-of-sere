@@ -1,0 +1,103 @@
+# Custom
+
+- [The Reed Cutters' Masks](../entries/the-reed-cutters-masks.md) — Orun; 782–1248 AFR
+- [The Laughing Trial](../entries/b002-the-laughing-trial.md) — Keth; 846–1248 AFR
+- [The Empty Stool Vigil](../entries/b002-the-empty-stool-vigil.md) — Keth; 846–1248 AFR
+- [The Three Exhalations](../entries/b003-the-three-exhalations.md) — Namar; 731–1248 AFR
+- [Names at the Meal Table](../entries/b003-names-at-the-meal-table.md) — Namar; 731–1248 AFR
+- [The Declaration of Clear Hands](../entries/b004-the-declaration-of-clear-hands.md) — Vey; 208–1248 AFR
+- [Meals Below the Recitation](../entries/b004-meals-below-the-recitation.md) — Vey; 208–1248 AFR
+- [The Supported Finish](../entries/b005-the-supported-finish.md) — Suth; 982–1248 AFR
+- [The Name Before the Prize](../entries/b005-the-name-before-the-prize.md) — Suth; 982–1248 AFR
+- [The Third Night Listening](../entries/b006-the-third-night-listening.md) — Namar; 667–1248 AFR
+- [The Uncovered Descent](../entries/b006-the-uncovered-descent.md) — Namar; 667–1248 AFR
+- [The Unchosen Task Meal](../entries/b007-the-unchosen-task-meal.md) — Avel; 914–1248 AFR
+- [The Two Language Supper](../entries/b007-the-two-language-supper.md) — Avel; 914–1248 AFR
+- [The Loaf Before the Gesture](../entries/b008-the-loaf-before-the-gesture.md) — Orun; 537–1248 AFR
+- [The Failed Batch Supper](../entries/b008-the-failed-batch-supper.md) — Orun; 537–1248 AFR
+- [The Unarmed Repair Supper](../entries/b009-the-unarmed-repair-supper.md) — Istren; 1007–1248 AFR
+- [The Audience’s Other Ending](../entries/b009-the-audience-s-other-ending.md) — Istren; 1007–1248 AFR
+- [The Blade and Root Inspection](../entries/b010-the-blade-and-root-inspection.md) — Talassar; 758–1248 AFR
+- [The Beast’s Failed Step](../entries/b010-the-beast-s-failed-step.md) — Talassar; 758–1248 AFR
+- [The Agreed Fall](../entries/b011-the-agreed-fall.md) — Istren; 423–1248 AFR
+- [The Grove’s Empty Festival](../entries/b011-the-grove-s-empty-festival.md) — Istren; 423–1248 AFR
+- [The Sign Explained Aloud](../entries/b012-the-sign-explained-aloud.md) — Talassar; 1123–1248 AFR
+- [The Public Contract Supper](../entries/b012-the-public-contract-supper.md) — Talassar; 1123–1248 AFR
+- [The Quiet Guest Meal](../entries/b013-the-quiet-guest-meal.md) — Suth; 1059–1248 AFR
+- [The Witness’s Seed Portion](../entries/b013-the-witness-s-seed-portion.md) — Suth; 1059–1248 AFR
+- [The Meal Before the Voice](../entries/b014-the-meal-before-the-voice.md) — Avel; 688–1248 AFR
+- [The Skeptic’s Second Verse](../entries/b014-the-skeptic-s-second-verse.md) — Avel; 688–1248 AFR
+- [The Reference Spoken Twice](../entries/b015-the-reference-spoken-twice.md) — Vey; 1176–1248 AFR
+- [The Copyist’s Correction Meal](../entries/b015-the-copyist-s-correction-meal.md) — Vey; 1176–1248 AFR
+- [The Pattern Carried Dry](../entries/b016-the-pattern-carried-dry.md) — Keth; 349–1248 AFR
+- [The Shared Failure Sample](../entries/b016-the-shared-failure-sample.md) — Keth; 349–1248 AFR
+- [The Host Named First](../entries/b017-the-host-named-first.md) — Avel; 809–1248 AFR
+- [The Name Beneath the Name](../entries/b017-the-name-beneath-the-name.md) — Avel; 809–1248 AFR
+- [The Lament After the Welcome](../entries/b018-the-lament-after-the-welcome.md) — Talassar; 1206–1248 AFR
+- [The Source Named at Sale](../entries/b018-the-source-named-at-sale.md) — Talassar; 1206–1248 AFR
+- [The Low Voice Account](../entries/b019-the-low-voice-account.md) — Keth; 1162–1248 AFR
+- [The Measure Kept Open](../entries/b019-the-measure-kept-open.md) — Keth; 1162–1248 AFR
+- [The Judge’s Shared Meal](../entries/b020-the-judge-s-shared-meal.md) — Suth; 943–1248 AFR
+- [The Song’s Visiting Verse](../entries/b020-the-song-s-visiting-verse.md) — Suth; 943–1248 AFR
+- [The Vent Before the Verse](../entries/b021-the-vent-before-the-verse.md) — Namar; 472–1248 AFR
+- [The Coalition’s Empty Place](../entries/b021-the-coalition-s-empty-place.md) — Namar; 472–1248 AFR
+- [The Expense Held Overhead](../entries/b022-the-expense-held-overhead.md) — Vey; 591–1248 AFR
+- [The Refuge Meal Named](../entries/b022-the-refuge-meal-named.md) — Vey; 591–1248 AFR
+- [The Host Rhythm Verse](../entries/b023-the-host-rhythm-verse.md) — Namar; 1081–1248 AFR
+- [The Dry Lake Water Portion](../entries/b023-the-dry-lake-water-portion.md) — Namar; 1081–1248 AFR
+- [The Chosen Kin Supper](../entries/b024-the-chosen-kin-supper.md) — Vey; 1138–1248 AFR
+- [The Correction Before Applause](../entries/b024-the-correction-before-applause.md) — Vey; 1138–1248 AFR
+- [The Resident Speaks First](../entries/b025-the-resident-speaks-first.md) — Istren; 1104–1248 AFR
+- [The Gift Without the Silence](../entries/b025-the-gift-without-the-silence.md) — Istren; 1104–1248 AFR
+- [The Verse in Every Landing Tongue](../entries/b026-the-verse-in-every-landing-tongue.md) — Avel; 969–1248 AFR
+- [The Losing Teacher’s Turn](../entries/b026-the-losing-teacher-s-turn.md) — Avel; 969–1248 AFR
+- [The Equal Portion Before Play](../entries/b027-the-equal-portion-before-play.md) — Keth; 1181–1248 AFR
+- [The Injured Player’s New Measure](../entries/b027-the-injured-player-s-new-measure.md) — Keth; 1181–1248 AFR
+- [The Seed Shown Alive](../entries/b028-the-seed-shown-alive.md) — Vey; 721–1248 AFR
+- [The Soil Smelled Before Naming](../entries/b028-the-soil-smelled-before-naming.md) — Vey; 721–1248 AFR
+- [The Rumor Marked Sour](../entries/b029-the-rumor-marked-sour.md) — Orun; 873–1248 AFR
+- [The Meal Before the Muster](../entries/b029-the-meal-before-the-muster.md) — Orun; 873–1248 AFR
+- [The Name Learned Slowly](../entries/b030-the-name-learned-slowly.md) — Istren; 156–1248 AFR
+- [The Rescue Portion Remembered](../entries/b030-the-rescue-portion-remembered.md) — Istren; 156–1248 AFR
+- [The Borrowed Word Acknowledged](../entries/b031-the-borrowed-word-acknowledged.md) — Suth; 631–1248 AFR
+- [The Teller and Writer Named](../entries/b031-the-teller-and-writer-named.md) — Suth; 631–1248 AFR
+- [The Singer’s Introduction Checked](../entries/b032-the-singer-s-introduction-checked.md) — Istren; 1019–1248 AFR
+- [The Breakfast Before Remembrance](../entries/b032-the-breakfast-before-remembrance.md) — Istren; 1019–1248 AFR
+- [The Survivor’s Unplayed Interval](../entries/b033-the-survivor-s-unplayed-interval.md) — Namar; 1072–1248 AFR
+- [The Warning Heard Twice](../entries/b033-the-warning-heard-twice.md) — Namar; 1072–1248 AFR
+- [The Courtesy Answered Plainly](../entries/b034-the-courtesy-answered-plainly.md) — Orun; 694–1248 AFR
+- [The Fourteenth Silence](../entries/b034-the-fourteenth-silence.md) — Orun; 694–1248 AFR
+- [The Retreat Named Before the Charge](../entries/b035-the-retreat-named-before-the-charge.md) — Avel; 827–1248 AFR
+- [The Rival Dead Named](../entries/b035-the-rival-dead-named.md) — Avel; 827–1248 AFR
+- [The Name and Task Recited](../entries/b036-the-name-and-task-recited.md) — Keth; 402–1248 AFR
+- [The Shared Calendar Meal](../entries/b036-the-shared-calendar-meal.md) — Keth; 402–1248 AFR
+- [The Dream Named as Dream](../entries/b037-the-dream-named-as-dream.md) — Talassar; 1041–1248 AFR
+- [The Departure Story Compared](../entries/b037-the-departure-story-compared.md) — Talassar; 1041–1248 AFR
+- [The Joint Inspected After Prayer](../entries/b038-the-joint-inspected-after-prayer.md) — Namar; 932–1248 AFR
+- [The Local Ruler Named Twice](../entries/b038-the-local-ruler-named-twice.md) — Namar; 932–1248 AFR
+- [The Variant Spoken First](../entries/b039-the-variant-spoken-first.md) — Suth; 779–1248 AFR
+- [The Epic’s Unchosen Listener](../entries/b039-the-epic-s-unchosen-listener.md) — Suth; 779–1248 AFR
+- [The Host’s Meaning Repeated](../entries/b040-the-host-s-meaning-repeated.md) — Talassar; 1214–1248 AFR
+- [The Song’s Unnamed Customer](../entries/b040-the-song-s-unnamed-customer.md) — Talassar; 1214–1248 AFR
+- [The Facet Before the Legend](../entries/b041-the-facet-before-the-legend.md) — Keth; 89–1248 AFR
+- [The Undelivered Portion Spoken](../entries/b041-the-undelivered-portion-spoken.md) — Keth; 89–1248 AFR
+- [The Crew Named Before the Diver](../entries/b042-the-crew-named-before-the-diver.md) — Keth; 1221–1248 AFR
+- [The Return Before the Wonder](../entries/b042-the-return-before-the-wonder.md) — Keth; 1221–1248 AFR
+- [The Name Chosen Without Rank](../entries/b043-the-name-chosen-without-rank.md) — Namar; 1034–1248 AFR
+- [The Stone Compared Before Praise](../entries/b043-the-stone-compared-before-praise.md) — Namar; 1034–1248 AFR
+- [The Voice Introduced as Role](../entries/b044-the-voice-introduced-as-role.md) — Istren; 1197–1248 AFR
+- [The Arrival and Return Named](../entries/b044-the-arrival-and-return-named.md) — Istren; 1197–1248 AFR
+- [The Empty Seat Counted](../entries/b045-the-empty-seat-counted.md) — Orun; 1151–1248 AFR
+- [The Necessity Not Condemned](../entries/b045-the-necessity-not-condemned.md) — Orun; 1151–1248 AFR
+- [The Sweet and Staple Portions](../entries/b046-the-sweet-and-staple-portions.md) — Suth; 1188–1248 AFR
+- [The Rhythm Compared with Work](../entries/b046-the-rhythm-compared-with-work.md) — Suth; 1188–1248 AFR
+- [The Game May Be Left](../entries/b047-the-game-may-be-left.md) — Vey; 976–1248 AFR
+- [The Correction Played Openly](../entries/b047-the-correction-played-openly.md) — Vey; 976–1248 AFR
+- [The Supply Spoken as Arrived](../entries/b048-the-supply-spoken-as-arrived.md) — Talassar; 1232–1248 AFR
+- [The Debt Beside the Meal](../entries/b048-the-debt-beside-the-meal.md) — Talassar; 1232–1248 AFR
+- [The Portion Before the Queen](../entries/b049-the-portion-before-the-queen.md) — Orun; 1117–1248 AFR
+- [The Clean Water Mark Renewed](../entries/b049-the-clean-water-mark-renewed.md) — Orun; 1117–1248 AFR
+- [The Wordless Song Explained](../entries/b050-the-wordless-song-explained.md) — Avel; 1239–1248 AFR
+- [The Bell and the Amendment Pause](../entries/b050-the-bell-and-the-amendment-pause.md) — Avel; 1239–1248 AFR
+
+[All kinds](index.md)

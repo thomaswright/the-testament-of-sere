@@ -1,0 +1,27 @@
+# The Old Rent Meal Comparison
+
+*Law · Talassar · Historical coverage: 1041–1248 AFR*
+
+Rent reviews may compare current meal costs with the provision originally intended. The rule permits inquiry rather than automatic cancellation. Negotiators must identify actual purpose and scope, preventing inflation from becoming an excuse to void every inconvenient commitment.
+
+The rule’s force depends on a stated scope. It governs named acts and claimants, rather than every future disagreement that resembles its original case. Courts have nevertheless tried to extend it, usually when a narrow precedent would benefit a powerful applicant. Opponents do not have to deny ancestor law to challenge that extension. They can ask which promise was actually made, who witnessed it, and whether the required observance remains possible. The difference between a valid undertaking and a convenient assertion of authority is central to the current dispute.
+
+This belongs to The Dream Market of the Silver Shore. The Silver Shore received new coin faster than food supplies grew, and prices rose across generations while some rents retained older measures. Its fortified island port accumulated settler marriages, garrisons, imposed identities, and households displaced from valuable land. In 1041 a market poet began reciting dreamlike sequences in a half-sleep, making ordinary goods appear strange without claiming his visions proved factual events. A historical reader challenged the port’s comforting account of consensual settlement by tracing departures and confiscations. His interpretation drew strong dispute. Original household records remain essential because neither poetic force nor political conviction settles every transaction. Present residents live amid valuable trade whose prosperity and origin stories conceal uneven costs.
+
+In the connected record, [Paven of the Contrary Shore History](b037-paven-of-the-contrary-shore-history.md) preserves another part of this history. The terms recorded under [The Old Rent Meal Comparison](b037-the-old-rent-meal-comparison.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: how old rents and displacement claims can be reviewed when rising food prices make both delay and abrupt eviction dangerous to current households.
+
+Talassar combines salt marshes, sheltered boat towns, and orchards whose irrigation depends on tidal timing. Merchants trade durable claims alongside perishable cargo, although only an actual witnessed undertaking has force after death. A repaired boat, a borrowed name, and a neglected drain can each determine whether a contract remains practical. Houses that prosper from distant obligations are exposed to local maintenance costs they would prefer to call somebody else’s problem. Seasonal kitchens and landing crews keep accounts that often describe the region more accurately than its ceremonial histories of uninterrupted family success.
+
+## Connected entries
+
+[The Fortified Marriage Route](b037-the-fortified-marriage-route.md) · [Paven of the Contrary Shore History](b037-paven-of-the-contrary-shore-history.md) · [The Coin and Grain Correspondence](b037-the-coin-and-grain-correspondence.md) · [The Successor’s Explicit Scope](b036-the-successor-s-explicit-scope.md) · [Proven of the Wagon Prayer](b038-proven-of-the-wagon-prayer.md)
+
+## Referenced by
+
+[The Disputed Settlement Readers](b037-the-disputed-settlement-readers.md) · [The Fortified Marriage Route](b037-the-fortified-marriage-route.md) · [Paven of the Contrary Shore History](b037-paven-of-the-contrary-shore-history.md) · [Proven of the Wagon Prayer](b038-proven-of-the-wagon-prayer.md) · [The Borrowed Capital Custom House](b038-the-borrowed-capital-custom-house.md) · [The Pasture Kingdom Council](b038-the-pasture-kingdom-council.md) · [The Capital Without the Roads](b038-the-capital-without-the-roads.md) · [The Cart Lord’s Glove Ring](b038-the-cart-lord-s-glove-ring.md) · [The Joint Inspected After Prayer](b038-the-joint-inspected-after-prayer.md) · [The Kingdoms’ Marriage Routes](b038-the-kingdoms-marriage-routes.md) · [The Wagon Brake Grasshopper](b038-the-wagon-brake-grasshopper.md) · [The Recognized Customs Circuit](b038-the-recognized-customs-circuit.md) · [The Benefited Repair Assessment](b038-the-benefited-repair-assessment.md) · [Agnel of the Many Axles](b038-agnel-of-the-many-axles.md) · [The Prayer Wagon Yard](b038-the-prayer-wagon-yard.md) · [The Paired Repair Signatures](b038-the-paired-repair-signatures.md) · [The First Moving Defense](b038-the-first-moving-defense.md) · [The Four Sealed Axle Bill](b038-the-four-sealed-axle-bill.md) · [The Local Ruler Named Twice](b038-the-local-ruler-named-twice.md) · [The Borrowed Capital Loans](b038-the-borrowed-capital-loans.md) · [The Wheels Turning at Rest](b038-the-wheels-turning-at-rest.md) · [Wagon Axle Seasoning](b038-wagon-axle-seasoning.md) · [The Capital Repair Inheritance](b038-the-capital-repair-inheritance.md)
+
+## Inspiration
+
+[Source batch 037](../sources/batch-037.md). One of the shared cycle’s source transformations: A historian challenging established accounts of displacement becomes contested interpretation tested against specific records rather than an imported real-world political verdict. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

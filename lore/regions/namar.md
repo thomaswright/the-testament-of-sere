@@ -1,0 +1,156 @@
+# Namar
+
+Namar’s passes join upland pasture to southern garden and caravan markets. A line across a map cannot describe the food, rest, shelter, and animal care a journey requires. Snow, exposed slopes, and seasonal grazing make the safest route change. Felt, leather, dried milk, stone, and packed seed portions provide the material palette of ordinary travel.
+
+Hospices preserve obligations made by people who never returned. Those duties can support genuine welcome and create impossible costs when later patrons expand them. Pack crews, restraint teachers, and translators carry practical knowledge across jurisdictions that insist publicly on complete separation.
+
+Its histories include a dynastic feast and disputed mountain crossing, divided provincial names, a caravan capital stranded by retreating water, and a strategic neck that changed toll authority without losing its repair needs. Pasture kingdoms formed through migration and intermarriage rather than one immaculate origin.
+
+In 1248, the Blue Tile Convoy waits at a hospice while carriers negotiate food and finite repair work. That small delay illustrates the region better than a triumphant procession would. Begin with Ulven’s held-breath school for identity and movement, the milk cooperative for care and dependency, or the caravan neck for the difficult distinction between independence and useful continuing service.
+
+## Histories and inhabitants
+
+- [Erel of the Quiet Elbow](../entries/b003-erel-of-the-quiet-elbow.md) — Person; 731–1248 AFR
+- [Ulven’s Two Gatehouses](../entries/b003-ulven-s-two-gatehouses.md) — Place; 731–1248 AFR
+- [The Held Breath School](../entries/b003-the-held-breath-school.md) — Institution; 731–1248 AFR
+- [The Division at Snowmelt](../entries/b003-the-division-at-snowmelt.md) — Event; 731–1248 AFR
+- [The Resin Cart Puppet](../entries/b003-the-resin-cart-puppet.md) — Artifact; 731–1248 AFR
+- [The Three Exhalations](../entries/b003-the-three-exhalations.md) — Custom; 731–1248 AFR
+- [The Carrier’s Fright](../entries/b003-the-carrier-s-fright.md) — Text; 731–1248 AFR
+- [The Saddle Burrower](../entries/b003-the-saddle-burrower.md) — Creature; 731–1248 AFR
+- [The Widow’s Traverse](../entries/b003-the-widow-s-traverse.md) — Route; 731–1248 AFR
+- [The Common Spring Exception](../entries/b003-the-common-spring-exception.md) — Law; 731–1248 AFR
+- [Savel the Condemned Player](../entries/b003-savel-the-condemned-player.md) — Person; 731–1248 AFR
+- [The Quiet Practice Barn](../entries/b003-the-quiet-practice-barn.md) — Place; 731–1248 AFR
+- [The Paired Provincial Courts](../entries/b003-the-paired-provincial-courts.md) — Institution; 731–1248 AFR
+- [The Night of Released Wrists](../entries/b003-the-night-of-released-wrists.md) — Event; 731–1248 AFR
+- [The Split Practice Cord](../entries/b003-the-split-practice-cord.md) — Artifact; 731–1248 AFR
+- [Names at the Meal Table](../entries/b003-names-at-the-meal-table.md) — Custom; 731–1248 AFR
+- [The Unnamed Province Atlas](../entries/b003-the-unnamed-province-atlas.md) — Text; 731–1248 AFR
+- [The Breath Under Snow](../entries/b003-the-breath-under-snow.md) — Phenomenon; 731–1248 AFR
+- [Funerary Resin Carrying](../entries/b003-funerary-resin-carrying.md) — Trade; 731–1248 AFR
+- [Who May Name Ulven](../entries/b003-who-may-name-ulven.md) — Dispute; 731–1248 AFR
+- [Hevren of the Many Courtyards](../entries/b006-hevren-of-the-many-courtyards.md) — Person; 667–1248 AFR
+- [The Closed Feast Hall](../entries/b006-the-closed-feast-hall.md) — Place; 667–1248 AFR
+- [The Hearthbound Guard](../entries/b006-the-hearthbound-guard.md) — Institution; 667–1248 AFR
+- [The Reign of Three Sleeps](../entries/b006-the-reign-of-three-sleeps.md) — Event; 667–1248 AFR
+- [The Unlifted Feast Cup](../entries/b006-the-unlifted-feast-cup.md) — Artifact; 667–1248 AFR
+- [The Third Night Listening](../entries/b006-the-third-night-listening.md) — Custom; 667–1248 AFR
+- [The Three Hevren Plays](../entries/b006-the-three-hevren-plays.md) — Text; 667–1248 AFR
+- [The Broadfoot Snow Ox](../entries/b006-the-broadfoot-snow-ox.md) — Creature; 667–1248 AFR
+- [The Uncertain King’s Crossing](../entries/b006-the-uncertain-king-s-crossing.md) — Route; 667–1248 AFR
+- [The Sleeping Hand Limit](../entries/b006-the-sleeping-hand-limit.md) — Law; 667–1248 AFR
+- [Taren of the Servants’ Door](../entries/b006-taren-of-the-servants-door.md) — Person; 667–1248 AFR
+- [The Warm Stone Hospice](../entries/b006-the-warm-stone-hospice.md) — Place; 667–1248 AFR
+- [The Nine Courtyard Descendants](../entries/b006-the-nine-courtyard-descendants.md) — Institution; 667–1248 AFR
+- [The Southern Granary Arrival](../entries/b006-the-southern-granary-arrival.md) — Event; 667–1248 AFR
+- [The Satirist’s Double Mask](../entries/b006-the-satirist-s-double-mask.md) — Artifact; 667–1248 AFR
+- [The Uncovered Descent](../entries/b006-the-uncovered-descent.md) — Custom; 667–1248 AFR
+- [The Bone and Place Ledger](../entries/b006-the-bone-and-place-ledger.md) — Text; 667–1248 AFR
+- [The Feast Hall Condensation](../entries/b006-the-feast-hall-condensation.md) — Phenomenon; 667–1248 AFR
+- [Fortress Lime Carrying](../entries/b006-fortress-lime-carrying.md) — Trade; 667–1248 AFR
+- [The Unrecognized Children’s Release](../entries/b006-the-unrecognized-children-s-release.md) — Dispute; 667–1248 AFR
+- [Sendren of the Open Flame](../entries/b021-sendren-of-the-open-flame.md) — Person; 472–1248 AFR
+- [The Basin’s Claimed Center](../entries/b021-the-basin-s-claimed-center.md) — Place; 472–1248 AFR
+- [The Seven Reciting Households](../entries/b021-the-seven-reciting-households.md) — Institution; 472–1248 AFR
+- [The Plateau Coalition Victory](../entries/b021-the-plateau-coalition-victory.md) — Event; 472–1248 AFR
+- [The Jar of Altered Air](../entries/b021-the-jar-of-altered-air.md) — Artifact; 472–1248 AFR
+- [The Vent Before the Verse](../entries/b021-the-vent-before-the-verse.md) — Custom; 472–1248 AFR
+- [The Plateau’s Conflicting Names](../entries/b021-the-plateau-s-conflicting-names.md) — Text; 472–1248 AFR
+- [The Underfloor White Spider](../entries/b021-the-underfloor-white-spider.md) — Creature; 472–1248 AFR
+- [The Oracle Workers’ Crawl](../entries/b021-the-oracle-workers-crawl.md) — Route; 472–1248 AFR
+- [The Inspection Before Interpretation](../entries/b021-the-inspection-before-interpretation.md) — Law; 472–1248 AFR
+- [Vasen of the Seventh Recitation](../entries/b021-vasen-of-the-seventh-recitation.md) — Person; 472–1248 AFR
+- [The Fallen King’s Supply Camp](../entries/b021-the-fallen-king-s-supply-camp.md) — Place; 472–1248 AFR
+- [The Open Vent Custodians](../entries/b021-the-open-vent-custodians.md) — Institution; 472–1248 AFR
+- [The Shrine’s Long Silence](../entries/b021-the-shrine-s-long-silence.md) — Event; 472–1248 AFR
+- [The Center Stone’s Moving Base](../entries/b021-the-center-stone-s-moving-base.md) — Artifact; 472–1248 AFR
+- [The Coalition’s Empty Place](../entries/b021-the-coalition-s-empty-place.md) — Custom; 472–1248 AFR
+- [The Air Keeper’s Corrections](../entries/b021-the-air-keeper-s-corrections.md) — Text; 472–1248 AFR
+- [The Voice Beyond the Clear Vent](../entries/b021-the-voice-beyond-the-clear-vent.md) — Phenomenon; 472–1248 AFR
+- [Oracle Floor Cleaning](../entries/b021-oracle-floor-cleaning.md) — Trade; 472–1248 AFR
+- [The Victory Oracle Claim](../entries/b021-the-victory-oracle-claim.md) — Dispute; 472–1248 AFR
+- [Alven of the Changing Ensemble](../entries/b023-alven-of-the-changing-ensemble.md) — Person; 1081–1248 AFR
+- [The Dry Lake Capital](../entries/b023-the-dry-lake-capital.md) — Place; 1081–1248 AFR
+- [The Dispersed Lake League](../entries/b023-the-dispersed-lake-league.md) — Institution; 1081–1248 AFR
+- [The Safe Passage Betrayal](../entries/b023-the-safe-passage-betrayal.md) — Event; 1081–1248 AFR
+- [The Renamed King’s Seal](../entries/b023-the-renamed-king-s-seal.md) — Artifact; 1081–1248 AFR
+- [The Host Rhythm Verse](../entries/b023-the-host-rhythm-verse.md) — Custom; 1081–1248 AFR
+- [The Lake League’s Many Origins](../entries/b023-the-lake-league-s-many-origins.md) — Text; 1081–1248 AFR
+- [The Salt Burrow Jackal](../entries/b023-the-salt-burrow-jackal.md) — Creature; 1081–1248 AFR
+- [The Former Lake Shore Road](../entries/b023-the-former-lake-shore-road.md) — Route; 1081–1248 AFR
+- [The Passage Promise Boundary](../entries/b023-the-passage-promise-boundary.md) — Law; 1081–1248 AFR
+- [Nagen the Compromised Reformer](../entries/b023-nagen-the-compromised-reformer.md) — Person; 1081–1248 AFR
+- [The League’s Shared Lodging](../entries/b023-the-league-s-shared-lodging.md) — Place; 1081–1248 AFR
+- [The Rival Lake Ensembles](../entries/b023-the-rival-lake-ensembles.md) — Institution; 1081–1248 AFR
+- [The Last Wet Landing](../entries/b023-the-last-wet-landing.md) — Event; 1081–1248 AFR
+- [The Reformer’s Refuge Key](../entries/b023-the-reformer-s-refuge-key.md) — Artifact; 1081–1248 AFR
+- [The Dry Lake Water Portion](../entries/b023-the-dry-lake-water-portion.md) — Custom; 1081–1248 AFR
+- [The Envoy’s Revised Itinerary](../entries/b023-the-envoy-s-revised-itinerary.md) — Text; 1081–1248 AFR
+- [The Harbor Sounds in Sand](../entries/b023-the-harbor-sounds-in-sand.md) — Phenomenon; 1081–1248 AFR
+- [League Lodging Contributions](../entries/b023-league-lodging-contributions.md) — Trade; 1081–1248 AFR
+- [Who Belongs to the Dry League](../entries/b023-who-belongs-to-the-dry-league.md) — Dispute; 1081–1248 AFR
+- [Igven of the Raw Drum](../entries/b033-igven-of-the-raw-drum.md) — Person; 1072–1248 AFR
+- [The Severed Caravan Neck](../entries/b033-the-severed-caravan-neck.md) — Place; 1072–1248 AFR
+- [The Independent Neck Council](../entries/b033-the-independent-neck-council.md) — Institution; 1072–1248 AFR
+- [The Two Forced Abdications](../entries/b033-the-two-forced-abdications.md) — Event; 1072–1248 AFR
+- [The Trusted Officer’s Gate Token](../entries/b033-the-trusted-officer-s-gate-token.md) — Artifact; 1072–1248 AFR
+- [The Survivor’s Unplayed Interval](../entries/b033-the-survivor-s-unplayed-interval.md) — Custom; 1072–1248 AFR
+- [The Neck’s Outside Bargain](../entries/b033-the-neck-s-outside-bargain.md) — Text; 1072–1248 AFR
+- [The Split Ridge Pack Hare](../entries/b033-the-split-ridge-pack-hare.md) — Creature; 1072–1248 AFR
+- [The Crown’s Unreachable Road](../entries/b033-the-crown-s-unreachable-road.md) — Route; 1072–1248 AFR
+- [The Uniform Has No Exception](../entries/b033-the-uniform-has-no-exception.md) — Law; 1072–1248 AFR
+- [Carven of the Yielded Throne](../entries/b033-carven-of-the-yielded-throne.md) — Person; 1072–1248 AFR
+- [The Victims’ Late Memorial Yard](../entries/b033-the-victims-late-memorial-yard.md) — Place; 1072–1248 AFR
+- [The Raw Troupe’s Returning Members](../entries/b033-the-raw-troupe-s-returning-members.md) — Institution; 1072–1248 AFR
+- [The Officer’s Unchecked Night](../entries/b033-the-officer-s-unchecked-night.md) — Event; 1072–1248 AFR
+- [The Broken Pottery Drum](../entries/b033-the-broken-pottery-drum.md) — Artifact; 1072–1248 AFR
+- [The Warning Heard Twice](../entries/b033-the-warning-heard-twice.md) — Custom; 1072–1248 AFR
+- [The Abdication Fees Compared](../entries/b033-the-abdication-fees-compared.md) — Text; 1072–1248 AFR
+- [The Gate Token’s Cold Patch](../entries/b033-the-gate-token-s-cold-patch.md) — Phenomenon; 1072–1248 AFR
+- [Neck Bridge Maintenance](../entries/b033-neck-bridge-maintenance.md) — Trade; 1072–1248 AFR
+- [Disruption at the Memorial](../entries/b033-disruption-at-the-memorial.md) — Dispute; 1072–1248 AFR
+- [Proven of the Wagon Prayer](../entries/b038-proven-of-the-wagon-prayer.md) — Person; 932–1248 AFR
+- [The Borrowed Capital Custom House](../entries/b038-the-borrowed-capital-custom-house.md) — Place; 932–1248 AFR
+- [The Pasture Kingdom Council](../entries/b038-the-pasture-kingdom-council.md) — Institution; 932–1248 AFR
+- [The Capital Without the Roads](../entries/b038-the-capital-without-the-roads.md) — Event; 932–1248 AFR
+- [The Cart Lord’s Glove Ring](../entries/b038-the-cart-lord-s-glove-ring.md) — Artifact; 932–1248 AFR
+- [The Joint Inspected After Prayer](../entries/b038-the-joint-inspected-after-prayer.md) — Custom; 932–1248 AFR
+- [The Kingdoms’ Marriage Routes](../entries/b038-the-kingdoms-marriage-routes.md) — Text; 932–1248 AFR
+- [The Wagon Brake Grasshopper](../entries/b038-the-wagon-brake-grasshopper.md) — Creature; 932–1248 AFR
+- [The Recognized Customs Circuit](../entries/b038-the-recognized-customs-circuit.md) — Route; 932–1248 AFR
+- [The Benefited Repair Assessment](../entries/b038-the-benefited-repair-assessment.md) — Law; 932–1248 AFR
+- [Agnel of the Many Axles](../entries/b038-agnel-of-the-many-axles.md) — Person; 932–1248 AFR
+- [The Prayer Wagon Yard](../entries/b038-the-prayer-wagon-yard.md) — Place; 932–1248 AFR
+- [The Paired Repair Signatures](../entries/b038-the-paired-repair-signatures.md) — Institution; 932–1248 AFR
+- [The First Moving Defense](../entries/b038-the-first-moving-defense.md) — Event; 932–1248 AFR
+- [The Four Sealed Axle Bill](../entries/b038-the-four-sealed-axle-bill.md) — Artifact; 932–1248 AFR
+- [The Local Ruler Named Twice](../entries/b038-the-local-ruler-named-twice.md) — Custom; 932–1248 AFR
+- [The Borrowed Capital Loans](../entries/b038-the-borrowed-capital-loans.md) — Text; 932–1248 AFR
+- [The Wheels Turning at Rest](../entries/b038-the-wheels-turning-at-rest.md) — Phenomenon; 932–1248 AFR
+- [Wagon Axle Seasoning](../entries/b038-wagon-axle-seasoning.md) — Trade; 932–1248 AFR
+- [The Capital Repair Inheritance](../entries/b038-the-capital-repair-inheritance.md) — Dispute; 932–1248 AFR
+- [Morgen of the Milk Relations](../entries/b043-morgen-of-the-milk-relations.md) — Person; 1034–1248 AFR
+- [The Cooperative Milk Yard](../entries/b043-the-cooperative-milk-yard.md) — Place; 1034–1248 AFR
+- [The Milk Kin Cooperative](../entries/b043-the-milk-kin-cooperative.md) — Institution; 1034–1248 AFR
+- [The Closed Harbor Shortage](../entries/b043-the-closed-harbor-shortage.md) — Event; 1034–1248 AFR
+- [The Stone Families Tray](../entries/b043-the-stone-families-tray.md) — Artifact; 1034–1248 AFR
+- [The Name Chosen Without Rank](../entries/b043-the-name-chosen-without-rank.md) — Custom; 1034–1248 AFR
+- [The Reader’s Ladder Corrected](../entries/b043-the-reader-s-ladder-corrected.md) — Text; 1034–1248 AFR
+- [The Milk Yard Stone Moth](../entries/b043-the-milk-yard-stone-moth.md) — Creature; 1034–1248 AFR
+- [The Few Harbor Supply Road](../entries/b043-the-few-harbor-supply-road.md) — Route; 1034–1248 AFR
+- [The Feeding Is Not Ownership Clause](../entries/b043-the-feeding-is-not-ownership-clause.md) — Law; 1034–1248 AFR
+- [Shalen of the Plain Name](../entries/b043-shalen-of-the-plain-name.md) — Person; 1034–1248 AFR
+- [The Mineral Readers’ Field Shelter](../entries/b043-the-mineral-readers-field-shelter.md) — Place; 1034–1248 AFR
+- [The Fodder Sharing Houses](../entries/b043-the-fodder-sharing-houses.md) — Institution; 1034–1248 AFR
+- [The First Milk Kin Appeal](../entries/b043-the-first-milk-kin-appeal.md) — Event; 1034–1248 AFR
+- [The Plain Name Distribution Bowl](../entries/b043-the-plain-name-distribution-bowl.md) — Artifact; 1034–1248 AFR
+- [The Stone Compared Before Praise](../entries/b043-the-stone-compared-before-praise.md) — Custom; 1034–1248 AFR
+- [The Harbor Shortages Inland](../entries/b043-the-harbor-shortages-inland.md) — Text; 1034–1248 AFR
+- [The Milk Basin’s Unspent Warmth](../entries/b043-the-milk-basin-s-unspent-warmth.md) — Phenomenon; 1034–1248 AFR
+- [Fodder and Milk Transport](../entries/b043-fodder-and-milk-transport.md) — Trade; 1034–1248 AFR
+- [The Newcomer’s Milk Name](../entries/b043-the-newcomer-s-milk-name.md) — Dispute; 1034–1248 AFR
+- [The Blue Tile Convoy](../entries/the-blue-tile-convoy.md) — Current journey; 1247–1248 AFR
+- [The Plateau of Open Mouths](../entries/the-plateau-of-open-mouths.md) — Battlefield and pilgrimage; 472–1248 AFR
+
+[All regions](index.md) · [All entries](../index.md)

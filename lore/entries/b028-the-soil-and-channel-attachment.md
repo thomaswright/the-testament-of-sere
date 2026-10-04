@@ -1,0 +1,27 @@
+# The Soil and Channel Attachment
+
+*Law · Vey · Historical coverage: 721–1248 AFR*
+
+Every new plot deed must identify access and maintenance separately. The rule makes independence practical without pretending shared obligations disappeared. Creditors oppose added detail because vague access once let them charge repeatedly for the same passage of water.
+
+The rule’s force depends on a stated scope. It governs named acts and claimants, rather than every future disagreement that resembles its original case. Courts have nevertheless tried to extend it, usually when a narrow precedent would benefit a powerful applicant. Opponents do not have to deny ancestor law to challenge that extension. They can ask which promise was actually made, who witnessed it, and whether the required observance remains possible. The difference between a valid undertaking and a convenient assertion of authority is central to the current dispute.
+
+This belongs to The Four Rooms of the River Crown. Four command stations once regulated the river crossing, but three withdrew and one endured through successive cultures. Their foundations preserved different measures of tenancy. In 721 an ailing ruler delegated practical decisions to an unobtrusive heir, who invited schools and craft collections into the river capital. A minister offered gardeners individual plots outside communal tenure while enforcing harsh emergency courts against revolt. His killing interrupted the reform before its water consequences were resolved. New owners inherited land but not necessarily sufficient channel access. The river crown’s four old rooms now house collections of soil, tools, names, and seed, preserving the landscape’s layered history while households seek terms capable of making their plots productive.
+
+In the connected record, [Storen of the Garden Survey](b028-storen-of-the-garden-survey.md) preserves another part of this history. The terms recorded under [The Soil and Channel Attachment](b028-the-soil-and-channel-attachment.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether private plot titles can be reconciled with communal channel obligations without forcing households back into arrangements they legitimately hoped to leave.
+
+Vey households measure wealth partly in dependable access to a public landing. Their markets exchange grain, lamp oil, glazed jars, and legal testimony. A witness can authenticate a transaction but cannot provide the labor needed to fulfill it. Seasonal crews clean the same embankments on which courts announce judgments, and a decision that ignores those crews soon meets an expensive physical limit. Flood deposits preserve small objects while destroying the arrangement that once made their meaning obvious. Recovering an object is therefore easier than establishing what anybody was entitled to do with it.
+
+## Connected entries
+
+[The Withdrawn Stations’ Road](b028-the-withdrawn-stations-road.md) · [Storen of the Garden Survey](b028-storen-of-the-garden-survey.md) · [The Emergency Court Returns](b028-the-emergency-court-returns.md) · [The Equal Court Provision](b027-the-equal-court-provision.md) · [Hela of the Unheroic Diary](b029-hela-of-the-unheroic-diary.md)
+
+## Referenced by
+
+[The Individual Plot Office](b028-the-individual-plot-office.md) · [The Withdrawn Stations’ Road](b028-the-withdrawn-stations-road.md) · [Storen of the Garden Survey](b028-storen-of-the-garden-survey.md) · [Hela of the Unheroic Diary](b029-hela-of-the-unheroic-diary.md) · [The Mist Lake Road](b029-the-mist-lake-road.md) · [The Household Message Tables](b029-the-household-message-tables.md) · [The Fog Muster Ambush](b029-the-fog-muster-ambush.md) · [The Diarist’s Lent Pot](b029-the-diarist-s-lent-pot.md) · [The Rumor Marked Sour](b029-the-rumor-marked-sour.md) · [The Diary of Expected Courage](b029-the-diary-of-expected-courage.md) · [The Fog Reed Bittern](b029-the-fog-reed-bittern.md) · [The Running Kitchen Road](b029-the-running-kitchen-road.md) · [The Levy’s Stated Purpose](b029-the-levy-s-stated-purpose.md) · [Pera of the Kitchen Comedy](b029-pera-of-the-kitchen-comedy.md) · [The Commander’s Turning Hollow](b029-the-commander-s-turning-hollow.md) · [The Returning Levy Households](b029-the-returning-levy-households.md) · [The Long Day’s Conflicting First Blows](b029-the-long-day-s-conflicting-first-blows.md) · [The Sour Mark Board](b029-the-sour-mark-board.md) · [The Meal Before the Muster](b029-the-meal-before-the-muster.md) · [The Pots and Warnings Index](b029-the-pots-and-warnings-index.md) · [The Mist That Holds Footsteps](b029-the-mist-that-holds-footsteps.md) · [Roadside Soup Provisioning](b029-roadside-soup-provisioning.md) · [The Courage Levy Petition](b029-the-courage-levy-petition.md) · [The Last Season of an Extinct House](the-last-season-of-an-extinct-house.md) · [The Orchard Between Two Deeds](the-orchard-between-two-deeds.md) · [The Cargo That Arrived as a Forest](the-cargo-that-arrived-as-a-forest.md)
+
+## Inspiration
+
+[Source batch 028](../sources/batch-028.md). One of the shared cycle’s source transformations: Agrarian reform coupled with harsh emergency repression and interrupted by assassination becomes individual plots with unresolved water arrangements. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

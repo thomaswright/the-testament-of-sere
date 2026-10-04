@@ -1,0 +1,27 @@
+# The Paid Passage Equality
+
+*Law · Orun · Historical coverage: 1151–1248 AFR*
+
+Comparable fares confer comparable shelter and boarding rights regardless of ancestral registration. Safety accommodations remain possible. The rule makes actual access inspectable, rather than assuming equal payment or a noble public declaration automatically removes every practical exclusion.
+
+The rule’s force depends on a stated scope. It governs named acts and claimants, rather than every future disagreement that resembles its original case. Courts have nevertheless tried to extend it, usually when a narrow precedent would benefit a powerful applicant. Opponents do not have to deny ancestor law to challenge that extension. They can ask which promise was actually made, who witnessed it, and whether the required observance remains possible. The difference between a valid undertaking and a convenient assertion of authority is central to the current dispute.
+
+This belongs to The Ferry Seats Left Empty. Ferry regulations reserved sheltered seats for registered ancestral households and required unregistered passengers to yield even after paying. In 1151 a passenger refused and was detained. Kitchens, pilots, and walkers organized alternative crossings through a long withdrawal of custom, accepting difficult journeys instead of financing the exclusion. A songwriter carried accounts of desire, migration, and violence between the landings. Nearby, a cleric-commander resisted an outside empire while expanding his own authority over households. Rival military and civic factions struggled to inherit a declared river republic. The boycott’s finite access demand remained distinct from all those larger claims, although each faction tried to turn its practical success into endorsement of a broader political order.
+
+In the connected record, [Samren of the Expanding Resistance](b045-samren-of-the-expanding-resistance.md) preserves another part of this history. The terms recorded under [The Paid Passage Equality](b045-the-paid-passage-equality.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether equal ferry access can remain enforceable when rival rulers keep trying to make ordinary transport a reward for ancestral status or political loyalty.
+
+The Orun channels shift across a landscape whose legal descriptions often name vanished banks. Fishers, reed workers, and gardeners share access without sharing a single account of ownership. Transport depends on shallow boats and pilots who read changes in sediment. Salt reaches some plots well before neighboring plots, making an apparently equal assessment unfair in practice. An ancestral claim can survive a change in the channel, but its observance may become impossible at the old site. Communities must decide whether to move the observance, compensate its claimants, or leave the affected water unused.
+
+## Connected entries
+
+[The Walkers’ Shared Crossing](b045-the-walkers-shared-crossing.md) · [Samren of the Expanding Resistance](b045-samren-of-the-expanding-resistance.md) · [The Republics’ Access Promises](b045-the-republics-access-promises.md) · [The Journey’s Informed Crew Term](b044-the-journey-s-informed-crew-term.md) · [Hersen of the Milk Caramel](b046-hersen-of-the-milk-caramel.md)
+
+## Referenced by
+
+[The Alternative Crossing Kitchens](b045-the-alternative-crossing-kitchens.md) · [The Walkers’ Shared Crossing](b045-the-walkers-shared-crossing.md) · [Samren of the Expanding Resistance](b045-samren-of-the-expanding-resistance.md) · [Hersen of the Milk Caramel](b046-hersen-of-the-milk-caramel.md) · [The Sweet Town Cooling Yard](b046-the-sweet-town-cooling-yard.md) · [The Seed Paste Boarding House](b046-the-seed-paste-boarding-house.md) · [The Captive Host Crisis](b046-the-captive-host-crisis.md) · [The Joined String Frame](b046-the-joined-string-frame.md) · [The Sweet and Staple Portions](b046-the-sweet-and-staple-portions.md) · [The Captivity Negotiation Leaves](b046-the-captivity-negotiation-leaves.md) · [The Roasted Seed Orchard Bat](b046-the-roasted-seed-orchard-bat.md) · [The Refuge Suppliers’ Road](b046-the-refuge-suppliers-road.md) · [The Host’s Consent Distinction](b046-the-host-s-consent-distinction.md) · [Proven of the Shared Vibration](b046-proven-of-the-shared-vibration.md) · [The Ruler’s Guest Room](b046-the-ruler-s-guest-room.md) · [The Cooling Yard Workers](b046-the-cooling-yard-workers.md) · [The First Shared School Inspection](b046-the-first-shared-school-inspection.md) · [The Sweetmaker’s Imperfect Mold](b046-the-sweetmaker-s-imperfect-mold.md) · [The Rhythm Compared with Work](b046-the-rhythm-compared-with-work.md) · [The Town Before the Founder](b046-the-town-before-the-founder.md) · [The Cooling Stones’ Unspent Heat](b046-the-cooling-stones-unspent-heat.md) · [Seed Paste Grinding](b046-seed-paste-grinding.md) · [The School Beyond the Heirs](b046-the-school-beyond-the-heirs.md) · [The Last Season at the Peace Garden](the-last-season-at-the-peace-garden.md)
+
+## Inspiration
+
+[Source batch 045](../sources/batch-045.md). One of the shared cycle’s source transformations: A resisting empire-builder from a weaving and trading household becomes a commander whose opposition to outside conquest does not erase his own expansion. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

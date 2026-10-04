@@ -1,0 +1,102 @@
+# Artifact
+
+- [The Thin Crown Sheet](../entries/b002-the-thin-crown-sheet.md) — Keth; 846–1248 AFR
+- [The Bronze Water Seat](../entries/b002-the-bronze-water-seat.md) — Keth; 846–1248 AFR
+- [The Resin Cart Puppet](../entries/b003-the-resin-cart-puppet.md) — Namar; 731–1248 AFR
+- [The Split Practice Cord](../entries/b003-the-split-practice-cord.md) — Namar; 731–1248 AFR
+- [The Lowest Step Tile](../entries/b004-the-lowest-step-tile.md) — Vey; 208–1248 AFR
+- [The Compound Door Weights](../entries/b004-the-compound-door-weights.md) — Vey; 208–1248 AFR
+- [The Rootstock Plaque](../entries/b005-the-rootstock-plaque.md) — Suth; 982–1248 AFR
+- [The Relay Water Flask](../entries/b005-the-relay-water-flask.md) — Suth; 982–1248 AFR
+- [The Unlifted Feast Cup](../entries/b006-the-unlifted-feast-cup.md) — Namar; 667–1248 AFR
+- [The Satirist’s Double Mask](../entries/b006-the-satirist-s-double-mask.md) — Namar; 667–1248 AFR
+- [The Two Brightness Boards](../entries/b007-the-two-brightness-boards.md) — Avel; 914–1248 AFR
+- [The Rotation Tokens](../entries/b007-the-rotation-tokens.md) — Avel; 914–1248 AFR
+- [The Fine Cloth Strainer](../entries/b008-the-fine-cloth-strainer.md) — Orun; 537–1248 AFR
+- [The Dance Master’s Sack](../entries/b008-the-dance-master-s-sack.md) — Orun; 537–1248 AFR
+- [The Comedy’s Broken Oven Door](../entries/b009-the-comedy-s-broken-oven-door.md) — Istren; 1007–1248 AFR
+- [The Pledged Repair Hammer](../entries/b009-the-pledged-repair-hammer.md) — Istren; 1007–1248 AFR
+- [The Jointed Burden Beast](../entries/b010-the-jointed-burden-beast.md) — Talassar; 758–1248 AFR
+- [The Cup with No Landing](../entries/b010-the-cup-with-no-landing.md) — Talassar; 758–1248 AFR
+- [The Villain Herald’s Belt](../entries/b011-the-villain-herald-s-belt.md) — Istren; 423–1248 AFR
+- [The Resin Handcart Axle](../entries/b011-the-resin-handcart-axle.md) — Istren; 423–1248 AFR
+- [The First Empty Cloth](../entries/b012-the-first-empty-cloth.md) — Talassar; 1123–1248 AFR
+- [The Mural’s Repair Patch](../entries/b012-the-mural-s-repair-patch.md) — Talassar; 1123–1248 AFR
+- [The Guest’s Broken Pruning Knife](../entries/b013-the-guest-s-broken-pruning-knife.md) — Suth; 1059–1248 AFR
+- [The Artisan Origin Stamp](../entries/b013-the-artisan-origin-stamp.md) — Suth; 1059–1248 AFR
+- [The Master’s Unanswered Letter](../entries/b014-the-master-s-unanswered-letter.md) — Avel; 688–1248 AFR
+- [The Rehearsal Bowl](../entries/b014-the-rehearsal-bowl.md) — Avel; 688–1248 AFR
+- [The Lantern of Borrowed Illumination](../entries/b015-the-lantern-of-borrowed-illumination.md) — Vey; 1176–1248 AFR
+- [The Watching Door Mirror](../entries/b015-the-watching-door-mirror.md) — Vey; 1176–1248 AFR
+- [The Many Hands Spindle](../entries/b016-the-many-hands-spindle.md) — Keth; 349–1248 AFR
+- [The Teacher’s Empty Chair](../entries/b016-the-teacher-s-empty-chair.md) — Keth; 349–1248 AFR
+- [The Captain’s Sounding Weight](../entries/b017-the-captain-s-sounding-weight.md) — Avel; 809–1248 AFR
+- [The Double Role Cloak](../entries/b017-the-double-role-cloak.md) — Avel; 809–1248 AFR
+- [The Still Singer’s Dark Veil](../entries/b018-the-still-singer-s-dark-veil.md) — Talassar; 1206–1248 AFR
+- [The Governor’s Unsigned Cup](../entries/b018-the-governor-s-unsigned-cup.md) — Talassar; 1206–1248 AFR
+- [The Stepped Depth Rod](../entries/b019-the-stepped-depth-rod.md) — Keth; 1162–1248 AFR
+- [The Digger’s Split Meal Bowl](../entries/b019-the-digger-s-split-meal-bowl.md) — Keth; 1162–1248 AFR
+- [The Exile’s Reed Lute](../entries/b020-the-exile-s-reed-lute.md) — Suth; 943–1248 AFR
+- [The Physician’s Two Queue Tiles](../entries/b020-the-physician-s-two-queue-tiles.md) — Suth; 943–1248 AFR
+- [The Jar of Altered Air](../entries/b021-the-jar-of-altered-air.md) — Namar; 472–1248 AFR
+- [The Center Stone’s Moving Base](../entries/b021-the-center-stone-s-moving-base.md) — Namar; 472–1248 AFR
+- [The Refuge Negotiator’s Cup](../entries/b022-the-refuge-negotiator-s-cup.md) — Vey; 591–1248 AFR
+- [The City Foundation Basket](../entries/b022-the-city-foundation-basket.md) — Vey; 591–1248 AFR
+- [The Renamed King’s Seal](../entries/b023-the-renamed-king-s-seal.md) — Namar; 1081–1248 AFR
+- [The Reformer’s Refuge Key](../entries/b023-the-reformer-s-refuge-key.md) — Namar; 1081–1248 AFR
+- [The Chronicler’s False Letter](../entries/b024-the-chronicler-s-false-letter.md) — Vey; 1138–1248 AFR
+- [The Bright Mourning Curtain](../entries/b024-the-bright-mourning-curtain.md) — Vey; 1138–1248 AFR
+- [The Benefactor’s Master Key](../entries/b025-the-benefactor-s-master-key.md) — Istren; 1104–1248 AFR
+- [The Ward Donation Bell](../entries/b025-the-ward-donation-bell.md) — Istren; 1104–1248 AFR
+- [The Fast Caster’s Practice Ball](../entries/b026-the-fast-caster-s-practice-ball.md) — Avel; 969–1248 AFR
+- [The Three Tuned Reeds](../entries/b026-the-three-tuned-reeds.md) — Avel; 969–1248 AFR
+- [The Color Comparison Shard](../entries/b027-the-color-comparison-shard.md) — Keth; 1181–1248 AFR
+- [The Sisters’ Shared Racket](../entries/b027-the-sisters-shared-racket.md) — Keth; 1181–1248 AFR
+- [The Four Measure Tile](../entries/b028-the-four-measure-tile.md) — Vey; 721–1248 AFR
+- [The Regency’s Plain Key Ring](../entries/b028-the-regency-s-plain-key-ring.md) — Vey; 721–1248 AFR
+- [The Diarist’s Lent Pot](../entries/b029-the-diarist-s-lent-pot.md) — Orun; 873–1248 AFR
+- [The Sour Mark Board](../entries/b029-the-sour-mark-board.md) — Orun; 873–1248 AFR
+- [The Beginner’s Reed Lute](../entries/b030-the-beginner-s-reed-lute.md) — Istren; 156–1248 AFR
+- [The Three Harbor Teaching Board](../entries/b030-the-three-harbor-teaching-board.md) — Istren; 156–1248 AFR
+- [The Tale Writer’s Green Fan](../entries/b031-the-tale-writer-s-green-fan.md) — Suth; 631–1248 AFR
+- [The Shadow Tale Door Latch](../entries/b031-the-shadow-tale-door-latch.md) — Suth; 631–1248 AFR
+- [The Dancer’s Seaward Shoes](../entries/b032-the-dancer-s-seaward-shoes.md) — Istren; 1019–1248 AFR
+- [The Soldier’s Frozen Strap](../entries/b032-the-soldier-s-frozen-strap.md) — Istren; 1019–1248 AFR
+- [The Trusted Officer’s Gate Token](../entries/b033-the-trusted-officer-s-gate-token.md) — Namar; 1072–1248 AFR
+- [The Broken Pottery Drum](../entries/b033-the-broken-pottery-drum.md) — Namar; 1072–1248 AFR
+- [The Fourteen Courtesy Tiles](../entries/b034-the-fourteen-courtesy-tiles.md) — Orun; 694–1248 AFR
+- [The Courtesy Host’s Broken Seat](../entries/b034-the-courtesy-host-s-broken-seat.md) — Orun; 694–1248 AFR
+- [The Secretary’s Repaired Seal](../entries/b035-the-secretary-s-repaired-seal.md) — Avel; 827–1248 AFR
+- [The Exile’s Landing Ladder](../entries/b035-the-exile-s-landing-ladder.md) — Avel; 827–1248 AFR
+- [The Officer’s Unroyal Seal](../entries/b036-the-officer-s-unroyal-seal.md) — Keth; 402–1248 AFR
+- [The Legendary King’s New Brick](../entries/b036-the-legendary-king-s-new-brick.md) — Keth; 402–1248 AFR
+- [The Dream Poet’s Market Scale](../entries/b037-the-dream-poet-s-market-scale.md) — Talassar; 1041–1248 AFR
+- [The Fixed Rent Shell Token](../entries/b037-the-fixed-rent-shell-token.md) — Talassar; 1041–1248 AFR
+- [The Cart Lord’s Glove Ring](../entries/b038-the-cart-lord-s-glove-ring.md) — Namar; 932–1248 AFR
+- [The Four Sealed Axle Bill](../entries/b038-the-four-sealed-axle-bill.md) — Namar; 932–1248 AFR
+- [The Founder’s Unverified Saddle](../entries/b039-the-founder-s-unverified-saddle.md) — Suth; 779–1248 AFR
+- [The Peace Table Grain Cup](../entries/b039-the-peace-table-grain-cup.md) — Suth; 779–1248 AFR
+- [The Tavern Composer’s Repaired Neck](../entries/b040-the-tavern-composer-s-repaired-neck.md) — Talassar; 1214–1248 AFR
+- [The Harbor’s Two Purchase Bowls](../entries/b040-the-harbor-s-two-purchase-bowls.md) — Talassar; 1214–1248 AFR
+- [The Accountant’s Two Grain Measures](../entries/b041-the-accountant-s-two-grain-measures.md) — Keth; 89–1248 AFR
+- [The Council’s Limited Seal](../entries/b041-the-council-s-limited-seal.md) — Keth; 89–1248 AFR
+- [The Inverted Bronze Bell](../entries/b042-the-inverted-bronze-bell.md) — Keth; 1221–1248 AFR
+- [The Diver’s Plain Observation Tile](../entries/b042-the-diver-s-plain-observation-tile.md) — Keth; 1221–1248 AFR
+- [The Stone Families Tray](../entries/b043-the-stone-families-tray.md) — Namar; 1034–1248 AFR
+- [The Plain Name Distribution Bowl](../entries/b043-the-plain-name-distribution-bowl.md) — Namar; 1034–1248 AFR
+- [The Depot’s Ordinary Marker](../entries/b044-the-depot-s-ordinary-marker.md) — Istren; 1197–1248 AFR
+- [The Actor’s Multiple Role Cup](../entries/b044-the-actor-s-multiple-role-cup.md) — Istren; 1197–1248 AFR
+- [The Paid Fare without Shelter](../entries/b045-the-paid-fare-without-shelter.md) — Orun; 1151–1248 AFR
+- [The Walk Organizer’s Worn Shoes](../entries/b045-the-walk-organizer-s-worn-shoes.md) — Orun; 1151–1248 AFR
+- [The Joined String Frame](../entries/b046-the-joined-string-frame.md) — Suth; 1188–1248 AFR
+- [The Sweetmaker’s Imperfect Mold](../entries/b046-the-sweetmaker-s-imperfect-mold.md) — Suth; 1188–1248 AFR
+- [The Earlier Fiber Sheet](../entries/b047-the-earlier-fiber-sheet.md) — Vey; 976–1248 AFR
+- [The Ceramic Return Counters](../entries/b047-the-ceramic-return-counters.md) — Vey; 976–1248 AFR
+- [The Grain Claim Coin](../entries/b048-the-grain-claim-coin.md) — Talassar; 1232–1248 AFR
+- [The Singer’s Limited Pitch Board](../entries/b048-the-singer-s-limited-pitch-board.md) — Talassar; 1232–1248 AFR
+- [The Failed Blue Sample Wall](../entries/b049-the-failed-blue-sample-wall.md) — Orun; 1117–1248 AFR
+- [The Queen’s Painted Vessel](../entries/b049-the-queen-s-painted-vessel.md) — Orun; 1117–1248 AFR
+- [The Bell’s Earlier Gathering Tile](../entries/b050-the-bell-s-earlier-gathering-tile.md) — Avel; 1239–1248 AFR
+- [The Storyteller’s Different Letter](../entries/b050-the-storyteller-s-different-letter.md) — Avel; 1239–1248 AFR
+
+[All kinds](index.md)

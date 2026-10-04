@@ -1,0 +1,150 @@
+# Vey
+
+Vey is the central river country: broad cultivated flats, crowded landing towns, and older masonry exposed whenever banks retreat. Its upper water arrives from the chalk uplands; downstream channels eventually enter Orun. Freshwater kitchens and estuary-facing courts inhabit the same river without sharing one jurisdiction.
+
+Travel here is usually easier by boat than by road, but recognized access matters as much as the vessel. A landing may accept a cargo and refuse its unregistered passenger. Kitchens, copying yards, and repair crews provide alternate evidence of a person’s actual life. Most settlements smell of grain steam, damp lime, lamp oil, and river mud rather than permanent incense.
+
+The First Reckoning began among Vey’s witness cities. Their importance did not make them a universal sovereign. Later capitals repeatedly borrowed the common calendar to advertise a continuity their actual undertakings did not establish. The Bridge of Mercies and the Third Bowl preserve finite intervals of protection within that larger uncertainty.
+
+In 1248, Vey faces stressed food routes and a struggle over whose testimony can revise inherited claims. Begin with the public kitchen histories for daily life, the painted quarter for kinship and civic representation, or Vesh’s inquiries for the morally difficult work of recovering an identity.
+
+## Histories and inhabitants
+
+- [The Third Bowl](../entries/the-third-bowl.md) — Ritual object; 776–1248 AFR
+- [Vesh of the Empty Register](../entries/vesh-of-the-empty-register.md) — Person; 1191–1248 AFR
+- [The Bridge of Mercies](../entries/the-bridge-of-mercies.md) — Place; 774–1248 AFR
+- [The Daughters' Petition](../entries/the-daughters-petition.md) — Text; 777–1248 AFR
+- [The House of Missing Tenants](../entries/the-house-of-missing-tenants.md) — Place; 780–1248 AFR
+- [Maren of the Public Water](../entries/maren-of-the-public-water.md) — Person; 723–776 AFR
+- [The Register of Absences](../entries/the-register-of-absences.md) — Archive; 1216–1248 AFR
+- [The Executioner's Jars](../entries/the-executioners-jars.md) — Phenomenon; 777–1248 AFR
+- [The Wax Faces](../entries/the-wax-faces.md) — Artifact tradition; 783–1248 AFR
+- [The Dry Yard Verdict](../entries/the-dry-yard-verdict.md) — Legal precedent; 777–1248 AFR
+- [The Public Kitchen Witnesses](../entries/the-public-kitchen-witnesses.md) — Guild; 748–1248 AFR
+- [Orvel the Unenrolled Reader](../entries/b004-orvel-the-unenrolled-reader.md) — Person; 208–1248 AFR
+- [The Temple of Lower Steps](../entries/b004-the-temple-of-lower-steps.md) — Place; 208–1248 AFR
+- [The Tuesday Basin Houses](../entries/b004-the-tuesday-basin-houses.md) — Institution; 208–1248 AFR
+- [The Dry Compound Removal](../entries/b004-the-dry-compound-removal.md) — Event; 208–1248 AFR
+- [The Lowest Step Tile](../entries/b004-the-lowest-step-tile.md) — Artifact; 208–1248 AFR
+- [The Declaration of Clear Hands](../entries/b004-the-declaration-of-clear-hands.md) — Custom; 208–1248 AFR
+- [The Founding Poem in Nine Voices](../entries/b004-the-founding-poem-in-nine-voices.md) — Text; 208–1248 AFR
+- [The Stairwell Glass Snail](../entries/b004-the-stairwell-glass-snail.md) — Creature; 208–1248 AFR
+- [The Compound Return Lane](../entries/b004-the-compound-return-lane.md) — Route; 208–1248 AFR
+- [The Separate Restitution Clause](../entries/b004-the-separate-restitution-clause.md) — Law; 208–1248 AFR
+- [Pera of the Kitchen Meetings](../entries/b004-pera-of-the-kitchen-meetings.md) — Person; 208–1248 AFR
+- [The Unclaimed Potters’ Row](../entries/b004-the-unclaimed-potters-row.md) — Place; 208–1248 AFR
+- [The Foundational Readers](../entries/b004-the-foundational-readers.md) — Institution; 208–1248 AFR
+- [The Festival of One Clean Day](../entries/b004-the-festival-of-one-clean-day.md) — Event; 208–1248 AFR
+- [The Compound Door Weights](../entries/b004-the-compound-door-weights.md) — Artifact; 208–1248 AFR
+- [Meals Below the Recitation](../entries/b004-meals-below-the-recitation.md) — Custom; 208–1248 AFR
+- [The Keys Not Returned](../entries/b004-the-keys-not-returned.md) — Text; 208–1248 AFR
+- [The Basin That Will Not Clear](../entries/b004-the-basin-that-will-not-clear.md) — Phenomenon; 208–1248 AFR
+- [Mortar Reading](../entries/b004-mortar-reading.md) — Trade; 208–1248 AFR
+- [The Ninth Voice Petition](../entries/b004-the-ninth-voice-petition.md) — Dispute; 208–1248 AFR
+- [Poven of the Hinged Judgment](../entries/b015-poven-of-the-hinged-judgment.md) — Person; 1176–1248 AFR
+- [The Linked Door Theater](../entries/b015-the-linked-door-theater.md) — Place; 1176–1248 AFR
+- [The Dispersed Catalog Houses](../entries/b015-the-dispersed-catalog-houses.md) — Institution; 1176–1248 AFR
+- [The Shared Office Transition](../entries/b015-the-shared-office-transition.md) — Event; 1176–1248 AFR
+- [The Lantern of Borrowed Illumination](../entries/b015-the-lantern-of-borrowed-illumination.md) — Artifact; 1176–1248 AFR
+- [The Reference Spoken Twice](../entries/b015-the-reference-spoken-twice.md) — Custom; 1176–1248 AFR
+- [The Catalog with Broken Returns](../entries/b015-the-catalog-with-broken-returns.md) — Text; 1176–1248 AFR
+- [The Lantern Loft Bat](../entries/b015-the-lantern-loft-bat.md) — Creature; 1176–1248 AFR
+- [The Copies’ Evening Circuit](../entries/b015-the-copies-evening-circuit.md) — Route; 1176–1248 AFR
+- [The Withheld Location Clause](../entries/b015-the-withheld-location-clause.md) — Law; 1176–1248 AFR
+- [Sulev the Returning Illuminator](../entries/b015-sulev-the-returning-illuminator.md) — Person; 1176–1248 AFR
+- [The Room Behind the Catalog](../entries/b015-the-room-behind-the-catalog.md) — Place; 1176–1248 AFR
+- [The Correction Carriers](../entries/b015-the-correction-carriers.md) — Institution; 1176–1248 AFR
+- [The Catalog Seizure](../entries/b015-the-catalog-seizure.md) — Event; 1176–1248 AFR
+- [The Watching Door Mirror](../entries/b015-the-watching-door-mirror.md) — Artifact; 1176–1248 AFR
+- [The Copyist’s Correction Meal](../entries/b015-the-copyist-s-correction-meal.md) — Custom; 1176–1248 AFR
+- [The Orders from One Desk](../entries/b015-the-orders-from-one-desk.md) — Text; 1176–1248 AFR
+- [The Doors That Open Inward](../entries/b015-the-doors-that-open-inward.md) — Phenomenon; 1176–1248 AFR
+- [Lantern Panel Grinding](../entries/b015-lantern-panel-grinding.md) — Trade; 1176–1248 AFR
+- [The Shelter Reference Debate](../entries/b015-the-shelter-reference-debate.md) — Dispute; 1176–1248 AFR
+- [Salla of the Raised Tally](../entries/b022-salla-of-the-raised-tally.md) — Person; 591–1248 AFR
+- [The Victorious Unfinished Street](../entries/b022-the-victorious-unfinished-street.md) — Place; 591–1248 AFR
+- [The Highland Protection Houses](../entries/b022-the-highland-protection-houses.md) — Institution; 591–1248 AFR
+- [The Court’s Downriver Removal](../entries/b022-the-court-s-downriver-removal.md) — Event; 591–1248 AFR
+- [The Refuge Negotiator’s Cup](../entries/b022-the-refuge-negotiator-s-cup.md) — Artifact; 591–1248 AFR
+- [The Expense Held Overhead](../entries/b022-the-expense-held-overhead.md) — Custom; 591–1248 AFR
+- [The Governor’s Joined Dependencies](../entries/b022-the-governor-s-joined-dependencies.md) — Text; 591–1248 AFR
+- [The Drain Arch Weaverbird](../entries/b022-the-drain-arch-weaverbird.md) — Creature; 591–1248 AFR
+- [The Famine Coalition Road](../entries/b022-the-famine-coalition-road.md) — Route; 591–1248 AFR
+- [The Protection Is Not Succession Clause](../entries/b022-the-protection-is-not-succession-clause.md) — Law; 591–1248 AFR
+- [Mosen of the Joined Refuge](../entries/b022-mosen-of-the-joined-refuge.md) — Person; 591–1248 AFR
+- [The Old Capital Storehouse](../entries/b022-the-old-capital-storehouse.md) — Place; 591–1248 AFR
+- [The Capital Workshop Assembly](../entries/b022-the-capital-workshop-assembly.md) — Institution; 591–1248 AFR
+- [The First Royal Drain Failure](../entries/b022-the-first-royal-drain-failure.md) — Event; 591–1248 AFR
+- [The City Foundation Basket](../entries/b022-the-city-foundation-basket.md) — Artifact; 591–1248 AFR
+- [The Refuge Meal Named](../entries/b022-the-refuge-meal-named.md) — Custom; 591–1248 AFR
+- [The Street in Four Courts](../entries/b022-the-street-in-four-courts.md) — Text; 591–1248 AFR
+- [The Foundation Basket’s Dust](../entries/b022-the-foundation-basket-s-dust.md) — Phenomenon; 591–1248 AFR
+- [Capital Stone Reuse](../entries/b022-capital-stone-reuse.md) — Trade; 591–1248 AFR
+- [The Old Refuge Assessment](../entries/b022-the-old-refuge-assessment.md) — Dispute; 591–1248 AFR
+- [Pedren of the Bright Households](../entries/b024-pedren-of-the-bright-households.md) — Person; 1138–1248 AFR
+- [The Painted Crossing Quarter](../entries/b024-the-painted-crossing-quarter.md) — Place; 1138–1248 AFR
+- [The Ordered Trade Corporations](../entries/b024-the-ordered-trade-corporations.md) — Institution; 1138–1248 AFR
+- [The Order Proclamation](../entries/b024-the-order-proclamation.md) — Event; 1138–1248 AFR
+- [The Chronicler’s False Letter](../entries/b024-the-chronicler-s-false-letter.md) — Artifact; 1138–1248 AFR
+- [The Chosen Kin Supper](../entries/b024-the-chosen-kin-supper.md) — Custom; 1138–1248 AFR
+- [The Quarter’s Three Mothers](../entries/b024-the-quarter-s-three-mothers.md) — Text; 1138–1248 AFR
+- [The Pigment Well Frog](../entries/b024-the-pigment-well-frog.md) — Creature; 1138–1248 AFR
+- [The Back Rooms’ Crossing](../entries/b024-the-back-rooms-crossing.md) — Route; 1138–1248 AFR
+- [The Evidence in Full Rule](../entries/b024-the-evidence-in-full-rule.md) — Law; 1138–1248 AFR
+- [Evrin of the Contrary Margins](../entries/b024-evrin-of-the-contrary-margins.md) — Person; 1138–1248 AFR
+- [The School Behind the Dye Yard](../entries/b024-the-school-behind-the-dye-yard.md) — Place; 1138–1248 AFR
+- [The Mothers’ Care Witnesses](../entries/b024-the-mothers-care-witnesses.md) — Institution; 1138–1248 AFR
+- [The Chronicler’s Failed Accusation](../entries/b024-the-chronicler-s-failed-accusation.md) — Event; 1138–1248 AFR
+- [The Bright Mourning Curtain](../entries/b024-the-bright-mourning-curtain.md) — Artifact; 1138–1248 AFR
+- [The Correction Before Applause](../entries/b024-the-correction-before-applause.md) — Custom; 1138–1248 AFR
+- [The Regime’s Missing Assemblies](../entries/b024-the-regime-s-missing-assemblies.md) — Text; 1138–1248 AFR
+- [The Curtain’s Borrowed Faces](../entries/b024-the-curtain-s-borrowed-faces.md) — Phenomenon; 1138–1248 AFR
+- [Household Pigment Settling](../entries/b024-household-pigment-settling.md) — Trade; 1138–1248 AFR
+- [Order and the Unregistered Household](../entries/b024-order-and-the-unregistered-household.md) — Dispute; 1138–1248 AFR
+- [Khalven of the Quiet Keys](../entries/b028-khalven-of-the-quiet-keys.md) — Person; 721–1248 AFR
+- [The Four Crown Rooms](../entries/b028-the-four-crown-rooms.md) — Place; 721–1248 AFR
+- [The Individual Plot Office](../entries/b028-the-individual-plot-office.md) — Institution; 721–1248 AFR
+- [The Minister’s Interrupted Survey](../entries/b028-the-minister-s-interrupted-survey.md) — Event; 721–1248 AFR
+- [The Four Measure Tile](../entries/b028-the-four-measure-tile.md) — Artifact; 721–1248 AFR
+- [The Seed Shown Alive](../entries/b028-the-seed-shown-alive.md) — Custom; 721–1248 AFR
+- [The Crossroads Tenancy Layers](../entries/b028-the-crossroads-tenancy-layers.md) — Text; 721–1248 AFR
+- [The Glazed Jar River Eel](../entries/b028-the-glazed-jar-river-eel.md) — Creature; 721–1248 AFR
+- [The Withdrawn Stations’ Road](../entries/b028-the-withdrawn-stations-road.md) — Route; 721–1248 AFR
+- [The Soil and Channel Attachment](../entries/b028-the-soil-and-channel-attachment.md) — Law; 721–1248 AFR
+- [Storen of the Garden Survey](../entries/b028-storen-of-the-garden-survey.md) — Person; 721–1248 AFR
+- [The One Enduring Station](../entries/b028-the-one-enduring-station.md) — Place; 721–1248 AFR
+- [The Crown’s Visiting Schools](../entries/b028-the-crown-s-visiting-schools.md) — Institution; 721–1248 AFR
+- [The First Independent Planting](../entries/b028-the-first-independent-planting.md) — Event; 721–1248 AFR
+- [The Regency’s Plain Key Ring](../entries/b028-the-regency-s-plain-key-ring.md) — Artifact; 721–1248 AFR
+- [The Soil Smelled Before Naming](../entries/b028-the-soil-smelled-before-naming.md) — Custom; 721–1248 AFR
+- [The Emergency Court Returns](../entries/b028-the-emergency-court-returns.md) — Text; 721–1248 AFR
+- [The Fourth Room’s Breath](../entries/b028-the-fourth-room-s-breath.md) — Phenomenon; 721–1248 AFR
+- [Living Seed Custody](../entries/b028-living-seed-custody.md) — Trade; 721–1248 AFR
+- [The Plot Without the Gate](../entries/b028-the-plot-without-the-gate.md) — Dispute; 721–1248 AFR
+- [Huven of the Serious Game](../entries/b047-huven-of-the-serious-game.md) — Person; 976–1248 AFR
+- [The Unwritten Page Yard](../entries/b047-the-unwritten-page-yard.md) — Place; 976–1248 AFR
+- [The Open Comparison Houses](../entries/b047-the-open-comparison-houses.md) — Institution; 976–1248 AFR
+- [The Reform Coalition’s Brief Season](../entries/b047-the-reform-coalition-s-brief-season.md) — Event; 976–1248 AFR
+- [The Earlier Fiber Sheet](../entries/b047-the-earlier-fiber-sheet.md) — Artifact; 976–1248 AFR
+- [The Game May Be Left](../entries/b047-the-game-may-be-left.md) — Custom; 976–1248 AFR
+- [The Reader of Shared Play](../entries/b047-the-reader-of-shared-play.md) — Text; 976–1248 AFR
+- [The Fiber Frame Paper Midge](../entries/b047-the-fiber-frame-paper-midge.md) — Creature; 976–1248 AFR
+- [The Captive Artisans’ Return Route](../entries/b047-the-captive-artisans-return-route.md) — Route; 976–1248 AFR
+- [The Play and Oath Distinction](../entries/b047-the-play-and-oath-distinction.md) — Law; 976–1248 AFR
+- [Desven of the Strict Household](../entries/b047-desven-of-the-strict-household.md) — Person; 976–1248 AFR
+- [The Inquiry House Feast Room](../entries/b047-the-inquiry-house-feast-room.md) — Place; 976–1248 AFR
+- [The Origin Story Comparers](../entries/b047-the-origin-story-comparers.md) — Institution; 976–1248 AFR
+- [The River Battle’s Changing Allies](../entries/b047-the-river-battle-s-changing-allies.md) — Event; 976–1248 AFR
+- [The Ceramic Return Counters](../entries/b047-the-ceramic-return-counters.md) — Artifact; 976–1248 AFR
+- [The Correction Played Openly](../entries/b047-the-correction-played-openly.md) — Custom; 976–1248 AFR
+- [The Paper Before the Battle](../entries/b047-the-paper-before-the-battle.md) — Text; 976–1248 AFR
+- [The Unreturned Counter’s Weight](../entries/b047-the-unreturned-counter-s-weight.md) — Phenomenon; 976–1248 AFR
+- [Rag Fiber Preparation](../entries/b047-rag-fiber-preparation.md) — Trade; 976–1248 AFR
+- [The Discipline Without Consent](../entries/b047-the-discipline-without-consent.md) — Dispute; 976–1248 AFR
+- [The First Reckoning](../entries/the-first-reckoning.md) — Foundational event; 0–89 AFR
+- [Dry Copies and Wet Witnesses](../entries/dry-copies-and-wet-witnesses.md) — Foundational distinction; 0–1248 AFR
+- [The Mask with the Wrong Fingerprint](../entries/the-mask-with-the-wrong-fingerprint.md) — Current inquiry; 1246–1248 AFR
+- [Nine Voices at the Southern Gate](../entries/nine-voices-at-the-southern-gate.md) — Current performance and hearing; 1248 AFR
+- [The Orchard Between Two Deeds](../entries/the-orchard-between-two-deeds.md) — Current tenancy; 1245–1248 AFR
+
+[All regions](index.md) · [All entries](../index.md)

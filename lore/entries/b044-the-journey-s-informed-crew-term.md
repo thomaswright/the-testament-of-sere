@@ -1,0 +1,27 @@
+# The Journey’s Informed Crew Term
+
+*Law · Istren · Historical coverage: 1197–1248 AFR*
+
+Changed destination requires renewed consent and provision for refusal where practical. The term emerged after successful secrecy left unresolved grievances. It preserves possible exploration while rejecting the claim that safe return retroactively validates every distribution of risk.
+
+The rule’s force depends on a stated scope. It governs named acts and claimants, rather than every future disagreement that resembles its original case. Courts have nevertheless tried to extend it, usually when a narrow precedent would benefit a powerful applicant. Opponents do not have to deny ancestor law to challenge that extension. They can ask which promise was actually made, who witnessed it, and whether the required observance remains possible. The difference between a valid undertaking and a convenient assertion of authority is central to the current dispute.
+
+This belongs to The Voices Across the White Reach. A northern expedition initially planned one route, then secretly changed destination after rivals claimed its intended landmark. Its crews used sledges, stored provisions, and carefully placed depots rather than a miraculous means of movement. In 1197 they crossed the White Reach and returned, learning later that a rival party had died on its return. A valley court sponsoring the journey governed settled gardeners and mobile herders through two prestigious languages. An actor imitating many voices and a collaborative lantern troupe staged the expedition for audiences who could not travel. Their work made preparation intelligible but risked smoothing away omitted crew members and borrowed local knowledge. Current readers distinguish first arrival from the wider cooperation and losses surrounding it.
+
+In the connected record, [Amren of the Measured Return](b044-amren-of-the-measured-return.md) preserves another part of this history. The terms recorded under [The Journey’s Informed Crew Term](b044-the-journey-s-informed-crew-term.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether future journeys will fund practical depots and credit local knowledge or repeat the prestige competition that made secrecy more valuable than shared safety.
+
+Istren’s fishing villages and timber monasteries occupy a rainy coast where repairing roofs is a continuing expense rather than a finished achievement. Boats make neighboring settlements accessible when inland tracks become mud. Smokehouses, net yards, and communal ovens provide the places where people exchange reliable news. The dead are remembered through finite promises attached to landing water and particular working seasons. A claim on an abandoned beach can become dangerous when erosion moves a new household into its reach. Islanders generally test an alleged manifestation against wind, rot, and tides before paying for an interpreter.
+
+## Connected entries
+
+[The Changed Depot Line](b044-the-changed-depot-line.md) · [Amren of the Measured Return](b044-amren-of-the-measured-return.md) · [The Borrowed Snow Knowledge](b044-the-borrowed-snow-knowledge.md) · [The Feeding Is Not Ownership Clause](b043-the-feeding-is-not-ownership-clause.md) · [Ricen of the Crossing Ballads](b045-ricen-of-the-crossing-ballads.md)
+
+## Referenced by
+
+[The Two Language Valley Court](b044-the-two-language-valley-court.md) · [The Changed Depot Line](b044-the-changed-depot-line.md) · [Amren of the Measured Return](b044-amren-of-the-measured-return.md) · [Ricen of the Crossing Ballads](b045-ricen-of-the-crossing-ballads.md) · [The Sheltered Seat Landing](b045-the-sheltered-seat-landing.md) · [The Alternative Crossing Kitchens](b045-the-alternative-crossing-kitchens.md) · [The Passenger’s Refused Seat](b045-the-passenger-s-refused-seat.md) · [The Paid Fare without Shelter](b045-the-paid-fare-without-shelter.md) · [The Empty Seat Counted](b045-the-empty-seat-counted.md) · [The Ballads of the Long Walk](b045-the-ballads-of-the-long-walk.md) · [The Ferry Beam Water Rat](b045-the-ferry-beam-water-rat.md) · [The Walkers’ Shared Crossing](b045-the-walkers-shared-crossing.md) · [The Paid Passage Equality](b045-the-paid-passage-equality.md) · [Samren of the Expanding Resistance](b045-samren-of-the-expanding-resistance.md) · [The Republic’s Rival Ferry Office](b045-the-republic-s-rival-ferry-office.md) · [The Unregistered Pilots](b045-the-unregistered-pilots.md) · [The Withdrawal’s First Winter](b045-the-withdrawal-s-first-winter.md) · [The Walk Organizer’s Worn Shoes](b045-the-walk-organizer-s-worn-shoes.md) · [The Necessity Not Condemned](b045-the-necessity-not-condemned.md) · [The Republics’ Access Promises](b045-the-republics-access-promises.md) · [The Empty Seats’ Unpaid Weight](b045-the-empty-seats-unpaid-weight.md) · [Borrowed Boat Maintenance](b045-borrowed-boat-maintenance.md) · [Equality Claimed by the Commander](b045-equality-claimed-by-the-commander.md)
+
+## Inspiration
+
+[Source batch 044](../sources/batch-044.md). One of the shared cycle’s source transformations: Collaborative visual storytelling becomes a lantern troupe translating difficult journeys through handmade stage craft. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

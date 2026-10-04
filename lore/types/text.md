@@ -1,0 +1,103 @@
+# Text
+
+- [The Daughters' Petition](../entries/the-daughters-petition.md) — Vey; 777–1248 AFR
+- [The Book of Unseated Names](../entries/b002-the-book-of-unseated-names.md) — Keth; 846–1248 AFR
+- [The Refuges Compared](../entries/b002-the-refuges-compared.md) — Keth; 846–1248 AFR
+- [The Carrier’s Fright](../entries/b003-the-carrier-s-fright.md) — Namar; 731–1248 AFR
+- [The Unnamed Province Atlas](../entries/b003-the-unnamed-province-atlas.md) — Namar; 731–1248 AFR
+- [The Founding Poem in Nine Voices](../entries/b004-the-founding-poem-in-nine-voices.md) — Vey; 208–1248 AFR
+- [The Keys Not Returned](../entries/b004-the-keys-not-returned.md) — Vey; 208–1248 AFR
+- [The Songs of Turned Stone](../entries/b005-the-songs-of-turned-stone.md) — Suth; 982–1248 AFR
+- [The Gardeners’ Countercalendar](../entries/b005-the-gardeners-countercalendar.md) — Suth; 982–1248 AFR
+- [The Three Hevren Plays](../entries/b006-the-three-hevren-plays.md) — Namar; 667–1248 AFR
+- [The Bone and Place Ledger](../entries/b006-the-bone-and-place-ledger.md) — Namar; 667–1248 AFR
+- [The Color Without Rank](../entries/b007-the-color-without-rank.md) — Avel; 914–1248 AFR
+- [The Conference Afterword](../entries/b007-the-conference-afterword.md) — Avel; 914–1248 AFR
+- [The Book of Similar Jars](../entries/b008-the-book-of-similar-jars.md) — Orun; 537–1248 AFR
+- [The Harvest Status Roll](../entries/b008-the-harvest-status-roll.md) — Orun; 537–1248 AFR
+- [The Life of One Peacemaker](../entries/b009-the-life-of-one-peacemaker.md) — Istren; 1007–1248 AFR
+- [The Names Beneath the Crowd](../entries/b009-the-names-beneath-the-crowd.md) — Istren; 1007–1248 AFR
+- [The Porters’ Load Book](../entries/b010-the-porters-load-book.md) — Talassar; 758–1248 AFR
+- [The Eighteen Accounts Compared](../entries/b010-the-eighteen-accounts-compared.md) — Talassar; 758–1248 AFR
+- [The Forest’s Exclusive Grant](../entries/b011-the-forest-s-exclusive-grant.md) — Istren; 423–1248 AFR
+- [The Herald’s Side of the Match](../entries/b011-the-herald-s-side-of-the-match.md) — Istren; 423–1248 AFR
+- [The Price of the Same Basket](../entries/b012-the-price-of-the-same-basket.md) — Talassar; 1123–1248 AFR
+- [The Dismissed Reader’s Copies](../entries/b012-the-dismissed-reader-s-copies.md) — Talassar; 1123–1248 AFR
+- [Spring Behind a Damaged Wall](../entries/b013-spring-behind-a-damaged-wall.md) — Suth; 1059–1248 AFR
+- [The Court’s Hidden Costs](../entries/b013-the-court-s-hidden-costs.md) — Suth; 1059–1248 AFR
+- [The Seven Distant Instructions](../entries/b014-the-seven-distant-instructions.md) — Avel; 688–1248 AFR
+- [The Toll Repairs Not Made](../entries/b014-the-toll-repairs-not-made.md) — Avel; 688–1248 AFR
+- [The Catalog with Broken Returns](../entries/b015-the-catalog-with-broken-returns.md) — Vey; 1176–1248 AFR
+- [The Orders from One Desk](../entries/b015-the-orders-from-one-desk.md) — Vey; 1176–1248 AFR
+- [The Teacher’s Unfinished Instructions](../entries/b016-the-teacher-s-unfinished-instructions.md) — Keth; 349–1248 AFR
+- [The Empire Beyond Its Kings](../entries/b016-the-empire-beyond-its-kings.md) — Keth; 349–1248 AFR
+- [The Chart of Unclaimed Shelters](../entries/b017-the-chart-of-unclaimed-shelters.md) — Avel; 809–1248 AFR
+- [The Passenger Roster’s Margins](../entries/b017-the-passenger-roster-s-margins.md) — Avel; 809–1248 AFR
+- [The Bark’s Impossible Homeland](../entries/b018-the-bark-s-impossible-homeland.md) — Talassar; 1206–1248 AFR
+- [The Tour’s Missing Towns](../entries/b018-the-tour-s-missing-towns.md) — Talassar; 1206–1248 AFR
+- [The Drama of Seven Digging Lives](../entries/b019-the-drama-of-seven-digging-lives.md) — Keth; 1162–1248 AFR
+- [The Resigned Witnesses’ Letters](../entries/b019-the-resigned-witnesses-letters.md) — Keth; 1162–1248 AFR
+- [The Charter of No Inherited Seat](../entries/b020-the-charter-of-no-inherited-seat.md) — Suth; 943–1248 AFR
+- [The First Return Inventories](../entries/b020-the-first-return-inventories.md) — Suth; 943–1248 AFR
+- [The Plateau’s Conflicting Names](../entries/b021-the-plateau-s-conflicting-names.md) — Namar; 472–1248 AFR
+- [The Air Keeper’s Corrections](../entries/b021-the-air-keeper-s-corrections.md) — Namar; 472–1248 AFR
+- [The Governor’s Joined Dependencies](../entries/b022-the-governor-s-joined-dependencies.md) — Vey; 591–1248 AFR
+- [The Street in Four Courts](../entries/b022-the-street-in-four-courts.md) — Vey; 591–1248 AFR
+- [The Lake League’s Many Origins](../entries/b023-the-lake-league-s-many-origins.md) — Namar; 1081–1248 AFR
+- [The Envoy’s Revised Itinerary](../entries/b023-the-envoy-s-revised-itinerary.md) — Namar; 1081–1248 AFR
+- [The Quarter’s Three Mothers](../entries/b024-the-quarter-s-three-mothers.md) — Vey; 1138–1248 AFR
+- [The Regime’s Missing Assemblies](../entries/b024-the-regime-s-missing-assemblies.md) — Vey; 1138–1248 AFR
+- [The Complaints Filed as Gratitude](../entries/b025-the-complaints-filed-as-gratitude.md) — Istren; 1104–1248 AFR
+- [The Customs Returned to Keepers](../entries/b025-the-customs-returned-to-keepers.md) — Istren; 1104–1248 AFR
+- [The Lease Called a Gift](../entries/b026-the-lease-called-a-gift.md) — Avel; 969–1248 AFR
+- [The Landing Houses Not Invited](../entries/b026-the-landing-houses-not-invited.md) — Avel; 969–1248 AFR
+- [The Heat Without Household Rank](../entries/b027-the-heat-without-household-rank.md) — Keth; 1181–1248 AFR
+- [The Alliance Promises Compared](../entries/b027-the-alliance-promises-compared.md) — Keth; 1181–1248 AFR
+- [The Crossroads Tenancy Layers](../entries/b028-the-crossroads-tenancy-layers.md) — Vey; 721–1248 AFR
+- [The Emergency Court Returns](../entries/b028-the-emergency-court-returns.md) — Vey; 721–1248 AFR
+- [The Diary of Expected Courage](../entries/b029-the-diary-of-expected-courage.md) — Orun; 873–1248 AFR
+- [The Pots and Warnings Index](../entries/b029-the-pots-and-warnings-index.md) — Orun; 873–1248 AFR
+- [The Studies of Returning Harbors](../entries/b030-the-studies-of-returning-harbors.md) — Istren; 156–1248 AFR
+- [The Campaign’s Civilian Inventories](../entries/b030-the-campaign-s-civilian-inventories.md) — Istren; 156–1248 AFR
+- [The Country Behind the Shadow](../entries/b031-the-country-behind-the-shadow.md) — Suth; 631–1248 AFR
+- [The Names Before Migration](../entries/b031-the-names-before-migration.md) — Suth; 631–1248 AFR
+- [The Songs Before the Crossing](../entries/b032-the-songs-before-the-crossing.md) — Istren; 1019–1248 AFR
+- [The Collector’s Rejected Verses](../entries/b032-the-collector-s-rejected-verses.md) — Istren; 1019–1248 AFR
+- [The Neck’s Outside Bargain](../entries/b033-the-neck-s-outside-bargain.md) — Namar; 1072–1248 AFR
+- [The Abdication Fees Compared](../entries/b033-the-abdication-fees-compared.md) — Namar; 1072–1248 AFR
+- [The Lovers’ Contract Comedy](../entries/b034-the-lovers-contract-comedy.md) — Orun; 694–1248 AFR
+- [The Confined Trades’ Accounts](../entries/b034-the-confined-trades-accounts.md) — Orun; 694–1248 AFR
+- [The Restored Crown’s Shared Years](../entries/b035-the-restored-crown-s-shared-years.md) — Avel; 827–1248 AFR
+- [The Secretary’s Two Allegiances](../entries/b035-the-secretary-s-two-allegiances.md) — Avel; 827–1248 AFR
+- [The City After the Empire](../entries/b036-the-city-after-the-empire.md) — Keth; 402–1248 AFR
+- [The Capitals Not Recognized](../entries/b036-the-capitals-not-recognized.md) — Keth; 402–1248 AFR
+- [The Port’s Departing Households](../entries/b037-the-port-s-departing-households.md) — Talassar; 1041–1248 AFR
+- [The Coin and Grain Correspondence](../entries/b037-the-coin-and-grain-correspondence.md) — Talassar; 1041–1248 AFR
+- [The Kingdoms’ Marriage Routes](../entries/b038-the-kingdoms-marriage-routes.md) — Namar; 932–1248 AFR
+- [The Borrowed Capital Loans](../entries/b038-the-borrowed-capital-loans.md) — Namar; 932–1248 AFR
+- [The Founder Beyond the Epic](../entries/b039-the-founder-beyond-the-epic.md) — Suth; 779–1248 AFR
+- [The Naval Toll’s Inland Costs](../entries/b039-the-naval-toll-s-inland-costs.md) — Suth; 779–1248 AFR
+- [The Shoreline’s Seasonal Ledger](../entries/b040-the-shoreline-s-seasonal-ledger.md) — Talassar; 1214–1248 AFR
+- [The Charters Beneath One Quay](../entries/b040-the-charters-beneath-one-quay.md) — Talassar; 1214–1248 AFR
+- [The Basin Accounts Reconciled](../entries/b041-the-basin-accounts-reconciled.md) — Keth; 89–1248 AFR
+- [The First Reckoning Compared](../entries/b041-the-first-reckoning-compared.md) — Keth; 89–1248 AFR
+- [The Seven Domains’ Descent Story](../entries/b042-the-seven-domains-descent-story.md) — Keth; 1221–1248 AFR
+- [The Harbor Court’s Lost Names](../entries/b042-the-harbor-court-s-lost-names.md) — Keth; 1221–1248 AFR
+- [The Reader’s Ladder Corrected](../entries/b043-the-reader-s-ladder-corrected.md) — Namar; 1034–1248 AFR
+- [The Harbor Shortages Inland](../entries/b043-the-harbor-shortages-inland.md) — Namar; 1034–1248 AFR
+- [The White Reach Return Log](../entries/b044-the-white-reach-return-log.md) — Istren; 1197–1248 AFR
+- [The Borrowed Snow Knowledge](../entries/b044-the-borrowed-snow-knowledge.md) — Istren; 1197–1248 AFR
+- [The Ballads of the Long Walk](../entries/b045-the-ballads-of-the-long-walk.md) — Orun; 1151–1248 AFR
+- [The Republics’ Access Promises](../entries/b045-the-republics-access-promises.md) — Orun; 1151–1248 AFR
+- [The Captivity Negotiation Leaves](../entries/b046-the-captivity-negotiation-leaves.md) — Suth; 1188–1248 AFR
+- [The Town Before the Founder](../entries/b046-the-town-before-the-founder.md) — Suth; 1188–1248 AFR
+- [The Reader of Shared Play](../entries/b047-the-reader-of-shared-play.md) — Vey; 976–1248 AFR
+- [The Paper Before the Battle](../entries/b047-the-paper-before-the-battle.md) — Vey; 976–1248 AFR
+- [The Quarter’s Uncertain Losses](../entries/b048-the-quarter-s-uncertain-losses.md) — Talassar; 1232–1248 AFR
+- [The Money Forms Compared](../entries/b048-the-money-forms-compared.md) — Talassar; 1232–1248 AFR
+- [The Queen in One Account](../entries/b049-the-queen-in-one-account.md) — Orun; 1117–1248 AFR
+- [The Famine’s Several Ledgers](../entries/b049-the-famine-s-several-ledgers.md) — Orun; 1117–1248 AFR
+- [The House of the Unpaid Ancestor](../entries/b050-the-house-of-the-unpaid-ancestor.md) — Avel; 1239–1248 AFR
+- [The Bells Before the Victory](../entries/b050-the-bells-before-the-victory.md) — Avel; 1239–1248 AFR
+
+[All kinds](index.md)

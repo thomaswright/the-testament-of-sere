@@ -1,0 +1,27 @@
+# The Prayer Wagon Yard
+
+*Place · Namar · Historical coverage: 932–1248 AFR*
+
+The yard stores wheels, food, and ritual vessels in separate conditions. Visitors expect a martial shrine. Keepers show the ordinary stores first, making the general’s achievements dependent on preparation rather than an atmosphere of permanent sacred battle.
+
+The site has changed use more than once. Its surviving structures should not be read as a single intact design: one household repairs what another abandoned, and a later occupant can preserve a wall while giving its opening a different purpose. Visitors who search only for the original foundation overlook the people paying for the present roof. Custody depends on continuing access and maintenance, not merely on a persuasive genealogy. Removing an interesting object may erase evidence of a repair that explains why the place remains habitable at all.
+
+This belongs to The Wagons Beneath the Borrowed Capital. A confederation of pasture kingdoms formed through migration and intermarriage, retaining local rulers even under later outside administrations. In 932 a priest-general organized defensive wagons while continuing ritual duties, unsettling households accustomed to separating those roles. A wealthy cart-building dynasty supplied repairs and adopted eccentric dress copied as aristocratic taste. Competing generals claimed one capital, obtaining foreign recognition, loans, and customs income despite incomplete local control. The pasture kingdoms negotiated with whichever office could actually sustain a route. Present descendants inherit useful wagon techniques alongside exaggerated accounts of a single commanding state, making continuity a question of maintenance, marriage, and finite commitments rather than unchanged political unity.
+
+In the connected record, [The Paired Repair Signatures](b038-the-paired-repair-signatures.md) preserves another part of this history. The terms recorded under [The Benefited Repair Assessment](b038-the-benefited-repair-assessment.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: which recognized capital office should repay repairs ordered by rivals when every current claimant benefited from the routes kept open.
+
+The Namar passes join pasture settlements to caravan markets. Pack animals carry nearly everything that cannot be made from local stone, wool, or timber. Snow closes crossings irregularly, and a route that is short on a map may cost more food than a longer sheltered path. Hospices preserve undertakings made by travelers who never returned. Their custodians cannot assume that a visitor belongs to one sovereign or one witness tradition. A workable agreement must specify which season, which spring, and which people it protects, rather than claiming a universal welcome the stores cannot support.
+
+## Connected entries
+
+[Agnel of the Many Axles](b038-agnel-of-the-many-axles.md) · [The Paired Repair Signatures](b038-the-paired-repair-signatures.md) · [Wagon Axle Seasoning](b038-wagon-axle-seasoning.md) · [The Old Rent Meal Comparison](b037-the-old-rent-meal-comparison.md) · [Pastren of the Meeting Garden](b039-pastren-of-the-meeting-garden.md)
+
+## Referenced by
+
+[The Cart Lord’s Glove Ring](b038-the-cart-lord-s-glove-ring.md) · [Agnel of the Many Axles](b038-agnel-of-the-many-axles.md) · [The Paired Repair Signatures](b038-the-paired-repair-signatures.md)
+
+## Inspiration
+
+[Source batch 038](../sources/batch-038.md). One of the shared cycle’s source transformations: Long-lived kingdoms formed through warrior migration and intermarriage become a pasture confederation adapting beneath successive outside administrations. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

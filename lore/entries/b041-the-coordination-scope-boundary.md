@@ -1,0 +1,27 @@
+# The Coordination Scope Boundary
+
+*Law · Keth · Historical coverage: 89–1248 AFR*
+
+Shared measurement and aid do not confer general jurisdiction. New functions require explicit consent and provision. The boundary protects cooperation from expansion claims likely to make households reject a useful service simply to preserve authority over their own undertakings.
+
+The rule’s force depends on a stated scope. It governs named acts and claimants, rather than every future disagreement that resembles its original case. Courts have nevertheless tried to extend it, usually when a narrow precedent would benefit a powerful applicant. Opponents do not have to deny ancestor law to challenge that extension. They can ask which promise was actually made, who witnessed it, and whether the required observance remains possible. The difference between a valid undertaking and a convenient assertion of authority is central to the current dispute.
+
+This belongs to The Council of Faceted Water. Eighty-nine years after the First Reckoning, rival witness cities replaced a failed league with a council coordinating specific crossings, messenger routes, and famine stores. Its strongest members expected to settle every basin dispute, though they could not compel distant households without new consent. A crystal reader compared mineral facets and challenged prestigious interpretations unsupported by material structure. A basin accountant traced actual goods and work through different ledgers, exposing duplicated claims. Highland households already present for generations entered the council’s ruling dynasty after a city’s sack, preserving local practices while changing political custody. The council’s surviving useful functions remain narrower than its founders’ universal aspirations, a distinction later authorities repeatedly try to forget.
+
+In the connected record, [Stonen of the Physical Ledger](b041-stonen-of-the-physical-ledger.md) preserves another part of this history. The terms recorded under [The Coordination Scope Boundary](b041-the-coordination-scope-boundary.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether common accounts can coordinate present famine aid without allowing powerful members to claim authority over every local undertaking they measure.
+
+Keth communities inhabit chalk shelves where rainfall must be collected before it drains into inaccessible fissures. Builders maintain cistern roofs, plastered channels, and terraces with tools that families repair for generations. Burial niches compete with storage rooms for dry space. Ordinary seepage can resemble ancestral interference, so reliable testimony begins with inspecting masonry and comparing neighboring water levels. The most powerful household is seldom able to sustain a settlement alone. It depends on masons, charcoal carriers, and shepherds whose labor does not appear in the grand genealogies carved above the cistern doors.
+
+## Connected entries
+
+[The First Council Messenger Road](b041-the-first-council-messenger-road.md) · [Stonen of the Physical Ledger](b041-stonen-of-the-physical-ledger.md) · [The First Reckoning Compared](b041-the-first-reckoning-compared.md) · [The Purchase Understanding Review](b040-the-purchase-understanding-review.md) · [Liwen of the Finite Bell](b042-liwen-of-the-finite-bell.md)
+
+## Referenced by
+
+[The Named Crossing Council](b041-the-named-crossing-council.md) · [The First Council Messenger Road](b041-the-first-council-messenger-road.md) · [Stonen of the Physical Ledger](b041-stonen-of-the-physical-ledger.md) · [Liwen of the Finite Bell](b042-liwen-of-the-finite-bell.md) · [The Chamber Beneath the Cistern](b042-the-chamber-beneath-the-cistern.md) · [The Seven Domain Electors](b042-the-seven-domain-electors.md) · [The First Bell Descent](b042-the-first-bell-descent.md) · [The Inverted Bronze Bell](b042-the-inverted-bronze-bell.md) · [The Crew Named Before the Diver](b042-the-crew-named-before-the-diver.md) · [The Seven Domains’ Descent Story](b042-the-seven-domains-descent-story.md) · [The Deep Chamber Root Fish](b042-the-deep-chamber-root-fish.md) · [The Bell Rope Approach](b042-the-bell-rope-approach.md) · [The Inspection Is Not Title Rule](b042-the-inspection-is-not-title-rule.md) · [Banren of the Reclaimed Depths](b042-banren-of-the-reclaimed-depths.md) · [The Successor Harbor Court](b042-the-successor-harbor-court.md) · [The Finite Air Inspectors](b042-the-finite-air-inspectors.md) · [The Election’s Descent Celebration](b042-the-election-s-descent-celebration.md) · [The Diver’s Plain Observation Tile](b042-the-diver-s-plain-observation-tile.md) · [The Return Before the Wonder](b042-the-return-before-the-wonder.md) · [The Harbor Court’s Lost Names](b042-the-harbor-court-s-lost-names.md) · [The Sound Beyond the Bell](b042-the-sound-beyond-the-bell.md) · [Bell Rope Inspection](b042-bell-rope-inspection.md) · [The Depths and the Electorate](b042-the-depths-and-the-electorate.md) · [Dry Copies and Wet Witnesses](dry-copies-and-wet-witnesses.md)
+
+## Inspiration
+
+[Source batch 041](../sources/batch-041.md). One of the shared cycle’s source transformations: Accounting across large economies becomes reconciliation of physical goods, labor, and overlapping ledgers. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

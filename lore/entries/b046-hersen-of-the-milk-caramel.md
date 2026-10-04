@@ -1,0 +1,27 @@
+# Hersen of the Milk Caramel
+
+*Person · Suth · Historical coverage: 1188–1248 AFR*
+
+Hersen made once-costly sweets affordable through careful small-batch practice. His village and school supplied real benefits. Workers seek decisions about housing and lessons beyond his heirs’ control, distinguishing useful founding generosity from perpetual paternal authority.
+
+Later accounts make Hersen of the Milk Caramel the explanation for an entire local change. The surviving record instead places this life among dependencies: an introduction supplied by another household, materials purchased on credit, and testimony given by people with reasons of their own. A biography that removes those dependencies becomes a useful legend and a poor guide to what happened. Descendants inherit evidence and expectations, rather than the ability to repeat an ancestor’s achievement. The practical question is which part of the achievement can be maintained by ordinary people after the celebrated individual is gone.
+
+This belongs to The Sweet Town and the Captive Host. A sweetmaker built garden workshops and a boarding school using profits from milk caramel and roasted seed paste. Output remained hand made and dependent on seasonal supplies. In 1188 two generals detained the ruler during a visit, demanding an end to their internal campaign and cooperation against outside conquest. Negotiators settled the crisis, leaving the host town associated with both hospitality and coercion. A workshop reader studying repeated string vibrations demonstrated how linked instruments could share a rhythm without producing energy from nothing. The demonstration became an image for political unity, although the town’s workers preferred specific terms. Its ancient trade connections and refugee households now sustain a school seeking useful care beyond the founder’s paternal authority.
+
+In the connected record, [The Sweet Town Cooling Yard](b046-the-sweet-town-cooling-yard.md) preserves another part of this history. The terms recorded under [The Host’s Consent Distinction](b046-the-host-s-consent-distinction.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether the school can preserve food and teaching while its students gain a voice independent of the sweetmaker’s heirs and military patrons.
+
+The Suth valleys cultivate grafted orchards and irrigated gardens amid dry hills. Food production depends on precise local knowledge: when to open a channel, which rootstock tolerates mineral water, and how many hands a harvest requires. Asylum customs let strangers work under temporary names, but temporary recognition does not automatically convey inheritance. The same gardens can preserve an old promise and expose its injustice. A court that assigns water without accounting for the labor of keeping it clean may issue a valid judgment that no household can afford to obey.
+
+## Connected entries
+
+[The School Beyond the Heirs](b046-the-school-beyond-the-heirs.md) · [The Sweet Town Cooling Yard](b046-the-sweet-town-cooling-yard.md) · [The Roasted Seed Orchard Bat](b046-the-roasted-seed-orchard-bat.md) · [The Paid Passage Equality](b045-the-paid-passage-equality.md) · [Huven of the Serious Game](b047-huven-of-the-serious-game.md)
+
+## Referenced by
+
+[Ricen of the Crossing Ballads](b045-ricen-of-the-crossing-ballads.md) · [The Sheltered Seat Landing](b045-the-sheltered-seat-landing.md) · [The Alternative Crossing Kitchens](b045-the-alternative-crossing-kitchens.md) · [The Passenger’s Refused Seat](b045-the-passenger-s-refused-seat.md) · [The Paid Fare without Shelter](b045-the-paid-fare-without-shelter.md) · [The Empty Seat Counted](b045-the-empty-seat-counted.md) · [The Ballads of the Long Walk](b045-the-ballads-of-the-long-walk.md) · [The Ferry Beam Water Rat](b045-the-ferry-beam-water-rat.md) · [The Walkers’ Shared Crossing](b045-the-walkers-shared-crossing.md) · [The Paid Passage Equality](b045-the-paid-passage-equality.md) · [Samren of the Expanding Resistance](b045-samren-of-the-expanding-resistance.md) · [The Republic’s Rival Ferry Office](b045-the-republic-s-rival-ferry-office.md) · [The Unregistered Pilots](b045-the-unregistered-pilots.md) · [The Withdrawal’s First Winter](b045-the-withdrawal-s-first-winter.md) · [The Walk Organizer’s Worn Shoes](b045-the-walk-organizer-s-worn-shoes.md) · [The Necessity Not Condemned](b045-the-necessity-not-condemned.md) · [The Republics’ Access Promises](b045-the-republics-access-promises.md) · [The Empty Seats’ Unpaid Weight](b045-the-empty-seats-unpaid-weight.md) · [Borrowed Boat Maintenance](b045-borrowed-boat-maintenance.md) · [Equality Claimed by the Commander](b045-equality-claimed-by-the-commander.md) · [The Sweet Town Cooling Yard](b046-the-sweet-town-cooling-yard.md) · [The First Shared School Inspection](b046-the-first-shared-school-inspection.md) · [The School Beyond the Heirs](b046-the-school-beyond-the-heirs.md)
+
+## Inspiration
+
+[Source batch 046](../sources/batch-046.md). One of the shared cycle’s source transformations: Confectionery success, a planned town, and a boarding school become small seasonal handcraft workshops; mass production and industrial factories are excluded. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)

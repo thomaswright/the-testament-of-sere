@@ -1,0 +1,97 @@
+{
+  "batch": 16,
+  "title": "The Thread Houses After the Throne",
+  "summary": "Distributed handcraft and traveling teachers preserve a culture after imperial collapse while rival courts compete to inherit its authority.",
+  "region": "Keth",
+  "year": 349,
+  "history": "After the shelf empire fell in 349, displaced weaving households carried patterns, prayers, and water credentials to scattered settlements. A craft organizer tried to coordinate hand spinning through shared inspections and purchasing, claiming inventions actually developed by several workers. A teacher built a network of small hospices and schools whose service mattered more than agreement about his eventual return. Rival courts each recognized the culture as evidence of their own legitimate succession. Weavers used the courts’ competition to preserve local customs, although patrons restricted who could teach. Production remained dispersed, seasonal, and dependent on household labor and finite water access.",
+  "question": "whether dispersed schools can choose their own successors without losing supplies pledged through competing courts.",
+  "transformations": [
+    "Coordination of invention, purchasing, and labor becomes a disputed handcraft network; mechanized factories and industrial mass production are explicitly excluded.",
+    "A teacher’s extensive educational and social network becomes distributed service houses with contested succession expectations.",
+    "Cultural continuity across imperial and post-imperial periods becomes displaced weaving communities preserving changing traditions.",
+    "Rival courts and patron-supported cultural developments become competing shelf authorities that cannot fully control the crafts they sponsor."
+  ],
+  "rows": [
+    [
+      "Arken of the Shared Spindle",
+      "Arken coordinated wool purchases but claimed workers’ improvements as his own. Surviving spindle samples support several contributors. His descendants can preserve a useful network without retaining its flattering account of invention."
+    ],
+    [
+      "The Afterthrone Weaving Yard",
+      "Families work in separate shaded bays around one inspected cistern. Patrons propose enclosing them under one household’s authority. Workers value shared water while resisting the loss of independent schedules."
+    ],
+    [
+      "The Returning Teacher Houses",
+      "Small schools feed travelers and teach practical reading. Some expect their dead founder to return bodily. Service continues through ordinary supplies, so disagreement about his return need not decide whether a hungry visitor receives food."
+    ],
+    [
+      "The Shelf Empire’s Dissolution",
+      "Royal offices vanished while village undertakings remained active. Households discovered that political collapse did not cancel inherited water claims. Their survival required negotiated substitution rather than the simple declaration that a fallen throne had released everyone."
+    ],
+    [
+      "The Many Hands Spindle",
+      "Different repairs preserve incompatible improvements on one spindle. A prestigious label attributes all to Arken. Apprentices compare wear and maker marks, restoring credit without pretending every technique can be assigned to one identifiable origin."
+    ],
+    [
+      "The Pattern Carried Dry",
+      "Migrants keep pattern samples away from oath water so copying cannot be mistaken for consent. The distinction allows teaching across courts while preserving each household’s decision about new obligations."
+    ],
+    [
+      "The Teacher’s Unfinished Instructions",
+      "The last instructions name tasks but no sovereign successor. Custodians interpret omission as deliberate distribution of authority; claimants call it accidental. Provisioning records can establish who sustained the houses without settling the founder’s private intention."
+    ],
+    [
+      "The Chalk Wool Mite",
+      "Pale mites damage wool stored against damp chalk. Workshops once blamed foreign patterns. Separating samples from walls reduced losses, undermining an exclusionary story while retaining careful storage as a practical shared custom."
+    ],
+    [
+      "The Schools’ Pack Circuit",
+      "Pack crews carry wool, lesson leaves, and food between service houses. Their route changes with pasture and snow. Central patrons want a fixed itinerary whose apparent order would strand travelers during unsafe seasons."
+    ],
+    [
+      "The Local Successor Clause",
+      "A service house may choose a keeper able to fulfill its named tasks. Courts seek hereditary exceptions. The clause measures succession through continuing provision rather than a claimant’s resemblance to the revered founder."
+    ],
+    [
+      "Mendel of the Narrow Hospice",
+      "Mendel taught that service could precede agreement about doctrine. Later followers made admission depend on belief in his return. A preserved kitchen tally records skeptical guests he welcomed, complicating the restriction imposed in his name."
+    ],
+    [
+      "The Two Courts’ Sample Room",
+      "Both courts claim the room’s textiles as dynastic heritage. Weavers know the samples arrived through migrants from several districts. Accurate labels could preserve patron support while refusing to make a shared practice proof of exclusive sovereignty."
+    ],
+    [
+      "The Dispersed Pattern Keepers",
+      "Keepers retain local variants and compare failures during annual meetings. A court wants one authorized design. Their counterproposal distinguishes useful common inspection from the erasure of adaptations suited to different water and wool."
+    ],
+    [
+      "The Unnamed Weavers’ Petition",
+      "Workers demanded credit after improvements appeared beneath Arken’s seal. Some lacked formal household witnesses. Sample custody and supply accounts established their participation, creating a practical path to recognition beyond the founder’s patron network."
+    ],
+    [
+      "The Teacher’s Empty Chair",
+      "The chair remains available at service meals without withholding anyone’s portion. New followers propose reserving food beside it indefinitely. Keepers argue that remembrance should not turn a finite welcome into waste amid current hunger."
+    ],
+    [
+      "The Shared Failure Sample",
+      "Workshops bring one failed textile to comparison meetings. Showing mistakes threatens prestige but improves storage and dyeing. Wealthy houses display only successes, limiting how much useful knowledge their apparent generosity supplies."
+    ],
+    [
+      "The Empire Beyond Its Kings",
+      "This household history follows weaving after royal collapse. It rejects the claim that a people vanished with their sovereign. Changed names and techniques document continuity without requiring every descendant to preserve an unchanged ancient identity."
+    ],
+    [
+      "The Returning Step",
+      "Footstep-like knocks recur beside the empty chair when the cistern drains. A loose support explains several knocks, but one pattern persists after repair. Keepers record it without allowing uncertainty to suspend meals or successor elections."
+    ],
+    [
+      "Hand Spindle Coordination",
+      "Shared purchasing reduces waste but cannot eliminate seasonal labor limits. Workers accept bounded delivery agreements. Patrons seeking endless output must provide wool, food, and time rather than invoke the organizer’s legendary ingenuity."
+    ],
+    [
+      "The Succession Without a Throne",
+      "Two courts offer supplies in exchange for naming the teacher’s successor. Houses propose rotating custody and public accounts. Their choice will determine whether useful support strengthens the network or converts service into another disputed imperial inheritance."
+    ]
+  ]
+}

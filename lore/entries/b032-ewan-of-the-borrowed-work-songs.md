@@ -1,0 +1,27 @@
+# Ewan of the Borrowed Work Songs
+
+*Person · Istren · Historical coverage: 1019–1248 AFR*
+
+Ewan recorded songs carefully and altered some introductions to fit his politics. Later readers compare source singers’ words with his framing. The distinction preserves useful collecting while acknowledging that advocacy can mediate the testimony it claims merely to transmit.
+
+Later accounts make Ewan of the Borrowed Work Songs the explanation for an entire local change. The surviving record instead places this life among dependencies: an introduction supplied by another household, materials purchased on credit, and testimony given by people with reasons of their own. A biography that removes those dependencies becomes a useful legend and a poor guide to what happened. Descendants inherit evidence and expectations, rather than the ability to repeat an ancestor’s achievement. The practical question is which part of the achievement can be maintained by ordinary people after the celebrated individual is gone.
+
+This belongs to The Cold River and the Open Rehearsal. A winter commander led hungry soldiers across a cold river before they ate, hoping to answer a rival’s challenge quickly. The enemy waited fed and sheltered, with hidden troops near the crossing. Defeat became a tale of insufficient courage until supply records returned during a later policy of public hearings. A song collector gathered workers’ accounts, sometimes imposing his own political expectations on their words. A celebrated dancer who had wanted to go to sea developed restrained movements embodying hesitation and exhaustion. Their performances reopened inquiry but also became new authoritative versions. Present custodians keep rehearsal choices and original testimony separate, allowing openness to reveal evidence without pretending every public performance is an unmediated voice of the past.
+
+In the connected record, [The Unfed River Crossing](b032-the-unfed-river-crossing.md) preserves another part of this history. The terms recorded under [The Public Record Access Term](b032-the-public-record-access-term.md) delimit the local obligation; they do not grant a ruler unlimited command over the dead. The unresolved issue in 1248 is concrete: whether newly opened records will change compensation and provisioning or become another celebrated story while the same winter risks remain.
+
+Istren’s fishing villages and timber monasteries occupy a rainy coast where repairing roofs is a continuing expense rather than a finished achievement. Boats make neighboring settlements accessible when inland tracks become mud. Smokehouses, net yards, and communal ovens provide the places where people exchange reliable news. The dead are remembered through finite promises attached to landing water and particular working seasons. A claim on an abandoned beach can become dangerous when erosion moves a new household into its reach. Islanders generally test an alleged manifestation against wind, rot, and tides before paying for an interpreter.
+
+## Connected entries
+
+[The Openness Without Compensation](b032-the-openness-without-compensation.md) · [The Unfed River Crossing](b032-the-unfed-river-crossing.md) · [The Winter Landing Otter](b032-the-winter-landing-otter.md) · [The Speech Without Descent Test](b031-the-speech-without-descent-test.md) · [Igven of the Raw Drum](b033-igven-of-the-raw-drum.md)
+
+## Referenced by
+
+[Rathen of the Shared Metal](b031-rathen-of-the-shared-metal.md) · [The Hidden Country Parlor](b031-the-hidden-country-parlor.md) · [The Revived Garden Readers](b031-the-revived-garden-readers.md) · [The Negotiator’s Road Murder](b031-the-negotiator-s-road-murder.md) · [The Tale Writer’s Green Fan](b031-the-tale-writer-s-green-fan.md) · [The Borrowed Word Acknowledged](b031-the-borrowed-word-acknowledged.md) · [The Country Behind the Shadow](b031-the-country-behind-the-shadow.md) · [The Grape Trellis Moon Moth](b031-the-grape-trellis-moon-moth.md) · [The Name Carried Inland](b031-the-name-carried-inland.md) · [The Speech Without Descent Test](b031-the-speech-without-descent-test.md) · [Aulena of the Seven Gardens](b031-aulena-of-the-seven-gardens.md) · [The Suppressed School Kitchen](b031-the-suppressed-school-kitchen.md) · [The Materials Return Households](b031-the-materials-return-households.md) · [The First Purified Dictionary](b031-the-first-purified-dictionary.md) · [The Shadow Tale Door Latch](b031-the-shadow-tale-door-latch.md) · [The Teller and Writer Named](b031-the-teller-and-writer-named.md) · [The Names Before Migration](b031-the-names-before-migration.md) · [The Unpromised Shadow](b031-the-unpromised-shadow.md) · [Revival Dictionary Copying](b031-revival-dictionary-copying.md) · [The Mixed Descendants’ Place](b031-the-mixed-descendants-place.md) · [The Unfed River Crossing](b032-the-unfed-river-crossing.md) · [The First Unsealed Hearing](b032-the-first-unsealed-hearing.md) · [The Openness Without Compensation](b032-the-openness-without-compensation.md)
+
+## Inspiration
+
+[Source batch 032](../sources/batch-032.md). One of the shared cycle’s source transformations: Collection of traditional songs combined with labor politics becomes a collector whose commitments shape selection and presentation. The batch notes distinguish all four transformations; this article develops the combined fictional history.
+
+[All entries](../index.md) · [World bible](../world-bible.md)
